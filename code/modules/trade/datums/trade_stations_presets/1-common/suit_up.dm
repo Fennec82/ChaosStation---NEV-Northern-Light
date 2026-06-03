@@ -1,5 +1,5 @@
 /datum/trade_station/suit_up
-	name_pool = list("FTUTB 'Suit Up!'" = "Free Trade Union Trade Beacon 'Suit Up!'. They're broadcasting a message. \"Suits, voidsuits and more for you, traveler!\"")
+	name_pool = list("FTUTB 'Suit Up!'" = "Aster's Guild Trade Beacon 'Suit Up!'. They're broadcasting a message. \"Suits, voidsuits and more for you, traveler!\"")
 	icon_states = list("htu_station", "station")
 	uid = "suit_up"
 	tree_x = 0.66

@@ -1,7 +1,7 @@
 // Asters Guild faction posters
 /datum/poster/asters/asterite
 	name = "Voyage of The Merchants" //Eclipse Edit - Lore compliance
-	desc = "A flourished bit of symbolism representing the first Free Trade Union's great exodus from Humanity's origin, now posed to to inherit the stars themselves. At least, that's what the small text says." //Eclipse Edit - Lore compliance
+	desc = "A flourished bit of symbolism representing the first Aster's Guild's great exodus from Humanity's origin, now posed to to inherit the stars themselves. At least, that's what the small text says." //Eclipse Edit - Lore compliance
 	icon_state = "asters_asterite"
 
 /datum/poster/asters/blurb

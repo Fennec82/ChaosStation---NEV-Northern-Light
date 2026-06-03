@@ -110,7 +110,7 @@
 		//set a random date, time and location some time over the past few decades
 		T.date = "[num2text(rand(1,31))] [pick("January","February","March","April","May","June","July","August","September","October","November","December")], 24[rand(10,30)]"
 		T.time = "[rand(0,24)]:[rand(11,59)]"
-		T.source_terminal = "Free Trade Union Banking Terminal #[rand(111,1111)]"
+		T.source_terminal = "Aster's Guild Banking Terminal #[rand(111,1111)]"
 
 		M.account_number = rand(11111, 99999)
 	else

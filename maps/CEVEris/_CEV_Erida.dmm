@@ -109872,7 +109872,7 @@
 /obj/structure/table/rack,
 /obj/spawner/lowkeyrandom,
 /obj/machinery/requests_console{
-	department = "Free Trade Union";
+	department = "Aster's Guild";
 	departmentType = 3;
 	name = "Cargo RC";
 	pixel_y = 24

@@ -1743,8 +1743,8 @@
 	vendor_department = DEPARTMENT_OFFSHIP
 
 /obj/machinery/vending/style
-	name = "Free Trade Union Style-o-matic"
-	desc = "Free Trade Union vendor selling, possibly repossessed, most likely overpriced, stylish clothing."
+	name = "Aster's Guild Style-o-matic"
+	desc = "Aster's Guild vendor selling, possibly repossessed, most likely overpriced, stylish clothing."
 	product_slogans = "Highly stylish clothing for sale!;Latest fashion trends right here!"
 	product_ads = "Stylish!;Cheap!;Legal within this sector!"
 	icon_state = "style"

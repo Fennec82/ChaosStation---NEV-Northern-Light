@@ -106,7 +106,7 @@
 	You can gain desires by spending this insight at your Artist's Bench to build a work of art, this art you create vary wildly in type, quality, and value. Sell your artwork to the unwashed masses, display it in the club or give you work to the merchant to sell for a profit."
 
 	duties = "Create works of art using your insight.<br>\
-	Display your work, or sell it to the crew or the Free Trade Union for a profit.<br>\
+	Display your work, or sell it to the crew or the Aster's Guild for a profit.<br>\
 	Be in the midst of action or combat to level your insight faster."
 
 	loyalties = "You are loyal to your soul, first and foremost. You are fascinated by this cursed ship, and want to mold this interest into your works of art.<br>\

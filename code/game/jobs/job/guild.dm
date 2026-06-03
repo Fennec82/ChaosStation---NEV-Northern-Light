@@ -1,6 +1,6 @@
 //Cargo
 /datum/job/merchant
-	title = "Free Trade Union Merchant"
+	title = "Aster's Guild Merchant"
 	flag = MERCHANT
 	department = DEPARTMENT_GUILD
 	head_position = TRUE
@@ -26,7 +26,7 @@
 		STAT_MEC = 15,
 		STAT_VIG = 10
 	)
-	description = "You are the head of the local branch of Free Trade Union, and Eris's Union representative<br>\
+	description = "You are the head of the local branch of Aster's Guild, and Eris's Union representative<br>\
 A staunch entrepreneur, you are motivated by profit, for the Union and especially for yourself. You are here firstly to make as much money as you can, and secondly to keep the crew supplied. You can order things at cargo using the local Union funds, these will not magically replenish so you will run out of money quickly if you don't charge. Take payments by card or cash, and deposit them into the Union account to enable more purchases.<br>\
 
 
@@ -75,7 +75,7 @@ Your second loyalty is to the Union. Ensure it retains good relations with priva
 	faction = "CEV Eris"
 	total_positions = 3
 	spawn_positions = 3
-	supervisors = "the Free Trade Union Merchant"
+	supervisors = "the Aster's Guild Merchant"
 	selection_color = "#c3b9a6"
 	also_known_languages = list(LANGUAGE_JIVE = 100)
 	wage = WAGE_LABOUR_DUMB
@@ -102,7 +102,7 @@ Your second loyalty is to the Union. Ensure it retains good relations with priva
 							 /datum/computer_file/program/reports)
 
 
-	description = "You are a low ranking member of the Free Trade Union, and an apprentice to the local merchant.  You may one day take over his position. You are equal parts scavenger, loader, shopkeeper and salesman. Remember the union's core role here. To keep everyone supplied with everything they could need, and to profit from this endeavour<br>\
+	description = "You are a low ranking member of the Aster's Guild, and an apprentice to the local merchant.  You may one day take over his position. You are equal parts scavenger, loader, shopkeeper and salesman. Remember the union's core role here. To keep everyone supplied with everything they could need, and to profit from this endeavour<br>\
 <br>\
 Your main duties are to keep the local Union branch operational and profitable. To that end you should look out for all of the following tasks:"
 
@@ -128,14 +128,14 @@ Your main duties are to keep the local Union branch operational and profitable. 
 	faction = "CEV Eris"
 	total_positions = 4
 	spawn_positions = 4
-	supervisors = "the Free Trade Union Merchant"
+	supervisors = "the Aster's Guild Merchant"
 	selection_color = "#c3b9a6"
 	wage = WAGE_LABOUR_HAZARD //The miners union is stubborn
 	also_known_languages = list(LANGUAGE_JIVE = 100)
 
 	outfit_type = /decl/hierarchy/outfit/job/cargo/mining
 
-	description = "You are an asteroid miner, working in resource Procurement for the local branch of the Free Trade Union.<br>\
+	description = "You are an asteroid miner, working in resource Procurement for the local branch of the Aster's Guild.<br>\
 Your primary responsibility is to head out on the Mining Barge, and dig up as much ore as you can on an asteroid. The barge contains all the facilities to process that ore too, and allows you to deliver refined materials ready for use.<br>\
 <br>\
 All the stuff you dig up goes to the Union, and from then on it's the merchant's responsibility to sell it to other departments. <br>\
@@ -209,7 +209,7 @@ Character Expectations:<br>\
 							 /datum/computer_file/program/wordprocessor,
 							 /datum/computer_file/program/reports)
 
-	description = "You are a creative soul aboard this vessel. You have been contracted by the Free Trade Union to create masterful works of art to be sold at mind-boggling prices... and something about the CEV Eris and it's doomed journey sparks the fire of creation within you.<br>\
+	description = "You are a creative soul aboard this vessel. You have been contracted by the Aster's Guild to create masterful works of art to be sold at mind-boggling prices... and something about the CEV Eris and it's doomed journey sparks the fire of creation within you.<br>\
 	You do not gain desires like other members of the crew. Instead, you stop gaining insight once you max out at 100 points.<br>\
 	You can gain desires by spending this insight at your Artist's Bench to build a work of art, this art you create vary wildly in type, quality, and (most importantly, in the eyes of the Merchant) value. Sell your artwork to the unwashed masses, or give you work to the merchant to sell for a profit."
 

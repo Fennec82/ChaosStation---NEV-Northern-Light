@@ -5,7 +5,7 @@
 	slot = "armband"
 
 /obj/item/clothing/accessory/armband/cargo
-	name = "\improper Free Trade Union armband"
+	name = "\improper Aster's Guild armband"
 	desc = "An armband, worn by the crew to display which corporation they're assigned to. This one is brown."
 	icon_state = "cargo"
 

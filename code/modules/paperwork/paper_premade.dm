@@ -308,11 +308,11 @@
 /obj/item/paper/self_pacification
 	name = "Self-Pacification and You!"
 	info = {"\[h1\]\[center\]\[b\]Self-Pacification and You!\[/b\]\[/center\]\[/h1\]
-	As pursuant to \[b\]\"NanoTrasen Property Rights For Detainees\"\[/b\], \[b\]Free Trade Union's \"Assembly Upon The Definition of Aggression\"\[/b\], and the good initiative of \[b\]Aegis Command\[/b\]; these steps have been laid to better actuate your personal property rights while within indefinite detainment:
+	As pursuant to \[b\]\"NanoTrasen Property Rights For Detainees\"\[/b\], \[b\]Aster's Guild's \"Assembly Upon The Definition of Aggression\"\[/b\], and the good initiative of \[b\]Aegis Command\[/b\]; these steps have been laid to better actuate your personal property rights while within indefinite detainment:
 
 	\[b\]1.\[/b\] That those detained have access to nourishment necessary to maintain the active status of their person.
 	\[b\]2.\[/b\] That those detained have right to be free from aggression, unprovoked harassment, and must be provided the means to be so.
-	\[b\]3.\[/b\] That those detained have the right to voluntarily leave detainment, under the Solgov principles we hold, and uphold under the Free Trade Union.
+	\[b\]3.\[/b\] That those detained have the right to voluntarily leave detainment, under the Solgov principles we hold, and uphold under the Aster's Guild.
 
 	\[small\]\[b\]NOTICE:\[/b\] Engaging in Anti-Depressive Self-Pacification Treatment is non-pursuant to proprty rights if your person is the property of another. You \[b\]WILL be fined\[/b\] if you engage in self-pacification \[b\]post-mortem or otherwise\[/b\], your property manager may also consenquently enact punitive financial measures. \
 	\"Cruciformed\" assets (assuming positive consent of conversion) are considered property of The Church of Neotheology, and are \[b\]not\[/b\] eligible for this social program. Your hosting Dispute Resolution Organization may further detain your cruciform in the event of self-pacification as an additional punitive measure.\[/small\]

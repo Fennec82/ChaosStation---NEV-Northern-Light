@@ -2,7 +2,7 @@
 //Knives
 /obj/item/tool/knife
 	name = "kitchen knife"
-	desc = "A general purpose Chef's Knife made by the Free Trade Union. Guaranteed to stay sharp for years to come."
+	desc = "A general purpose Chef's Knife made by the Aster's Guild. Guaranteed to stay sharp for years to come."
 	icon = 'icons/obj/kitchen.dmi'
 	icon_state = "knife"
 	description_info = "Could be attached to a gun"

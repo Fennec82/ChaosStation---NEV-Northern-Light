@@ -7383,7 +7383,7 @@
 /area/centcom/raider_base)
 "JQ" = (
 /obj/machinery/door/airlock/command{
-	name = "Free Trade Union Executive Member";
+	name = "Aster's Guild Executive Member";
 	req_access = list(101)
 	},
 /turf/simulated/floor/carpet/bcarpet,

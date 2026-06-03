@@ -578,8 +578,8 @@
 	icon_state = "wall_cross_gold"
 
 /obj/structure/sign/faction/astersguild
-	name = "Free Trade Union"
-	desc = "The Free Trade Union - monopolists of far space transportation."
+	name = "Aster's Guild"
+	desc = "The Aster's Guild - monopolists of far space transportation."
 	icon_state = "astersguild"
 
 /obj/structure/sign/faction/technomancers

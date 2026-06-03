@@ -444,7 +444,7 @@
 //No access restrictions for easier use.
 /datum/computer_file/report/recipient/nt/sales
 	form_name = "FTU-2192"
-	title = "Free Trade Union Sales Contract and Receipt"
+	title = "Aster's Guild Sales Contract and Receipt"
 	available_on_ntnet = 1
 
 /datum/computer_file/report/recipient/nt/sales/generate_fields()
