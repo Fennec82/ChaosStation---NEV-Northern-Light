@@ -16,8 +16,8 @@ Your body is ever changing, you should start by evolving a chemical vessel to us
 maw can be a good way to earn evolution points.\n\n\
 You can complete contracts to grow stronger until the entire ship is your plaything. Be patient, a slow,\
 methodical approach is recommended.\n\
-Your enemies are many, and your disguise will not hold up to an in-depth scan. Beware of the Children\
-of Mekhane in particular, who are protected from your infection spiders, and may be able to identify\
+Your enemies are many, and your disguise will not hold up to an in-depth scan. Beware of the Church\
+of Neotheology in particular, who are protected from your infection spiders, and may be able to identify\
 and out you before you are ready.\n\n\
 You won�t find many friends here, but spiders are one of them. If you feel alone, you can always give\
 birth to your own children, or search the ship for your brothers and sisters."

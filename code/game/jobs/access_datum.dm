@@ -440,13 +440,13 @@
 /var/const/access_nt_disciple = 70
 /datum/access/nt_disciple
 	id = access_nt_disciple
-	desc = "Mekhane Disciple"
+	desc = "Neotheology Disciple"
 	region = ACCESS_REGION_CHURCH
 
 /var/const/access_nt_acolyte = 71
 /datum/access/nt_acolyte
 	id = access_nt_acolyte
-	desc = "Mekhane Acolyte"
+	desc = "Neotheology Acolyte"
 	region = ACCESS_REGION_CHURCH
 
 /var/const/access_nt_custodian = 72
@@ -464,13 +464,13 @@
 /var/const/access_nt_preacher = 74
 /datum/access/nt_preacher
 	id = access_nt_preacher
-	desc = "Mekhane Preacher"
+	desc = "Neotheology Preacher"
 	region = ACCESS_REGION_CHURCH
 
 /var/const/access_nt_inquisitor = 75
 /datum/access/nt_inquisitor
 	id = access_nt_inquisitor
-	desc = "Mekhane  Inquisitor"
+	desc = "Neotheology  Inquisitor"
 	region = ACCESS_REGION_CHURCH
 
 /****************

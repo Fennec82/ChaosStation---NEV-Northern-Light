@@ -1,7 +1,7 @@
 GLOBAL_LIST_EMPTY(all_obelisk)
 
 /obj/machinery/power/nt_obelisk
-	name = "Mekhane obelisk"
+	name = "Neotheology obelisk"
 	desc = "The obelisk."
 	icon = 'icons/obj/neotheology_machinery.dmi'
 	icon_state = "nt_obelisk"

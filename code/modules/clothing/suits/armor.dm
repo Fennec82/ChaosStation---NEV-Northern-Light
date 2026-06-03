@@ -600,7 +600,7 @@
 
 /obj/item/clothing/suit/armor/crusader
 	name = "crusader armor"
-	desc = "Mekhane will protect those who defend Its faith."
+	desc = "Neotheology will protect those who defend Its faith."
 	icon_state = "crusader_suit"
 	item_state = "crusader_suit"
 	matter = list(MATERIAL_BIOMATTER = 25, MATERIAL_PLASTEEL = 10, MATERIAL_STEEL = 15, MATERIAL_GOLD = 2)

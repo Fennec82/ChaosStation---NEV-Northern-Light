@@ -55,7 +55,7 @@
 	channels = list("Medical" = 1)
 
 /obj/item/device/encryptionkey/headset_church
-	name = "Mekhane radio encryption key"
+	name = "Neotheology radio encryption key"
 	icon_state = "nt_cypherkey"
 	channels = list("NT Voice" = 1)
 
@@ -121,7 +121,7 @@
 	channels = list("Supply" = 1, "Command" = 1)
 
 /obj/item/device/encryptionkey/heads/preacher
-	name = "Mekhane Preacher radio encryption key"
+	name = "Neotheology Preacher radio encryption key"
 	icon_state = "preach_cypherkey"
 	channels = list("NT Voice" = 1, "Command" = 1)
 

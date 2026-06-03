@@ -3,9 +3,9 @@
 var/list/disciples = list()
 
 /obj/item/implant/core_implant/cruciform
-	name = "Mekhanite Cruciform"
+	name = "Neotheology Cruciform"
 	icon_state = "cruciform_green"
-	desc =  "Soul holder for every disciple. With the proper rituals, this can be implanted to induct a believer into the very heart of Mekhane."
+	desc =  "Soul holder for every disciple. With the proper rituals, this can be implanted to induct a believer into the very heart of Neotheology."
 //	description_info = "The cruciform ensures genetic purity, it will purge any cybernetic attachments, or mutation that are not part of the standard human genome"
 	matter = list(MATERIAL_BIOMATTER = 10, MATERIAL_PLASTEEL = 5, MATERIAL_GOLD = 2)
 	allowed_organs = list(BP_CHEST)
@@ -163,7 +163,7 @@ var/list/disciples = list()
 	if(!wearer || !activated)
 		return FALSE
 	var/datum/core_module/cruciform/cloning/data = get_module(CRUCIFORM_CLONING)
-	//if(wearer.dna.unique_enzymes == data.dna.unique_enzymes) Mekhanites are ultratranshumanists - Eclipse edit
+	//if(wearer.dna.unique_enzymes == data.dna.unique_enzymes) Neotheologys are ultratranshumanists - Eclipse edit
 /*	for(var/mob/M in GLOB.player_list)
 		if(M.ckey == data.ckey)
 			if(M.stat != DEAD)

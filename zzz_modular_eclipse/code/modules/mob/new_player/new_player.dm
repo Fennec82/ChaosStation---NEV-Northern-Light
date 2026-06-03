@@ -4,7 +4,7 @@
 
 /mob/new_player/proc/new_player_panel_eclipse_proc()
 	var/output = "<font size=2>Congratulations! You have been granted the luxury to voyage into the unknown on the <B><u>CEV Eris</B></u>, one of <B>NanoTrasen's</B> newly refurbished state-of-the-art exploration and scientific survey vessels. Whether you're a NanoTrasen crew member, \
-	 a disciple of Mekhane, an Aegis Merc, a Free Trade swabbie or a Lazarus Doctor, welcome!"
+	 a disciple of Neotheology, an Aegis Merc, a Free Trade swabbie or a Lazarus Doctor, welcome!"
 	output += "<br>"
 	output += "<br>"
 	output += "Not every system is fully tested or optimized... and there are some unexplored deckspaces that we didn't have time to clear out. There's also a very minor roach problem, but that's nothing that will interfere with your mission."

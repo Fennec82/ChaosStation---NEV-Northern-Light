@@ -1,7 +1,7 @@
 /obj/item/gun/energy/nt_svalinn
 	name = "\improper NT LHG S \"Svalinn\""  //Eclipse Edit - gun names standardized
 
-	desc = "A \"Mekhane\" brand laser pistol manufactured by the Church of Neotheology. Small and easily concealable, it still packs a reasonable punch for a laser weapon."
+	desc = "A \"Neotheology\" brand laser pistol manufactured by the Church of Neotheology. Small and easily concealable, it still packs a reasonable punch for a laser weapon."
 
 	icon = 'icons/obj/guns/energy/nt_svalinn.dmi'
 	icon_state = "nt_svalinn"

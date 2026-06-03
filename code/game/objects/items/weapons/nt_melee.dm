@@ -1,6 +1,6 @@
 //Warning! If you change icon_state or item_state, make sure you change path for sneath as well. icons/obj/sneath.dmi
 /obj/item/tool/sword/nt // not supposed to be in the game, had to make the shortsword its own type to prevent fucking up the scourge. sorry.
-	name = "\improper Shortsword of the Mekhane"
+	name = "\improper Shortsword of Neotheology"
 	desc = "A saintly-looking sword forged to do God's work."
 	icon = 'icons/obj/nt_melee.dmi'
 	icon_state = "nt_shortsword"
@@ -22,7 +22,7 @@
 		embed_mult = initial(embed_mult)
 
 /obj/item/tool/sword/nt/shortsword
-	name = "\improper Gladius of the Mekhane"
+	name = "\improper Gladius of Neotheology"
 	desc = "A saintly-looking sword forged to do God's work."
 	icon = 'icons/obj/nt_melee.dmi'
 	icon_state = "nt_shortsword"
@@ -38,7 +38,7 @@
 
 
 /obj/item/tool/sword/nt/longsword
-	name = "\improper Spatha of the Mekhane"
+	name = "\improper Spatha of Neotheology"
 	desc = "This saintly-looking longsword is the first choice of experienced crusaders."
 	icon_state = "nt_longsword"
 	item_state = "nt_longsword"
@@ -50,7 +50,7 @@
 
 
 /obj/item/tool/knife/dagger/nt
-	name = "\improper Dagger of the Mekhane"
+	name = "\improper Dagger of Neotheology"
 	desc = "A saintly-looking dagger. May God have mercy."
 	icon = 'icons/obj/nt_melee.dmi'
 	icon_state = "nt_dagger"
@@ -71,7 +71,7 @@
 
 
 /obj/item/tool/sword/nt/halberd
-	name = "\improper Halebarda of the Mekhane"
+	name = "\improper Halberd of Neotheology"
 	desc = "A saintly-looking halberd for emergency situations."
 	icon_state = "nt_halberd"
 	item_state = "nt_halberd"
@@ -88,7 +88,7 @@
 	matter = list(MATERIAL_BIOMATTER = 80, MATERIAL_STEEL = 8, MATERIAL_WOOD = 10, MATERIAL_PLASTEEL = 2)
 
 /obj/item/tool/sword/nt/scourge
-	name = "\improper Scourge of the Mekhane"
+	name = "\improper Scourge of Neotheology"
 	desc = "A saintly-looking whip that can be extended for more pain."
 	icon_state = "nt_scourge"
 	item_state = "nt_scourge"
@@ -146,7 +146,7 @@
 		O.say(pick("OH", "LORD", "MERCY", "SPARE", "ME", "HAVE", "PLEASE"))
 
 /obj/item/tool/sword/nt/spear
-	name = "\improper Pilum of the Mekhane"
+	name = "\improper Pilum of Neotheology"
 	desc = "A long, saintly-looking spear for throwing or use with a shield. The spear-tip usually deforms after being thrown at a target, but it can be hammered into shape again."
 	icon_state = "nt_spear"
 	item_state = "nt_spear"
@@ -211,7 +211,7 @@
 			return
 
 /obj/item/shield/riot/nt
-	name = "\improper Scutum of the Mekhane"
+	name = "\improper Scutum of Neotheology"
 	desc = "A saintly-looking shield. Too heavy to be held upright while running. The leather straps on the back can hold melee weapons."
 	icon = 'icons/obj/nt_melee.dmi'
 	icon_state = "nt_shield"
@@ -272,7 +272,7 @@
 		..()
 
 /obj/item/shield/buckler/nt
-	name = "Mekhanite Parma"
+	name = "Neotheology Parma"
 	desc = "A round shield adorned with a golden trim. The leather straps on the back can hold a melee weapon."
 	icon = 'icons/obj/nt_melee.dmi'
 	icon_state = "nt_buckler"
@@ -333,7 +333,7 @@
 		..()
 
 /obj/item/stack/thrown/nt
-	name = "Mekhanite Throwing knife"
+	name = "Neotheology Throwing knife"
 	desc = "A saintly-looking sword forged to do Machine\'s distant work."
 	icon_state = "nt_shortsword"
 	item_state = "nt_shortsword"
@@ -354,12 +354,12 @@
 		embed_mult = initial(embed_mult)
 
 /obj/item/stack/thrown/nt/verutum
-	name = "Mekhanite Verutum"
+	name = "Neotheology Verutum"
 	desc = "A short, saintly-looking javelin for throwing or use with a shield. They are small enough to allow holding multiple in one hand."
 	icon_state = "nt_verutum"
 	item_state = "nt_verutum"
-	singular_name = "Mekhanite Verutum"
-	plural_name = "Mekhanite Veruta"
+	singular_name = "Neotheology Verutum"
+	plural_name = "Neotheology Veruta"
 	wielded_icon = "nt_verutum_wielded"
 	force = 20
 	force_wielded_multiplier = 1.08

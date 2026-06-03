@@ -83,7 +83,7 @@
 	rarity_value = 5
 
 /obj/item/tool/knife/neotritual
-	name = "Mekhane ritual knife"
+	name = "Neotheology ritual knife"
 	desc = "The sweet embrace of mercy, for relieving the soul from a tortured vessel."
 	icon = 'icons/obj/weapons.dmi'
 	icon_state = "neot-knife"

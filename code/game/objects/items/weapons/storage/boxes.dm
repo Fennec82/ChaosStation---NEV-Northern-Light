@@ -555,7 +555,7 @@
 	prespawned_content_type = /obj/item/computer_hardware/hard_drive/portable/basic
 
 /obj/item/storage/box/headset_church
-	name = "mekhane radio encryption key box"
+	name = "neotheology radio encryption key box"
 	illustration = "disk"
 	prespawned_content_amount = 7
 	prespawned_content_type = /obj/item/device/encryptionkey/headset_church

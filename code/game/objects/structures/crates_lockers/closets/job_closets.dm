@@ -123,7 +123,7 @@
 	new /obj/item/clothing/shoes/jackboots/neotheology(src)
 /obj/structure/closet/acolyte
 	name = "acolyte closet"
-	desc = "A closet for those that work with the machines of Mekhane." //Eclipse Edit.
+	desc = "A closet for those that work with the machines of Neotheology." //Eclipse Edit.
 	icon_state = "acolyte"
 
 /obj/structure/closet/acolyte/populate_contents()

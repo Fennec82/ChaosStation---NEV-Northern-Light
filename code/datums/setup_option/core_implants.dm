@@ -1,8 +1,8 @@
 /datum/category_item/setup_option/core_implant/cruciform
-	name = "Mekhanite Cruciform"
+	name = "Neotheology Cruciform"
 	desc = "Deus Ex Anima. A marvelous confection of modern technology, the Cruciform <br>\
 	allows a faithful acolyte to retain their mind in soul even in death.<br>\
-	Signifies your dedication and loyalty to Children of The Mekhane."
+	Signifies your dedication and loyalty to Neotheology."
 	implant_type = /obj/item/implant/core_implant/cruciform
 	restricted_depts = IRONHAMMER | COMMAND | MEDICAL | SCIENCE
 	allowed_depts = CHURCH

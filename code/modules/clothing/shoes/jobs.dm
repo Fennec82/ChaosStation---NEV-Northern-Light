@@ -37,7 +37,7 @@
 
 /obj/item/clothing/shoes/jackboots/neotheology
 	name = "custodian's jackboots"
-	desc = "Specially altered jackboots for Mekhane custodians to prevent them from slipping."
+	desc = "Specially altered jackboots for Neotheology custodians to prevent them from slipping."
 	icon_state = "jackboots"
 	item_state = "jackboots"
 	force = WEAPON_FORCE_HARMLESS

@@ -1,4 +1,4 @@
-//Mekhane musket/pistol
+//Neotheology musket/pistol
 /datum/design/bioprinter/nt_guns/paladin
 	name = "MA LG \"Paladin\""
 	build_path = /obj/item/gun/energy/laser/paladin

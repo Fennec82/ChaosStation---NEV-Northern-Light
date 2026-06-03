@@ -91,11 +91,11 @@
 	materials = list(MATERIAL_BIOMATTER = 20)
 
 /datum/design/bioprinter/belt/utility
-	name = "Mekhane utility belt"
+	name = "Neotheology utility belt"
 	build_path = /obj/item/storage/belt/utility/neotheology
 
 /datum/design/bioprinter/belt/security
-	name = "Mekhane tactical belt"
+	name = "Neotheology tactical belt"
 	build_path = /obj/item/storage/belt/tactical/neotheology
 
 /datum/design/bioprinter/backpack
@@ -150,7 +150,7 @@
 	materials = list(MATERIAL_BIOMATTER = 30)
 
 /datum/design/bioprinter/belt/utility/neotheology
-	name = "Mekhane utility belt"
+	name = "Neotheology utility belt"
 	build_path = /obj/item/storage/belt/utility/neotheology
 
 /datum/design/bioprinter/belt/medical
@@ -158,7 +158,7 @@
 	build_path = /obj/item/storage/belt/medical
 
 /datum/design/bioprinter/belt/security/neotheology
-	name = "Mekhane tactical belt"
+	name = "Neotheology tactical belt"
 	build_path = /obj/item/storage/belt/tactical/neotheology
 
 /datum/design/bioprinter/belt/medical/emt
@@ -269,7 +269,7 @@
 	factions = list(FACTION_NEOTHEOLOGY)
 
 /datum/design/autolathe/firstaid/nt
-	name = "Mekhane Medkit"
+	name = "Neotheology Medkit"
 	build_path = /obj/item/storage/firstaid/nt
 	factions = list(FACTION_NEOTHEOLOGY)
 
@@ -309,27 +309,27 @@
 //[MELEE]
 /datum/design/autolathe/nt/sword/nt_sword
 
-	name = "Mekhane Shortsword"
+	name = "Neotheology Shortsword"
 	build_path = /obj/item/tool/sword/nt/shortsword
 
 /datum/design/autolathe/nt/sword/nt_longsword
-	name = "Mekhane Longsword"
+	name = "Neotheology Longsword"
 	build_path = /obj/item/tool/sword/nt/longsword
 
 /datum/design/autolathe/nt/sword/nt_dagger
-	name = "Mekhane Dagger"
+	name = "Neotheology Dagger"
 	build_path = /obj/item/tool/knife/dagger/nt
 
 /datum/design/autolathe/nt/sword/nt_halberd
-	name = "Mekhane Halberd"
+	name = "Neotheology Halberd"
 	build_path = /obj/item/tool/sword/nt/halberd
 
 /datum/design/autolathe/nt/sword/nt_scourge
-	name = "Mekhane Scourge"
+	name = "Neotheology Scourge"
 	build_path = /obj/item/tool/sword/nt/scourge
 
 /datum/design/autolathe/nt/shield/nt_shield
-	name = "Mekhane Shield"
+	name = "Neotheology Shield"
 
 	build_path = /obj/item/shield/riot/nt
 
@@ -381,7 +381,7 @@
 	build_path = /obj/item/clothing/head/armor/helmet/crusader
 
 /datum/design/autolathe/clothing/NTvoid
-	name = "\improper Mekhanite Voidsuit"
+	name = "\improper Neotheology Voidsuit"
 	build_path = /obj/item/clothing/suit/space/void/NTvoid
 	factions = list(FACTION_NEOTHEOLOGY)
 

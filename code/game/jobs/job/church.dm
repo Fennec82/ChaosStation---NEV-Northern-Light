@@ -1,5 +1,5 @@
 /datum/job/chaplain
-	title = "Mekhane Preacher"
+	title = "Neotheology Preacher"
 	flag = CHAPLAIN
 	head_position = 1
 	department = DEPARTMENT_CHURCH
@@ -7,7 +7,7 @@
 	faction = "CEV Eris"
 	total_positions = 1
 	spawn_positions = 1
-	supervisors = "The Mekhanite Council"
+	supervisors = "The Neotheology Council"
 	selection_color = "#ecd37d"
 	also_known_languages = list(LANGUAGE_LATIN = 100)
 	security_clearance = CLEARANCE_CLERGY
@@ -42,9 +42,9 @@
 		CRUCIFORM_REDLIGHT
 	)
 
-	description = "You are the head of a local branch of the Church of the Church of Neotheology. You represent the church's interests aboard the CEV Eris, as well as the interests of Mekhane disciples among the crew. The church is a major contributor to the funding of the Eris's mission, and demands respect.<br>\
+	description = "You are the head of a local branch of the Church of the Church of Neotheology. You represent the church's interests aboard the CEV Eris, as well as the interests of Neotheology disciples among the crew. The church is a major contributor to the funding of the Eris's mission, and demands respect.<br>\
 	<br>\
-	Your duties aboard the ship may not seem so important to its mission, but they have greater significance in the galaxy as a whole. As well as a more immediate significance to the morale of the crew, especially the followers of the Mekhane.<br>\
+	Your duties aboard the ship may not seem so important to its mission, but they have greater significance in the galaxy as a whole. As well as a more immediate significance to the morale of the crew, especially the followers of the Neotheology.<br>\
 	<br>\
 	Sometimes the Church will deploy Inquisitors to remote outposts like this, to serve its interests. When one is on the Eris, you will generally be their point of contact. Inquisitors outrank you and you should follow all of their instructions without question. Inquisitors work in secret, and so you should not discuss their presence with anyone unless they permit it.<br>\
 	<br>\
@@ -52,12 +52,12 @@
 	When the mood is dour, when all hope is lost, it falls to you to be a spiritual leader. Preach to the flock, inspire faith and strength in their hearts. The rituals in your book can also offer more tangible assistance in labour and combat.<br>\
 	Even when times are bright, do your best to keep it that way. Tour the ship, offering support to those in need. A prayer in the right ear, a helping hand, or a shoulder to cry on, can do wonders. And people are most vulnerable to conversion when they are at their weakest.<br>\
 	<br>\
-	For those who reject the words of Mekhane, all is not lost. Your cloning services are not inclusive to the faithful, though they may have priority in a crisis. For those that refuse Mekhane's cloning rituals, the best that can be offered is a dignified funeral. The chapel area contains coffins and machinery to commit the dead unto the void. Burial at space. Any player who is given a proper funeral will have their respawn time reduced, allowing them to rejoin the crew as a new character more quickly, after death.<br>\
+	For those who reject the words of Neotheology, all is not lost. Your cloning services are not inclusive to the faithful, though they may have priority in a crisis. For those that refuse Neotheology's cloning rituals, the best that can be offered is a dignified funeral. The chapel area contains coffins and machinery to commit the dead unto the void. Burial at space. Any player who is given a proper funeral will have their respawn time reduced, allowing them to rejoin the crew as a new character more quickly, after death.<br>\
 	<br>\
-	Above all else, remember that Mekhane is a religion of tolerance."
+	Above all else, remember that Neotheology is a religion of tolerance."
 
 
-	duties = "Represent the interests of the Mekhanite Council and your fellow disciples aboard the CEV Eris. Protect them from persecution and speak for them.<br>\
+	duties = "Represent the interests of the Neotheology Council and your fellow disciples aboard the CEV Eris. Protect them from persecution and speak for them.<br>\
 		Hold mass, give sermons, preach to the faithful, and lead group ritual sessions.<br>\
 		Try to protect sapient life in all its myriad forms, especially the Vagabond for they are epitome of the downtrodden here.<br>\
 		Recover and clone the dead, for all sapient life is precious.<br>\
@@ -71,14 +71,14 @@
 	join_tag = /datum/job/chaplain
 
 /datum/job/acolyte
-	title = "Mekhane Acolyte"
+	title = "Neotheology Acolyte"
 	flag = ACOLYTE
 	department = DEPARTMENT_CHURCH
 	department_flag = CHURCH
 	faction = "CEV Eris"
 	total_positions = 4
 	spawn_positions = 4
-	supervisors = "the Mekhane Preacher"
+	supervisors = "the Neotheology Preacher"
 	selection_color = "#ecd37d"
 	also_known_languages = list(LANGUAGE_LATIN = 100)
 	security_clearance = CLEARANCE_COMMON
@@ -102,7 +102,7 @@
 	<br>\
 	Though more may be required of you, should your Preacher so chose.<br>\
 	<br>\
-	Above all else, remember that Mekhane is a religion of tolerance."
+	Above all else, remember that Neotheology is a religion of tolerance."
 
 	duties = "Serve the Preacher's will.<br>\
 	Assist in cloning the dead, for all sapient life is precious."
@@ -110,20 +110,20 @@
 	setup_restricted = TRUE
 
 /obj/landmark/join/start/acolyte
-	name = "Mekhane Acolyte"
+	name = "Neotheology Acolyte"
 	icon_state = "player-black"
 	join_tag = /datum/job/acolyte
 
 
 /datum/job/hydro
-	title = "Mekhane Agrolyte"
+	title = "Neotheology Agrolyte"
 	flag = BOTANIST
 	department = DEPARTMENT_CHURCH
 	department_flag = CHURCH
 	faction = "CEV Eris"
 	total_positions = 3
 	spawn_positions = 3
-	supervisors = "the Mekhane Preacher"
+	supervisors = "the Neotheology Preacher"
 	selection_color = "#ecd37d"
 	//alt_titles = list("Hydroponicist")
 	also_known_languages = list(LANGUAGE_LATIN = 100)
@@ -159,19 +159,19 @@
 	setup_restricted = TRUE
 
 /obj/landmark/join/start/hydro
-	name = "Mekhane Agrolyte"
+	name = "Neotheology Agrolyte"
 	icon_state = "player-black"
 	join_tag = /datum/job/hydro
 
 /datum/job/janitor
-	title = "Mekhane Custodian"
+	title = "Neotheology Custodian"
 	flag = JANITOR
 	department = DEPARTMENT_CHURCH
 	department_flag = CHURCH
 	faction = "CEV Eris"
 	total_positions = 2
 	spawn_positions = 2
-	supervisors = "the Mekhane Preacher"
+	supervisors = "the Neotheology Preacher"
 	selection_color = "#ecd37d"
 	//alt_titles = list("Custodian","Sanitation Technician")
 	also_known_languages = list(LANGUAGE_LATIN = 100)
@@ -208,6 +208,6 @@
 	setup_restricted = TRUE
 
 /obj/landmark/join/start/janitor
-	name = "Mekhane Custodian"
+	name = "Neotheology Custodian"
 	icon_state = "player-black"
 	join_tag = /datum/job/janitor

@@ -959,7 +959,7 @@
 /area/centcom/evac)
 "db" = (
 /obj/machinery/door/airlock/command{
-	name = "Representative of the Mekhanite Council";
+	name = "Representative of the Neotheology Council";
 	req_access = list(101)
 	},
 /turf/simulated/floor/tiled/dark/gray_platform,

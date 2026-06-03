@@ -131,13 +131,13 @@
 	description_info = "An advanced burn kit is used to salve burns with regenerative \
 	membrane, allowing them to heal much faster."
 
-/obj/item/stack/medical/advanced/bruise_pack/nt	//Mekhanite Bruisepack
-	description_info = "A Mekhanite bruisepack is used to treat, disinfect, and \
+/obj/item/stack/medical/advanced/bruise_pack/nt	//Neotheology Bruisepack
+	description_info = "A Neotheology bruisepack is used to treat, disinfect, and \
 	seal most external wounds. Sealed and disinfected wounds have a far lower \
 	chance of becoming infected."
 	
-/obj/item/stack/medical/advanced/ointment/nt	//Mekhanite Burnpack
-	description_info = "A Mekhanite burnpack is used to salve burns with regenerative \
+/obj/item/stack/medical/advanced/ointment/nt	//Neotheology Burnpack
+	description_info = "A Neotheology burnpack is used to salve burns with regenerative \
 	membrane, allowing them to heal much faster."
 
 /obj/item/stack/medical/splint

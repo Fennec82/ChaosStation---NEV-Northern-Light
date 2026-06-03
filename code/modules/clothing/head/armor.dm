@@ -535,7 +535,7 @@
 
 /obj/item/clothing/head/armor/helmet/crusader
 	name = "crusader helmet"
-	desc = "May Mekhane guide you."
+	desc = "May Neotheology guide you."
 	icon_state = "crusader_hemet"
 	item_state = "crusader_hemet"
 	body_parts_covered = HEAD|FACE|EYES|EARS

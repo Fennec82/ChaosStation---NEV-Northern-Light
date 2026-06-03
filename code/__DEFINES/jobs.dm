@@ -9,7 +9,7 @@
 #define JOBS_CIVILIAN "Club Manager","Club Worker",ASSISTANT_TITLE
 #define JOBS_MEDICAL "Chief Medical Officer","Medical Doctor","Psychiatrist","Chemist","Trauma Team" //Eclipse Edit - replaced Paramedic with Trauma Team
 #define JOBS_SCIENCE "Chief Science Officer","Scientist","Roboticist"
-#define JOBS_CHURCH "Mekhane Preacher","Mekhane Acolyte","Mekhane Custodian","Mekhane Agrolyte",
+#define JOBS_CHURCH "Neotheology Preacher","Neotheology Acolyte","Neotheology Custodian","Neotheology Agrolyte",
 #define JOBS_NONHUMAN "AI","Robot","pAI"
 #define CREDITS "&cent;"
 #define CREDS "&cent;"
