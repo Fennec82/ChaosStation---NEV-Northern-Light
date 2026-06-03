@@ -169,7 +169,7 @@ You might be the only body between them and total control of the ship.<br>\
 Do not embarrass them or harm relations with faction leaders.<br>\
 <br>\
 But who are you?<br>\
-Perhaps you are a lifelong friend of someone on the Board, or a trusted associate to whom they gave a position of power.<br>\
+Perhaps you are a lifelong friend of someone in command, or a trusted associate to whom they gave a position of power.<br>\
 Perhaps you're a consummate professional who comes highly recommended.<br>\
 A retired soldier or naval officer.<br>\
 Perhaps you're the sibling, firstborn, or spouse of someone in power. Nobody can prevent nepotism if they choose<br>\
