@@ -26,7 +26,7 @@ var/runtime_diary
 var/diary
 var/world_qdel_log
 var/href_logfile
-var/station_name        = "NEV Northern Light"
+var/station_name        = "CEV Eris"
 var/station_short       = "Northern Light"
 var/const/dock_name     = "NTV Faith"
 var/const/boss_name     = "Central Command"

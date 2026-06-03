@@ -15,7 +15,7 @@
 	icon_state = "asters_social_pyramid"
 
 /datum/poster/asters/cev_eris
-	name = "NEV Northern Light" //Eclipse Edit - Lore compliance
+	name = "CEV Eris" //Eclipse Edit - Lore compliance
 	desc = "A poster celebrating the maiden voyage of the NanoTrasen Exploration Vessel \"Northern Light\"." //Eclipse Edit - Lore compliance
 	icon_state = "asters_cev_eris"
 

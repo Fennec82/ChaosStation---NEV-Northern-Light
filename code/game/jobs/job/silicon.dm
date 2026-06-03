@@ -2,7 +2,7 @@
 	title = "AI"
 	flag = AI
 	department_flag = COMMAND
-	faction = "NEV Northern Light"
+	faction = "CEV Eris"
 	department = DEPARTMENT_COMMAND
 	total_positions = 1 // Not used for AI, see is_position_available below and modules/mob/living/silicon/ai/latejoin.dm
 	spawn_positions = 1 // |-> above message is partly true, it is used by /AssignRole so we still need to set it to 1
@@ -37,7 +37,7 @@
 	title = "Robot"
 	flag = CYBORG
 	department_flag = MISC
-	faction = "NEV Northern Light"
+	faction = "CEV Eris"
 	total_positions = 2
 	spawn_positions = 2
 	alt_titles = list("Drone", "Cyborg")

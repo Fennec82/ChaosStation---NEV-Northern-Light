@@ -4,7 +4,7 @@
 	head_position = 1
 	department = DEPARTMENT_SCIENCE
 	department_flag = SCIENCE | COMMAND
-	faction = "NEV Northern Light"
+	faction = "CEV Eris"
 	total_positions = 1
 	spawn_positions = 1
 	supervisors = "Lazarus Foundation"
@@ -63,7 +63,7 @@ As a scientist, your first loyalty is to knowledge and Discovery, the ultimate g
 	flag = SCIENTIST
 	department = DEPARTMENT_SCIENCE
 	department_flag = SCIENCE
-	faction = "NEV Northern Light"
+	faction = "CEV Eris"
 	total_positions = 5
 	spawn_positions = 5
 	supervisors = "the Chief Science Officer"
@@ -117,7 +117,7 @@ Explore, learn and adventure, do anything to advance the cause of knowledge"
 	flag = ROBOTICIST
 	department = DEPARTMENT_SCIENCE
 	department_flag = SCIENCE
-	faction = "NEV Northern Light"
+	faction = "CEV Eris"
 	total_positions = 3
 	spawn_positions = 3
 	supervisors = "the Chief Science Officer"
@@ -150,7 +150,7 @@ In addition, your department contains the manufacturing facilities for prostheti
 <br>\
 Lastly, though they're not commonly used, you have the facilities to construct massive and powerful mechanised vehicles. These have powerful capabilities in mining and rescue, as well as obvious military applications"
 
-	duties = "	Repair, maintain and upgrade robots aboard the NEV Northern Light<br>\
+	duties = "	Repair, maintain and upgrade robots aboard the CEV Eris<br>\
 	Maintain and implant new bionics in crewmembers<br>\
 	Advertise bionics for sale and run a commercial cybernetic clinic<br>\
 	Construct large mechas for specialised use in departments"
@@ -168,7 +168,7 @@ Lastly, though they're not commonly used, you have the facilities to construct m
 	flag = PSYCHIATRIST
 	department = DEPARTMENT_SCIENCE		//ECLIPSE TODO: Check and fix. Might be overridden.
 	department_flag = SCIENCE
-	faction = "NEV Northern Light"		//Eclipse edit.
+	faction = "CEV Eris"		//Eclipse edit.
 	total_positions = 1
 	spawn_positions = 1
 	wage = WAGE_PROFESSIONAL

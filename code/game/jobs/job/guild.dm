@@ -6,7 +6,7 @@
 	head_position = TRUE
 	aster_guild_member = TRUE
 	department_flag = GUILD | COMMAND
-	faction = "NEV Northern Light"
+	faction = "CEV Eris"
 	total_positions = 1
 	spawn_positions = 1
 	supervisors = "your greed"
@@ -37,7 +37,7 @@ You do not recieve a salary, but the local Union funds are yours to use. You may
 <br>\
 Things to bear in mind:<br>\
 	-Nobody has a right to free stuff. You are well within your rights to charge for anything you distribute, and you won't make a penny if you don't.<br>\
-	-NEV Northern Light has few laws on contraband. If someone wants something and they can afford it, you get it for them. Don't try to play moral guardian and don't ask questions. You are not responsible for whatever they do with your products.<br>\
+	-CEV Eris has few laws on contraband. If someone wants something and they can afford it, you get it for them. Don't try to play moral guardian and don't ask questions. You are not responsible for whatever they do with your products.<br>\
 	-Loyalty is a priceless resource, yet cheap to maintain. Don't screw over the miners and technicians working under you. <br>\
 	-Charity is a weapon. Used correctly, it can do wonders for your public image.  A few gifts spread around makes for good returning customers"
 
@@ -72,7 +72,7 @@ Your second loyalty is to the Union. Ensure it retains good relations with priva
 	flag = GUILDTECH
 	department = DEPARTMENT_GUILD
 	department_flag = GUILD
-	faction = "NEV Northern Light"
+	faction = "CEV Eris"
 	total_positions = 3
 	spawn_positions = 3
 	supervisors = "the Free Trade Union Merchant"
@@ -125,7 +125,7 @@ Your main duties are to keep the local Union branch operational and profitable. 
 	flag = MINER
 	department = DEPARTMENT_GUILD
 	department_flag = GUILD
-	faction = "NEV Northern Light"
+	faction = "CEV Eris"
 	total_positions = 4
 	spawn_positions = 4
 	supervisors = "the Free Trade Union Merchant"
@@ -181,13 +181,13 @@ Character Expectations:<br>\
 	icon_state = "player-beige"
 	join_tag = /datum/job/mining
 
-/* ECLIPSE EDIT - Artist is now under the Civilian Department, so I've moved their job datum there.
+// ECLIPSE EDIT - Artist is now under the Civilian Department, so I've moved their job datum there.
 /datum/job/artist
 	title = "Union Artist"
 	flag = ARTIST
 	department = DEPARTMENT_GUILD
 	department_flag = GUILD
-	faction = "NEV Northern Light"
+	faction = "CEV Eris"
 	total_positions = 2
 	spawn_positions = 1
 	supervisors = "the Union Merchant"
@@ -209,7 +209,7 @@ Character Expectations:<br>\
 							 /datum/computer_file/program/wordprocessor,
 							 /datum/computer_file/program/reports)
 
-	description = "You are a creative soul aboard this vessel. You have been contracted by the Free Trade Union to create masterful works of art to be sold at mind-boggling prices... and something about the NEV Northern Light and it's doomed journey sparks the fire of creation within you.<br>\
+	description = "You are a creative soul aboard this vessel. You have been contracted by the Free Trade Union to create masterful works of art to be sold at mind-boggling prices... and something about the CEV Eris and it's doomed journey sparks the fire of creation within you.<br>\
 	You do not gain desires like other members of the crew. Instead, you stop gaining insight once you max out at 100 points.<br>\
 	You can gain desires by spending this insight at your Artist's Bench to build a work of art, this art you create vary wildly in type, quality, and (most importantly, in the eyes of the Merchant) value. Sell your artwork to the unwashed masses, or give you work to the merchant to sell for a profit."
 
@@ -224,4 +224,4 @@ Character Expectations:<br>\
 	name = "Union Artist"
 	icon_state = "player-grey"
 	join_tag = /datum/job/artist
-*/
+

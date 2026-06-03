@@ -4,7 +4,7 @@
 	head_position = 1
 	department = DEPARTMENT_SECURITY
 	department_flag = IRONHAMMER | COMMAND
-	faction = "NEV Northern Light"
+	faction = "CEV Eris"
 	total_positions = 1
 	spawn_positions = 1
 	supervisors = "the Captain"
@@ -40,7 +40,7 @@
 							 /datum/computer_file/program/camera_monitor,
 							 /datum/computer_file/program/reports)
 
-	description = "You are the head of the Aegis Security division contracted to protect and serve aboard the NEV Northern Light. The company contracting you out, Aegis Security serves as both an internal security force, and as a guard for expeditions out with the ship.<br>\
+	description = "You are the head of the Aegis Security division contracted to protect and serve aboard the CEV Eris. The company contracting you out, Aegis Security serves as both an internal security force, and as a guard for expeditions out with the ship.<br>\
 	<br>\
 	Your goal is to keep everyone aboard the ship as safe as possible, and to eliminate any threats to safety."
 
@@ -67,7 +67,7 @@
 	flag = GUNSERG
 	department = DEPARTMENT_SECURITY
 	department_flag = IRONHAMMER
-	faction = "NEV Northern Light"
+	faction = "CEV Eris"
 	total_positions = 1
 	spawn_positions = 1
 	supervisors = "the Aegis Commander"
@@ -123,7 +123,7 @@
 	flag = INSPECTOR
 	department = DEPARTMENT_SECURITY
 	department_flag = IRONHAMMER
-	faction = "NEV Northern Light"
+	faction = "CEV Eris"
 	total_positions = 2
 	spawn_positions = 2
 	supervisors = "the Aegis Commander"
@@ -179,7 +179,7 @@
 	flag = MEDSPEC
 	department = DEPARTMENT_SECURITY
 	department_flag = IRONHAMMER
-	faction = "NEV Northern Light"
+	faction = "CEV Eris"
 	total_positions = 2
 	spawn_positions = 2
 	supervisors = "the Aegis Commander"
@@ -232,7 +232,7 @@
 	flag = IHOPER
 	department = DEPARTMENT_SECURITY
 	department_flag = IRONHAMMER
-	faction = "NEV Northern Light"
+	faction = "CEV Eris"
 	total_positions = 6
 	spawn_positions = 6
 	supervisors = "the Aegis Commander"
