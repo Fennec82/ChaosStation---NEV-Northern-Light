@@ -42,11 +42,11 @@
 		CRUCIFORM_REDLIGHT
 	)
 
-	description = "You are the head of a local branch of the Church of the Children of Mekhane. You represent the church's interests aboard the CEV Eris, as well as the interests of Mekhane disciples among the crew. The church is a major contributor to the funding of the Northern Light's mission, and demands respect.<br>\
+	description = "You are the head of a local branch of the Church of the Children of Mekhane. You represent the church's interests aboard the CEV Eris, as well as the interests of Mekhane disciples among the crew. The church is a major contributor to the funding of the Eris's mission, and demands respect.<br>\
 	<br>\
 	Your duties aboard the ship may not seem so important to its mission, but they have greater significance in the galaxy as a whole. As well as a more immediate significance to the morale of the crew, especially the followers of the Mekhane.<br>\
 	<br>\
-	Sometimes the Church will deploy Inquisitors to remote outposts like this, to serve its interests. When one is on the Northern Light, you will generally be their point of contact. Inquisitors outrank you and you should follow all of their instructions without question. Inquisitors work in secret, and so you should not discuss their presence with anyone unless they permit it.<br>\
+	Sometimes the Church will deploy Inquisitors to remote outposts like this, to serve its interests. When one is on the Eris, you will generally be their point of contact. Inquisitors outrank you and you should follow all of their instructions without question. Inquisitors work in secret, and so you should not discuss their presence with anyone unless they permit it.<br>\
 	<br>\
 	First and foremost, you are a Man of the Cloth, and as such you must tend to the spiritual needs of the crew. Those looking to convert to the Children of Mekhane should come to you for the rites.<br>\
 	When the mood is dour, when all hope is lost, it falls to you to be a spiritual leader. Preach to the flock, inspire faith and strength in their hearts. The rituals in your book can also offer more tangible assistance in labour and combat.<br>\

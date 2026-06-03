@@ -3,7 +3,7 @@
 	icon = 'icons/obj/faction_item.dmi'
 	icon_state = "maneki_neko"
 	item_state = "maneki_neko"
-	desc = "An expensive-looking figurine, found during Northern Light's refurbishment. It is surrounded by a menacing aura and seems to be very fragile."
+	desc = "An expensive-looking figurine, found during Eris's refurbishment. It is surrounded by a menacing aura and seems to be very fragile."
 	description_fluff = "Its said that one must be a fool to break such a valuable vase. As it contains the soul of a Neko itself."
 	flags = CONDUCT
 	force = WEAPON_FORCE_WEAK

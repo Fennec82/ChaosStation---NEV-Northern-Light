@@ -26,8 +26,8 @@
 
 	description = "There are two potential lives before you, and you must choose wisely.<br>\
 In one, you are a vagabond, journeying through the vast expanses of space upon the CEV Eris. You will not be paid a wage.<br>\
-Though this does not mean you have no home, as the Northern Light is your home. Whatever planet you may have came from a now distant memory.<br>\
-You remember boarding the Northern Light sometime in your past, when it had a different purpose and a different captain.<br>\
+Though this does not mean you have no home, as the Eris is your home. Whatever planet you may have came from a now distant memory.<br>\
+You remember boarding the Eris sometime in your past, when it had a different purpose and a different captain.<br>\
 Over time you've become accustomed to the dangers of this ship.<br>\
 The ID you wear likely not even your own. At least as far as you can remember.<br>\
 But this chunk of plastic still can be a rare oddity, that can change your character.<br>\

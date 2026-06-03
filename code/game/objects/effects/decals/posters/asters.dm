@@ -16,7 +16,7 @@
 
 /datum/poster/asters/cev_eris
 	name = "CEV Eris" //Eclipse Edit - Lore compliance
-	desc = "A poster celebrating the maiden voyage of the NanoTrasen Exploration Vessel \"Northern Light\"." //Eclipse Edit - Lore compliance
+	desc = "A poster celebrating the maiden voyage of the NanoTrasen Exploration Vessel \"Eris\"." //Eclipse Edit - Lore compliance
 	icon_state = "asters_cev_eris"
 
 /datum/poster/asters/rock_and_stone

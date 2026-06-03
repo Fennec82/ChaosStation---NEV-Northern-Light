@@ -101,7 +101,7 @@
 
 	perks = list(PERK_ARTIST)
 
-	description = "You are a creative soul aboard this vessel. You have been given a home by the Club to create masterful works of art to be displayed or sold at mind-boggling prices... and something about the Northern Light and its doomed journey sparks the fire of creation within you.<br>\
+	description = "You are a creative soul aboard this vessel. You have been given a home by the Club to create masterful works of art to be displayed or sold at mind-boggling prices... and something about the Eris and its doomed journey sparks the fire of creation within you.<br>\
 	You do not gain desires like other members of the crew. Instead, you stop gaining insight once you max out at 100 points.<br>\
 	You can gain desires by spending this insight at your Artist's Bench to build a work of art, this art you create vary wildly in type, quality, and value. Sell your artwork to the unwashed masses, display it in the club or give you work to the merchant to sell for a profit."
 

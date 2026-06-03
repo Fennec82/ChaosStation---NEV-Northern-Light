@@ -10,7 +10,7 @@ your team, and develop a strategy to achieve your objectives.\n\n\
 Remember to take everything you think you may need on board your ship with you. You will not be able\
 to return to the base once you have departed for your mission. You do have an uplink on your ship to\
 supply any extra equipment you might need.\n\n\
-Once you are ready, use the console on the shuttle’s bridge to begin your mission. The Northern Light’s\
+Once you are ready, use the console on the shuttle’s bridge to begin your mission. The Eris’s\
 sensors will detect your approach before you arrive, so stealth is not an option. Once you arrive, you will\
 have a strict limit to achieve your objective and return to base."
 /datum/faction/mercenary

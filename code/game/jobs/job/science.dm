@@ -42,7 +42,7 @@
 							/datum/computer_file/program/chem_catalog,
 							/datum/computer_file/program/reports)
 
-	description = "You are the head of Lazarus research on the Northern Light, tasked with directing shipboard research to new and profitable discoveries."
+	description = "You are the head of Lazarus research on the Eris, tasked with directing shipboard research to new and profitable discoveries."
 
 	duties = "Direct the scientists under your command, ensure they work efficiently towards the bettering of all mankind.<br>\
 Use department funds to purchase scientific curios, artefacts, and anything of interesting research value. As well as any equipment and supplies that would be useful for these ends<br>\

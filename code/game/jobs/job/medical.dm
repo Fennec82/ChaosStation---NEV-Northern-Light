@@ -315,7 +315,7 @@ Your second loyalty is to your career with Lazarus, and to your coworkers in bot
 					You may be a doctor, but your research comes first.<br>\
 					While you have priority in Visceral Research and Genetics, you are expected to provide doctors with organ replacements if necessary."
 
-	loyalties = "As a medical researcher, your first loyalty is to progress. Your placement on the crew of the Northern Light is the result of Lazarus' desire for knowledge and your own morbid curiosity.<br>\
+	loyalties = "As a medical researcher, your first loyalty is to progress. Your placement on the crew of the Eris is the result of Lazarus' desire for knowledge and your own morbid curiosity.<br>\
 Your second loyalty is to your career with Lazarus, and to your coworkers in both branches of the corporation. Help out your scientific colleagues, and aid in their pursuit of knowledge."
 
 /obj/landmark/join/start/bioengineer

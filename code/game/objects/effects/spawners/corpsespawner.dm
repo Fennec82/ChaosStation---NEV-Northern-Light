@@ -168,7 +168,7 @@
 	max_age = 250
 
 /obj/landmark/corpse/skeleton/maint //They look like human remains. Some poor soul expired here, a million miles from home.
-	name = "Northern Light Crewmember"
+	name = "Eris Crewmember"
 	corpseuniform = list(
 		/obj/item/clothing/under/oldsec,
 		/obj/item/clothing/under/rank/assistant,

@@ -550,13 +550,13 @@
 
 /obj/structure/sign/faction/moebius
 	name = "Lazarus Laboratories"
-	desc = "A shady megacorporation that has a stake in the Northern Light's expedition. "
+	desc = "A shady megacorporation that has a stake in the Eris's expedition. "
 	icon_state = "moebius"
 
 /obj/structure/sign/faction/moebius_alt
 	name = "Lazarus Laboratories Sign"
 //	desc = "Shady pharmaceutical and prosthetic manufacturer. Few outsiders know what happens behind the doors of their labs, and whoever knows does not live a long life. The sign is emblazoned with the slogan, new minds new horizons"
-	desc = "A shady megacorporation that has a stake in the Northern Light's expedition."
+	desc = "A shady megacorporation that has a stake in the Eris's expedition."
 	icon_state = "moebius_alt"
 
 /obj/structure/sign/faction/neotheology
