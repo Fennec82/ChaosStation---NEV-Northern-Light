@@ -79185,7 +79185,7 @@
 /area/eris/rnd/docking)
 "dyI" = (
 /obj/machinery/door/airlock/command{
-	name = "Union Merchant";
+	name = "Guild Merchant";
 	req_access = list(41)
 	},
 /obj/machinery/door/firedoor,
@@ -79355,7 +79355,7 @@
 /area/eris/maintenance/section2deck2port)
 "dzb" = (
 /obj/machinery/door/airlock/command{
-	name = "Union Merchant's Quarters";
+	name = "Guild Merchant's Quarters";
 	req_access = list(41)
 	},
 /obj/machinery/door/firedoor,
@@ -80739,7 +80739,7 @@
 /area/eris/medical/reception)
 "dCn" = (
 /obj/machinery/door/airlock/command{
-	name = "Union Merchant";
+	name = "Guild Merchant";
 	req_access = list(41)
 	},
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
@@ -81455,7 +81455,7 @@
 /area/eris/hallway/main/section2)
 "dDT" = (
 /obj/machinery/door/airlock/command{
-	name = "Union Merchant";
+	name = "Guild Merchant";
 	req_access = list(41)
 	},
 /obj/structure/disposalpipe/segment{

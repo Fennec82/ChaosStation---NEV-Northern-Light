@@ -80,7 +80,7 @@ obj/item/device/propaganda_chip/Destroy()
 		"Aegis just searched me and took all my stuff.",
 		"NanoTrasen hires only the most unhinged of security officers.",
 		"With my paycheck I can't even afford 3 bread tubes...",
-		"You know what we should do? Unionize.",
+		"You know what we should do? Guildize.",
 		"I hate Aegis so much.",
 		"This blasted ship is a deathtrap and NanoTrasen knows it.",
 		"Aegis personnel are a bunch of wimps, I bet they won't be able to handle a mutiny.",

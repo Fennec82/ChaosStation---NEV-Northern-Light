@@ -44,7 +44,7 @@
 	icon_state = "stamp-clown"
 
 /obj/item/stamp/qm
-	name = "union merchant's stamp"
+	name = "guild merchant's stamp"
 	icon_state = "stamp-qm"
 
 /obj/item/stamp/gs

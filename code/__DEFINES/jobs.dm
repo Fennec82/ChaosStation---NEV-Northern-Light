@@ -5,7 +5,7 @@
 #define JOBS_COMMAND "Captain","First Officer","Bridge Officer","Aegis Commander","Aster's Guild Merchant","Technomancer Exultant","Chief Medical Officer","Chief Science Officer"
 #define JOBS_ENGINEERING "Technomancer Exultant","Technomancer","Technomancer Enforcer" //Eclipse Edit - Added Technomancer Enforcer
 #define JOBS_LAZARUS "Chief Medical Officer","Medical Doctor","Psychiatrist","Chemist","Trauma Team", "Chief Science Officer","Scientist","Roboticist" //Eclipse Edit - Replaced Paramedic with Trauma Team
-#define JOBS_CARGO "Aster's Guild Merchant","Union Cargo Technician","Union Miner"
+#define JOBS_CARGO "Aster's Guild Merchant","Guild Cargo Technician","Guild Miner"
 #define JOBS_CIVILIAN "Club Manager","Club Worker",ASSISTANT_TITLE
 #define JOBS_MEDICAL "Chief Medical Officer","Medical Doctor","Psychiatrist","Chemist","Trauma Team" //Eclipse Edit - replaced Paramedic with Trauma Team
 #define JOBS_SCIENCE "Chief Science Officer","Scientist","Roboticist"

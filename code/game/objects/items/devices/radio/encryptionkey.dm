@@ -116,7 +116,7 @@
 	channels = list("Command" = 1, "Security" = 1, "Engineering" = 1, "NT Voice" = 1, "Science" = 1, "Medical" = 1, "Supply" = 1, "Service" = 1)
 
 /obj/item/device/encryptionkey/heads/merchant
-	name = "trade union merchant radio encryption key"
+	name = "trade guild merchant radio encryption key"
 	icon_state = "qm_cypherkey"
 	channels = list("Supply" = 1, "Command" = 1)
 
@@ -126,7 +126,7 @@
 	channels = list("NT Voice" = 1, "Command" = 1)
 
 /obj/item/device/encryptionkey/headset_cargo
-	name = "trade union member radio encryption key"
+	name = "trade guild member radio encryption key"
 	icon_state = "cargo_cypherkey"
 	channels = list("Supply" = 1)
 

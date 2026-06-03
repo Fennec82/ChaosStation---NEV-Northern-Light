@@ -17,7 +17,7 @@ Procs:
 - CanResearch(datum/technology/T): Can T be researched (checks T cost, if T's associated tree is shown and if we have the required tech levels/nodes).
 - UnlockTechology(datum/technology/T, force = FALSE): Unlocks a technology node T for src. Safe (uses the procs above). Adds T to the needed lists, and adds its designs too.
 														Setting force to true ignores T's cost.
-- download_from(datum/research/O): Downloads data from O. The result is the union of src and O.
+- download_from(datum/research/O): Downloads data from O. The result is the guild of src and O.
 - forget_techology(datum/technology/T): Removes T from src.
 - forget_all(tech_type): Forget all the technology nodes associated to a tree with type tech_type.
 - AddDesign2Known(datum/design/D): Add design to known_designs.

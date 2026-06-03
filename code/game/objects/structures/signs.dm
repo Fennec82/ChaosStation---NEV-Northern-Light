@@ -545,7 +545,7 @@
 
 /obj/structure/sign/faction/frozenstar
 	name = "Frozen Star"
-	desc = "A popular weapon manufacturer in the Hansa Trade Union."
+	desc = "A popular weapon manufacturer in the Hansa Trade Guild."
 	icon_state = "frozenstar"
 
 /obj/structure/sign/faction/moebius
@@ -589,12 +589,12 @@
 
 /obj/structure/sign/faction/excelsior
 	name = "Excelsior"
-	desc = "Excelsior is a union of communist mining communities with no respect to any private property."
+	desc = "Excelsior is a guild of communist mining communities with no respect to any private property."
 	icon_state = "excelsior"
 
 /obj/structure/sign/faction/excelsior_old
 	name = "Excelsior"
-	desc = "EXCELSIOR is a union of communist mining communities with no respect to any private property."
+	desc = "EXCELSIOR is a guild of communist mining communities with no respect to any private property."
 	icon_state = "excelsior-old"
 
 /obj/structure/sign/faction/serbian

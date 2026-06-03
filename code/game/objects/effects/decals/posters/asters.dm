@@ -6,7 +6,7 @@
 
 /datum/poster/asters/blurb
 	name = "The Merchant's Promise" //Eclipse Edit - Lore compliance
-	desc = "A poster labeling the good will and intentions of The Trade Union under SolGov principles of free will and enterprise." //Eclipse Edit - Lore compliance
+	desc = "A poster labeling the good will and intentions of The Trade Guild under SolGov principles of free will and enterprise." //Eclipse Edit - Lore compliance
 	icon_state = "asters_blurb"
 
 /datum/poster/asters/social_pyramid

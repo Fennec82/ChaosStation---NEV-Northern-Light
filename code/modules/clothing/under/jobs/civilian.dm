@@ -125,6 +125,6 @@
 
 /obj/item/clothing/under/rank/miner
 	desc = "A snappy jumpsuit with a sturdy set of overalls. It is very dirty."
-	name = "Union miner's jumpsuit"
+	name = "Guild miner's jumpsuit"
 	icon_state = "miner"
 	item_state = "lb_suit"

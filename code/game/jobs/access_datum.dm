@@ -263,7 +263,7 @@
 /var/const/access_merchant = 41
 /datum/access/merchant
 	id = access_merchant
-	desc = "Union Merchant"
+	desc = "Guild Merchant"
 	region = ACCESS_REGION_SUPPLY
 
 /var/const/access_network = 42
