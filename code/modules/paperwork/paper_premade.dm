@@ -164,7 +164,7 @@
 
 	\[b\]Technical Assistant\[/b\] 1>0-0-1
 	This is yet another low level position. The technical assistant helps the engineer and the statian technician with the upkeep and maintenance of the station. This job is very important because it usually gets to be a heavy workload on station technician and these helpers will alleviate that.
-	 1. Assist Station technician and Engineers.
+	 1. Assist Station technician and Technomancers.
 	 2. Perform general maintenance of station.
 	 3. Prepare materials.
 

@@ -13,7 +13,7 @@
 	BACKPACK_OVERRIDE_ENGINEERING
 
 /decl/hierarchy/outfit/job/engineering/exultant
-	name = OUTFIT_JOB_NAME("Chief Engineer")
+	name = OUTFIT_JOB_NAME("Technomancer Exultant")
 	head = /obj/item/clothing/head/hardhat/white
 	uniform = /obj/item/clothing/under/rank/exultant
 	suit = /obj/item/clothing/suit/storage/te_coat

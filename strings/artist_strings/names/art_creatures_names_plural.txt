@@ -76,7 +76,7 @@ men
 gods
 hiveminds
 scientists
-engineers
+technomancers
 shitsecs
 detectives
 criminals

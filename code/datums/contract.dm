@@ -7,14 +7,14 @@ GLOBAL_LIST_INIT(antag_item_targets,list(
 		"a jetpack" = /obj/item/tank/jetpack,
 		"a captain's jumpsuit" = /obj/item/clothing/under/rank/captain,
 		"a functional AI" = /obj/item/device/aicard,
-		"the Chief Engineer's advanced voidsuit control module" = /obj/item/rig/ce,
+		"the Technomancer Exultant's advanced voidsuit control module" = /obj/item/rig/ce,
 
 		"the ship blueprints" = /obj/item/blueprints,
 
 		"a sample of slime extract" = /obj/item/slime_extract,
 		"a piece of corgi meat" = /obj/item/reagent_containers/food/snacks/meat/corgi,
 		"a Chief Science Officer's jumpsuit" = /obj/item/clothing/under/rank/expedition_overseer,
-		"a Chief Engineer's jumpsuit" = /obj/item/clothing/under/rank/exultant,
+		"a Technomancer Exultant's jumpsuit" = /obj/item/clothing/under/rank/exultant,
 		"a Chief Medical Officer's jumpsuit" = /obj/item/clothing/under/rank/moebius_biolab_officer,
 
 		"an Aegis commander's jumpsuit" = /obj/item/clothing/under/rank/ih_commander,

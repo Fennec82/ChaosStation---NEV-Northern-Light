@@ -2,8 +2,8 @@
 
 //Jobs depatment lists for use in constant expressions
 #define JOBS_SECURITY "Aegis Commander","Gunnery Sergeant","Aegis Inspector","Aegis Operative","Aegis Medical Specialist"
-#define JOBS_COMMAND "Captain","First Officer","Bridge Officer","Aegis Commander","Free Trade Union Merchant","Chief Engineer","Chief Medical Officer","Chief Science Officer"
-#define JOBS_ENGINEERING "Chief Engineer","Ship Engineer","Xingyun Enforcer" //Eclipse Edit - Added Xingyun Enforcer
+#define JOBS_COMMAND "Captain","First Officer","Bridge Officer","Aegis Commander","Free Trade Union Merchant","Technomancer Exultant","Chief Medical Officer","Chief Science Officer"
+#define JOBS_ENGINEERING "Technomancer Exultant","Technomancer","Technomancer Enforcer" //Eclipse Edit - Added Technomancer Enforcer
 #define JOBS_LAZARUS "Chief Medical Officer","Medical Doctor","Psychiatrist","Chemist","Trauma Team", "Chief Science Officer","Scientist","Roboticist" //Eclipse Edit - Replaced Paramedic with Trauma Team
 #define JOBS_CARGO "Free Trade Union Merchant","Union Cargo Technician","Union Miner"
 #define JOBS_CIVILIAN "Club Manager","Club Worker",ASSISTANT_TITLE

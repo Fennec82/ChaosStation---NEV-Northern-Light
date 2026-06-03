@@ -101,7 +101,7 @@
 	channels = list("Security" = 1, "Command" = 1)
 
 /obj/item/device/encryptionkey/heads/ce
-	name = "chief engineer's encryption key"
+	name = "technomancer exultant's encryption key"
 	icon_state = "ce_cypherkey"
 	channels = list("Engineering" = 1, "Command" = 1)
 

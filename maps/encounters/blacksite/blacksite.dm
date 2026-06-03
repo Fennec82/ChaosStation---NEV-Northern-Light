@@ -176,7 +176,7 @@
 	info = "<B>Automated Situation Report</B><br> H+0:\
 	        <br> # Warning, contamination, 4 subjects breaked from their cells.\
 	        <br> # Warning, 10 guards failed to pacify subjects.\
-			<br> # Death report: 9 guards, 3 science personnel, 2 engineers, 1 office clerk.\
+			<br> # Death report: 9 guards, 3 science personnel, 2 technomancers, 1 office clerk.\
 			<br> # Bolting the prison door."
 
 /obj/item/paper/blacksite/medium/note02

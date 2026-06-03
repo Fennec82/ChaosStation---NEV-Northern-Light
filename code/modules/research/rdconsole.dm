@@ -18,7 +18,7 @@ When a R&D console is destroyed or even partially disassembled, you lose all res
 this dire fate:
 - The easiest way is to go to the settings menu and select "Sync Database with Network." That causes it to upload
 it's data to every other device in the game. Each console has a "disconnect from network" option that'll will cause data base sync
-operations to skip that console. This is useful if you want to make a "public" R&D console or, for example, give the engineers
+operations to skip that console. This is useful if you want to make a "public" R&D console or, for example, give the technomancers
 a circuit imprinter with certain designs on it and don't want it accidentally updating. The downside of this method is that you have
 to have physical access to the other console to send data back. Note: An R&D console is on CentCom so if a random griffan happens to
 cause a ton of data to be lost, an admin can go send it back.

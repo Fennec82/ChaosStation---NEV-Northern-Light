@@ -1,5 +1,5 @@
 /obj/structure/closet/secure_closet/reinforced/engineering_chief
-	name = "chief engineer's locker"
+	name = "technomancer exultant's locker"
 	req_access = list(access_ce)
 	icon_state = "ce"
 

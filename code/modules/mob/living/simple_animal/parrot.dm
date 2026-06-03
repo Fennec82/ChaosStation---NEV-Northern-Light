@@ -58,7 +58,7 @@
 	var/list/speech_buffer = list()
 	var/list/available_channels = list()
 
-	//Headset for Poly to yell at engineers :)
+	//Headset for Poly to yell at technomancers :)
 	var/obj/item/device/radio/headset/ears = null
 
 	//The thing the parrot is currently interested in. This gets used for items the parrot wants to pick up, mobs it wants to steal from,

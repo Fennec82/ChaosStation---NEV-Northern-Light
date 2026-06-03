@@ -72216,7 +72216,7 @@
 "djb" = (
 /obj/machinery/door/firedoor,
 /obj/machinery/door/airlock/command{
-	name = "Chief Engineer's Quarters";
+	name = "Technomancer Exultant's Quarters";
 	req_access = list(56)
 	},
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
@@ -99489,7 +99489,7 @@
 "ete" = (
 /obj/machinery/door/airlock/command{
 	id_tag = "cedoor";
-	name = "Chief Engineer";
+	name = "Technomancer Exultant";
 	req_access = list(56)
 	},
 /obj/machinery/door/firedoor,
@@ -109070,9 +109070,9 @@
 "owS" = (
 /obj/machinery/requests_console{
 	announcementConsole = 1;
-	department = "Chief Engineer's Desk";
+	department = "Technomancer Exultant's Desk";
 	departmentType = 4;
-	name = "Chief Engineer RC";
+	name = "Technomancer Exultant RC";
 	pixel_x = 30
 	},
 /turf/simulated/floor/tiled/steel/techfloor_grid,

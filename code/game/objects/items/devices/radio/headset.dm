@@ -90,7 +90,7 @@
 
 /obj/item/device/radio/headset/headset_eng
 	name = "engineering radio headset"
-	desc = "When the engineers wish to chat like girls."
+	desc = "When the technomancers wish to chat like girls."
 	icon_state = "eng_headset"
 	item_state = "headset"
 	ks2type = /obj/item/device/encryptionkey/headset_eng
@@ -171,7 +171,7 @@
 	ks2type = /obj/item/device/encryptionkey/heads/hos
 
 /obj/item/device/radio/headset/heads/ce
-	name = "chief engineer's headset"
+	name = "technomancer exultant's headset"
 	desc = "The headset of the guy who is in charge of morons"
 	icon_state = "com_headset"
 	item_state = "headset"

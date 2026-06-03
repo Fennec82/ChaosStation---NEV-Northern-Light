@@ -1,6 +1,6 @@
 //APC Damage is a mundane event that bluscreens some APCs in a radius
 //It mainly exists for two purposes:
-//1. To create some work for engineers
+//1. To create some work for technomancers
 //2. To provide plausible deniability for a malfunctioning AI, so they can claim its not their doing when apcs break
 /datum/storyevent/apc_damage
 	id = "apc_dmg"

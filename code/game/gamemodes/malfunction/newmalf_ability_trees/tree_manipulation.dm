@@ -182,7 +182,7 @@
 
 	M.use_power(2000000) // Major power spike, few of these will completely burn APC's cell - equivalent of 2GJ of power.
 
-	// Trigger a powernet alarm. Careful engineers will probably notice something is going on.
+	// Trigger a powernet alarm. Careful technomancers will probably notice something is going on.
 	var/area/temp_area = get_area(M)
 	if(temp_area)
 		var/obj/machinery/power/apc/temp_apc = temp_area.get_apc()

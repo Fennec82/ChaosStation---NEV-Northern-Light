@@ -24,7 +24,7 @@
 	icon_state = "stamp-hos"
 
 /obj/item/stamp/ce
-	name = "chief engineer's rubber stamp"
+	name = "technomancer exultant's rubber stamp"
 	icon_state = "stamp-ce"
 
 /obj/item/stamp/rd
