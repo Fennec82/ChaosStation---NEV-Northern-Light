@@ -315,7 +315,7 @@
 	\[b\]3.\[/b\] That those detained have the right to voluntarily leave detainment, under the Solgov principles we hold, and uphold under the Free Trade Union.
 
 	\[small\]\[b\]NOTICE:\[/b\] Engaging in Anti-Depressive Self-Pacification Treatment is non-pursuant to proprty rights if your person is the property of another. You \[b\]WILL be fined\[/b\] if you engage in self-pacification \[b\]post-mortem or otherwise\[/b\], your property manager may also consenquently enact punitive financial measures. \
-	\"Cruciformed\" assets (assuming positive consent of conversion) are considered property of The Children of Mekhane, and are \[b\]not\[/b\] eligible for this social program. Your hosting Dispute Resolution Organization may further detain your cruciform in the event of self-pacification as an additional punitive measure.\[/small\]
+	\"Cruciformed\" assets (assuming positive consent of conversion) are considered property of The Church of Neotheology, and are \[b\]not\[/b\] eligible for this social program. Your hosting Dispute Resolution Organization may further detain your cruciform in the event of self-pacification as an additional punitive measure.\[/small\]
 
 	\[h3\]\[b\]Self-Pacification Procedures:\[/b\]\[/h3\]
 	\[b\]1.\[/b\] Adorn provided breath mask securely, try to leave no gaps for air to escape, and remember to cover your nose.

@@ -561,17 +561,17 @@
 
 /obj/structure/sign/faction/neotheology
 	name = "Mekhane"
-	desc = "the Tau Cross - symbol of the Children of Mekhane."
+	desc = "the Tau Cross - symbol of the Church of Neotheology."
 	icon_state = "neotheology"
 
 /obj/structure/sign/faction/neotheology_old
 	name = "Mekhane"
-	desc = "the Tau Cross - symbol of the Children of Mekhane."
+	desc = "the Tau Cross - symbol of the Church of Neotheology."
 	icon_state = "neotheology-old"
 
 /obj/structure/sign/faction/neotheology_cross
 	name = "Mekhane Tau cross"
-	desc = "Religious symbol of the Children of Mekhane - the Tau cross. It looks like a decoration.."
+	desc = "Religious symbol of the Church of Neotheology - the Tau cross. It looks like a decoration.."
 	icon_state = "wall_cross_steel"
 
 /obj/structure/sign/faction/neotheology_cross/gold

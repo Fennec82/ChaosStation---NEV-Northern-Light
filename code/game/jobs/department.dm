@@ -86,7 +86,7 @@
 	account_initial_balance = 10000 //For buying materials and components and things of scientific value
 
 /datum/department/church
-	name = "Children of Mekhane"
+	name = "Church of Neotheology"
 	id = DEPARTMENT_CHURCH
 	account_initial_balance = 4500 //each Neotheo has a wage of 900, this is enough to pay 5 paychecks before needing more cash
 

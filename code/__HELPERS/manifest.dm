@@ -19,7 +19,7 @@
 		list("names" = list(), "header" = "Aegis Security", "flag" = IRONHAMMER),
 		list("names" = list(), "header" = "Lazarus Medical", "flag" = MEDICAL),
 		list("names" = list(), "header" = "Lazarus Research", "flag" = SCIENCE),
-		list("names" = list(), "header" = "Children of Mekhane", "flag" = CHURCH),
+		list("names" = list(), "header" = "Church of Neotheology", "flag" = CHURCH),
 		list("names" = list(), "header" = "Free Trade Union", "flag" = GUILD),
 		list("names" = list(), "header" = "Civilian", "flag" = CIVILIAN),
 		list("names" = list(), "header" = "Service", "flag" = SERVICE),

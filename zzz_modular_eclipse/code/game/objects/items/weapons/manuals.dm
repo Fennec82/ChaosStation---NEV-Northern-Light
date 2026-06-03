@@ -9,6 +9,6 @@
 /obj/item/book/manual/wiki/mekhane_guide
 	name = "Guide to Mekhanism"
 	icon_state = "noname"
-	author = "The Children of Mekhane"
+	author = "The Church of Neotheology"
 	title = "Guide to Mekhanism"
 	page_link = "Guide_to_Mekhanism_Eclipse" 
