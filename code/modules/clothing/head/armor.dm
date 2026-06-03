@@ -74,7 +74,7 @@
 
 /obj/item/clothing/head/armor/helmet/ironhammer
 	name = "operator helmet"
-	desc = "Aegis Security gear. Protects the head from impacts."
+	desc = "Ironhammer Security gear. Protects the head from impacts."
 	icon_state = "helmet_ironhammer"
 	flags_inv = BLOCKHEADHAIR|HIDEEARS
 
@@ -259,7 +259,7 @@
 
 /obj/item/clothing/head/armor/bulletproof/ironhammer_full
 	name = "full ballistic helmet"
-	desc = "Standard-issue Aegis ballistic helmet with a basic HUD included, covers the operator's entire face."
+	desc = "Standard-issue Ironhammer ballistic helmet with a basic HUD included, covers the operator's entire face."
 	icon_state = "ironhammer_full"
 	item_flags = THICKMATERIAL | COVER_PREVENT_MANIPULATION
 	price_tag = 500
@@ -380,7 +380,7 @@
  */
 /obj/item/clothing/head/armor/riot_hud
 	name = "heavy operator helmet"
-	desc = "Standard-issue Aegis helmet with a basic HUD and targeting system included."
+	desc = "Standard-issue Ironhammer helmet with a basic HUD and targeting system included."
 	icon_state = "light_riot"
 
 	tint = TINT_NONE

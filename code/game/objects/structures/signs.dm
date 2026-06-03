@@ -506,7 +506,7 @@
 	icon_state = "interrogation"
 
 /obj/structure/sign/department/commander
-	name = "AEGIS COMMANDER"
+	name = "IRONHAMMER COMMANDER"
 	icon_state = "commander"
 
 /obj/structure/sign/department/armory
@@ -524,8 +524,8 @@
 	desc = "Faction sign of some sort."
 
 /obj/structure/sign/faction/ironhammer
-	name = "Aegis Security"
-	desc = "This sign depicts the symbol of Aegis Security, the largest security provider within SolGov Space."
+	name = "Ironhammer Security"
+	desc = "This sign depicts the symbol of Ironhammer Security, the largest security provider within SolGov Space."
 	icon_state = "ironhammer"
 
 /obj/structure/sign/faction/one_star

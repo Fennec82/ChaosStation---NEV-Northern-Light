@@ -195,7 +195,7 @@
 	)
 
 /obj/item/storage/belt/tactical/ironhammer
-	name = "aegis tactical belt"
+	name = "ironhammer tactical belt"
 	icon_state = "tactical_ironhammer"
 	spawn_blacklisted = TRUE
 

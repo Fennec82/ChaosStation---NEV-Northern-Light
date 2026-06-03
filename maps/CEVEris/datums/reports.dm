@@ -74,7 +74,7 @@
 		field.set_access(access_edit = access_hop)
 
 /datum/computer_file/report/recipient/sec
-	logo = "\[aegis\]"
+	logo = "\[ironhammer\]"
 
 /datum/computer_file/report/recipient/sec/New()
 	..()
@@ -88,24 +88,24 @@
 
 /datum/computer_file/report/recipient/sec/warning/generate_fields()
 	..()
-	add_field(/datum/report_field/instruction, "Aegis Division CEV Eris")
+	add_field(/datum/report_field/instruction, "Ironhammer Division CEV Eris")
 	add_field(/datum/report_field/instruction, "Written Warning.")
 	add_field(/datum/report_field/people/from_manifest, "Name")
 	add_field(/datum/report_field/pencode_text, "Department")
 	add_field(/datum/report_field/date, "Date")
 	add_field(/datum/report_field/time, "Time")
 	add_field(/datum/report_field/pencode_text, "Reason/(s/) for Written Warning:")
-	add_field(/datum/report_field/instruction, "This written warning is only valid if served and signed by the Captain, First Officer, or any serving member of Aegis")
+	add_field(/datum/report_field/instruction, "This written warning is only valid if served and signed by the Captain, First Officer, or any serving member of Ironhammer")
 	add_field(/datum/report_field/signature, "Signature")
 
 /datum/computer_file/report/recipient/sec/complaint
 	form_name = "AIC-AS-179"
-	title = "Aegis Internal Complaint Form"
+	title = "Ironhammer Internal Complaint Form"
 	available_on_ntnet = 1
 
 /datum/computer_file/report/recipient/sec/complaint/generate_fields()
 	..()
-	add_field(/datum/report_field/instruction, "Aegis Complaint Form")
+	add_field(/datum/report_field/instruction, "Ironhammer Complaint Form")
 	add_field(/datum/report_field/instruction, "Vessel: CEV Eris")
 	add_field(/datum/report_field/date, "Date")
 	add_field(/datum/report_field/time, "Time")
@@ -115,9 +115,9 @@
 	add_field(/datum/report_field/pencode_text, "Witness Details (if applicable)")
 	add_field(/datum/report_field/signature, "Signature of Complainent:")
 	add_field(/datum/report_field/instruction, "\[center\]\[i\]Provide Commander Resolution, Commander Signature, and Commander Stamp below\[/i\]\[/center\]\[hr\]\[/small\]")
-	add_field(/datum/report_field/pencode_text, "Aegis Commander Resolution:")
-	add_field(/datum/report_field/signature, "Aegis Commander Signature")
-	add_field(/datum/report_field/instruction, "\[small\]\[center\]This form is for official AEGIS SECURITY use ONLY. \[br\] Any information contained in this form will be considered CLASSIFIED to all but those who are approved to use and view this document\[/center\]\[/small\]")
+	add_field(/datum/report_field/pencode_text, "Ironhammer Commander Resolution:")
+	add_field(/datum/report_field/signature, "Ironhammer Commander Signature")
+	add_field(/datum/report_field/instruction, "\[small\]\[center\]This form is for official IRONHAMMER SECURITY use ONLY. \[br\] Any information contained in this form will be considered CLASSIFIED to all but those who are approved to use and view this document\[/center\]\[/small\]")
 
 /datum/computer_file/report/recipient/sec/investigation
 	form_name = "IR-AS-43"
@@ -126,7 +126,7 @@
 
 /datum/computer_file/report/recipient/sec/investigation/generate_fields()
 	..()
-	add_field(/datum/report_field/instruction, "Aegis Division CEV Eris")
+	add_field(/datum/report_field/instruction, "Ironhammer Division CEV Eris")
 	add_field(/datum/report_field/instruction, "For internal use only.")
 	add_field(/datum/report_field/people/from_manifest, "Name")
 	add_field(/datum/report_field/date, "Date")
@@ -144,7 +144,7 @@
 
 /datum/computer_file/report/recipient/sec/incident/generate_fields()
 	..()
-	add_field(/datum/report_field/instruction, "Aegis Division CEV Eris")
+	add_field(/datum/report_field/instruction, "Ironhammer Division CEV Eris")
 	add_field(/datum/report_field/instruction, "To be filled out by Operative on duty responding to the Incident. Report must be signed and submitted before the end of the shift!")
 	add_field(/datum/report_field/people/from_manifest, "Reporting Operative")
 	add_field(/datum/report_field/simple_text, "Offense/Incident Type")
@@ -166,7 +166,7 @@
 /datum/computer_file/report/recipient/sec/evidence/generate_fields()
 	..()
 	var/datum/report_field/temp_field
-	add_field(/datum/report_field/instruction, "Aegis Division CEV Eris")
+	add_field(/datum/report_field/instruction, "Ironhammer Division CEV Eris")
 	add_field(/datum/report_field/date, "Date")
 	add_field(/datum/report_field/time, "Time")
 	add_field(/datum/report_field/people/from_manifest, "Confiscated from")

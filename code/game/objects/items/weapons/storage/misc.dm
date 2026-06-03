@@ -75,8 +75,8 @@
 /obj/item/storage/ration_pack/ihr
 	icon = 'icons/obj/food.dmi'
 	icon_state = "ihr_closed"
-	name = "aegis ration pack"
-	desc = "Silvery plastic package, with the words \"Aegis Security Solutions\" pasted onto the front. Seems air tight, and vacuum sealed. \
+	name = "ironhammer ration pack"
+	desc = "Silvery plastic package, with the words \"Ironhammer Security Solutions\" pasted onto the front. Seems air tight, and vacuum sealed. \
 	The packaging holds usage information within the fineprint: \
 	\"Instructions: Remove contents from packaging, open ration can, use them in-hand to activate thermal heater. \
 	Thermal insulation will keep them warm for over four hours. Crayons for taste. \

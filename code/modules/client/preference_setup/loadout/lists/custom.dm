@@ -96,7 +96,7 @@
 	ckey = "timidvi"
 
 /datum/gear/custom/scorn7
-	display_name = "Dalphine Panzers Aegis Jager suit"
+	display_name = "Dalphine Panzers Ironhammer Jager suit"
 	path = /obj/item/clothing/under/rank/dalphine
 	ckey = "scorn7"
 

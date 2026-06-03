@@ -19,9 +19,9 @@
 	icon_override = 'zzz_modular_eclipse/icons/clothing/onmob/male/under.dmi'
 	icon_override_female = 'zzz_modular_eclipse/icons/clothing/onmob/female/under.dmi'
 
-//Aegis Cadet
+//Ironhammer Cadet
 /obj/item/clothing/under/rank/cadet
-	desc = "It's a jumpsuit worn by fresh Aegis recruits and cadets."
+	desc = "It's a jumpsuit worn by fresh Ironhammer recruits and cadets."
 	name = "cadet's jumpsuit"
 	icon_state = "cadet"
 	item_state = "cadet"
@@ -30,7 +30,7 @@
 	icon_override_female = 'zzz_modular_eclipse/icons/clothing/onmob/male/under.dmi'
 
 /obj/item/clothing/under/rank/cadet_skirt
-	desc = "It's a jumpskirt worn by fresh Aegis recruits and cadets."
+	desc = "It's a jumpskirt worn by fresh Ironhammer recruits and cadets."
 	name = "cadet's jumpskirt"
 	icon_state = "cadet_skirt"
 	item_state = "cadet_skirt"

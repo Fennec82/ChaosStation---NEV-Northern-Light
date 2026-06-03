@@ -20,7 +20,7 @@
 	icon_state = "stamp-hop"
 
 /obj/item/stamp/hos
-	name = "aegis commander's rubber stamp"
+	name = "ironhammer commander's rubber stamp"
 	icon_state = "stamp-hos"
 
 /obj/item/stamp/ce

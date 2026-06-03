@@ -281,7 +281,7 @@
 
 //Faction Corpses//
 /obj/landmark/corpse/operative
-	name = "Aegis Operative"
+	name = "Ironhammer Operative"
 	corpseuniform = list(/obj/item/clothing/under/rank/security, /obj/item/clothing/under/rank/security/turtleneck)
 	corpseshoes = /obj/item/clothing/shoes/jackboots/ironhammer
 	corpsegloves = list(/obj/item/clothing/gloves/security/ironhammer, /obj/item/clothing/gloves/stungloves)
@@ -292,7 +292,7 @@
 	corpsemask = /obj/item/clothing/mask/balaclava/tactical
 	corpsebelt = /obj/item/storage/belt/tactical/ironhammer
 	corpseid = 1
-	corpseidjob = "Aegis Operative"
+	corpseidjob = "Ironhammer Operative"
 	corpseidaccess = "ihoper"
 	injury_level = 9
 

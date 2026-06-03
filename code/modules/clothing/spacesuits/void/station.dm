@@ -207,7 +207,7 @@
 
 	//Security
 /obj/item/clothing/head/space/void/security
-	name = "aegis voidsuit helmet"
+	name = "ironhammer voidsuit helmet"
 	desc = "A special helmet designed for work in a hazardous, low pressure environment. Sacrifices sight for protection."
 	icon_state = "ihsvoidhelm"
 	item_state = "ihsvoidhelm"
@@ -228,7 +228,7 @@
 	light_overlay = "helmet_light_ihs"
 
 /obj/item/clothing/suit/space/void/security
-	name = "aegis voidsuit"
+	name = "ironhammer voidsuit"
 	icon_state = "ihvoidsuit"
 	desc = "A bulky suit that protects against hazardous, low pressure environments. Sacrifices mobility for protection."
 	item_state = "ihvoidsuit"

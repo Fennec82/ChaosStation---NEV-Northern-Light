@@ -35,7 +35,7 @@
 	origin_tech = list(TECH_COVERT = 3)
 
 /obj/item/device/encryptionkey/headset_sec
-	name = "aegis radio encryption key"
+	name = "ironhammer radio encryption key"
 	icon_state = "sec_cypherkey"
 	channels = list("Security" = 1)
 
@@ -96,7 +96,7 @@
 	channels = list("Science" = 1, "Medical" = 1, "Command" = 1)
 
 /obj/item/device/encryptionkey/heads/hos
-	name = "aegis commander's encryption key"
+	name = "ironhammer commander's encryption key"
 	icon_state = "hos_cypherkey"
 	channels = list("Security" = 1, "Command" = 1)
 

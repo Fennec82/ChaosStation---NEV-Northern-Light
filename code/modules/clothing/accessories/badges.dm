@@ -6,14 +6,14 @@
 
 /obj/item/clothing/accessory/badge
 	name = "Inspector's badge"
-	desc = "A Aegis Security badge, made from gold and set on false leather."
+	desc = "A Ironhammer Security badge, made from gold and set on false leather."
 	icon_state = "badge"
 	item_state = "marshalbadge"
 	slot_flags = SLOT_BELT | SLOT_ACCESSORY_BUFFER
 	price_tag = 200
 
 	var/stored_name
-	var/badge_string = "Aegis Security"
+	var/badge_string = "Ironhammer Security"
 
 /obj/item/clothing/accessory/badge/old
 	name = "faded badge"
@@ -44,7 +44,7 @@
 //.Holobadges.
 /obj/item/clothing/accessory/badge/holo
 	name = "holobadge"
-	desc = "This glowing blue badge marks the holder as a member of Aegis Security."
+	desc = "This glowing blue badge marks the holder as a member of Ironhammer Security."
 	icon_state = "holobadge"
 	item_state = "holobadge"
 	var/emagged //Emagging removes Sec check.
@@ -96,7 +96,7 @@
 
 /obj/item/clothing/accessory/badge/holo/specialist
 	name = "Specialist's Holo Badge"
-	desc = "This medical teal badge marks the holder as an honorable Aegis Security Medical Specialist."
+	desc = "This medical teal badge marks the holder as an honorable Ironhammer Security Medical Specialist."
 	icon_state = "specbadge"
 	item_state = "specbadge"
 	slot_flags = SLOT_ACCESSORY_BUFFER
@@ -104,7 +104,7 @@
 
 /obj/item/clothing/accessory/badge/holo/sergeant
 	name = "Sergeant Holo badge"
-	desc = "This glowing red badge marks the holder as a distinguished Aegis Security Sergeant"
+	desc = "This glowing red badge marks the holder as a distinguished Ironhammer Security Sergeant"
 	icon_state = "sargebadge"
 	item_state = "sargebadge"
 	slot_flags = SLOT_ACCESSORY_BUFFER
@@ -112,7 +112,7 @@
 
 /obj/item/clothing/accessory/badge/commander
 	name = "Commander's badge"
-	desc = "An immaculately polished gold Aegis Security badge. Labeled 'Commander.'"
+	desc = "An immaculately polished gold Ironhammer Security badge. Labeled 'Commander.'"
 	icon_state = "goldbadge"
 	item_state = "goldbadge"
 	slot_flags = SLOT_ACCESSORY_BUFFER
@@ -120,16 +120,16 @@
 
 /obj/item/clothing/accessory/badge/inspector
 	name = "Inspector's badge"
-	desc = "A leather-backed silver badge displaying the crest of the Aegis Inspectors."
+	desc = "A leather-backed silver badge displaying the crest of the Ironhammer Inspectors."
 	icon_state = "inspectorbadge"
 	item_state = "inspectorbadge"
-	badge_string = "Aegis Investigation Agency"
+	badge_string = "Ironhammer Investigation Agency"
 	spawn_blacklisted = TRUE
 
 /obj/item/clothing/accessory/badge/marshal
 	name = "Marshal's badge"
-	desc = "A leather-backed gold badge displaying the crest of the Aegis Marshals."
+	desc = "A leather-backed gold badge displaying the crest of the Ironhammer Marshals."
 	icon_state = "marshalbadge"
 	item_state = "marshalbadge"
-	badge_string = "Aegis Bounty Bureau"
+	badge_string = "Ironhammer Bounty Bureau"
 	spawn_blacklisted = TRUE

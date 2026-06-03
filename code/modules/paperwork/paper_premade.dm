@@ -223,7 +223,7 @@
 	 2. Assist others.
 	 3. Repair structural problems.
 
-	\[b\]Aegis Commander\[/b\] 4>5-2-2
+	\[b\]Ironhammer Commander\[/b\] 4>5-2-2
 	People assigned as Commander should issue orders to the security staff. They should also carefully moderate the usage of all security equipment. All security matters should be reported to this person.
 	 1. Oversee security.
 	 2. Assign patrol duties.
@@ -308,7 +308,7 @@
 /obj/item/paper/self_pacification
 	name = "Self-Pacification and You!"
 	info = {"\[h1\]\[center\]\[b\]Self-Pacification and You!\[/b\]\[/center\]\[/h1\]
-	As pursuant to \[b\]\"NanoTrasen Property Rights For Detainees\"\[/b\], \[b\]Aster's Guild's \"Assembly Upon The Definition of Aggression\"\[/b\], and the good initiative of \[b\]Aegis Command\[/b\]; these steps have been laid to better actuate your personal property rights while within indefinite detainment:
+	As pursuant to \[b\]\"NanoTrasen Property Rights For Detainees\"\[/b\], \[b\]Aster's Guild's \"Assembly Upon The Definition of Aggression\"\[/b\], and the good initiative of \[b\]Ironhammer Command\[/b\]; these steps have been laid to better actuate your personal property rights while within indefinite detainment:
 
 	\[b\]1.\[/b\] That those detained have access to nourishment necessary to maintain the active status of their person.
 	\[b\]2.\[/b\] That those detained have right to be free from aggression, unprovoked harassment, and must be provided the means to be so.
@@ -324,11 +324,11 @@
 	\[b\]4.\[/b\] Once you are made comfortable in suitable position, activate your tank's pressure valve for painless experience.
 	\[b\]5.\[/b\] You have successfully actuated your personal property rights!
 
-	\[small\]\[i\]Note: In the event that the tanks have been otherwise consumed, your host Dispute Resolution Organization: \[u\]\[b\]\"Aegis Security Solutions\"\[/b\]\[/u\] must provide alternative within \"30\" minutes during business hours upon request.\[/i\]\[/small\]
+	\[small\]\[i\]Note: In the event that the tanks have been otherwise consumed, your host Dispute Resolution Organization: \[u\]\[b\]\"Ironhammer Security Solutions\"\[/b\]\[/u\] must provide alternative within \"30\" minutes during business hours upon request.\[/i\]\[/small\]
 
 
 
-	\[center\]\[aegis\]\[/center\]
+	\[center\]\[ironhammer\]\[/center\]
 	\[center\]\[small\]\[b\]Remember!\[/b\]\[/small\]\[/center\]
 	\[center\]\[small\]\[i\]\"Depression is voluntary, freedom is not!\"\[/i\]\[/small\]\[/center\]
 	\[br\]"}
@@ -351,7 +351,7 @@
 	After you do that, try to build a story of what happened, replay the events from this guy's perspective, find out why he was murdered. \n
 
 	The killer can't always be undeniably convicted, most of them wear gloves, but gloves bear a dark secret, the guns they use with them on leave a print on them, the smoke of the shell ejection itself. \n
-	You can swab it off, different calibers produce different intensities of it, but you will always know which one it is, after all you took the Aegis Detective course, right? \n
+	You can swab it off, different calibers produce different intensities of it, but you will always know which one it is, after all you took the Ironhammer Detective course, right? \n
 	I consider it the best trick in the book, a murderer never leaves his fingerprints, but he always wears his gloves. \n
 
 	Anyway, enjoy your time onboard, your duty is vital to keeping the shit-bin rolling, keep investigating and make the LT proud. \n

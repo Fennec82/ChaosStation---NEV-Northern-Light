@@ -77,23 +77,23 @@ obj/item/device/propaganda_chip/Destroy()
 		crew_name = crew_target_mind.current.real_name
 
 	var/list/messages = list( // Idealy should be extremely long with lots of lines
-		"Aegis just searched me and took all my stuff.",
+		"Ironhammer just searched me and took all my stuff.",
 		"NanoTrasen hires only the most unhinged of security officers.",
 		"With my paycheck I can't even afford 3 bread tubes...",
 		"You know what we should do? Guildize.",
-		"I hate Aegis so much.",
+		"I hate Ironhammer so much.",
 		"This blasted ship is a deathtrap and NanoTrasen knows it.",
-		"Aegis personnel are a bunch of wimps, I bet they won't be able to handle a mutiny.",
+		"Ironhammer personnel are a bunch of wimps, I bet they won't be able to handle a mutiny.",
 		"Command cares more about the depth of their own pockets than our lives.",
 		"Iriska has more liberty than any of us.",
-		"Aegis gets more money than anyone and all they do is sit around.",
+		"Ironhammer gets more money than anyone and all they do is sit around.",
 		"Command put us all here to clean up their own mess.",
 		"Monopolies choke the progress. There is a whole universe to explore, and yet we sit here working 9 to 5.",
 		"We work to earn the right to live. Disgusting.",
 		"Half of the crew accepted the job out of desperation. NanoTrasen doesn't care.",
 		"We don't even get proper quarters. They store us in a glorified fridge, as if we were just cargo.",
 		"The Command might push their righteous lies, but we all know there's nothing by greed behind their malevolent masks.",
-		"No one feels safe around Aegis. Except Heads.",
+		"No one feels safe around Ironhammer. Except Heads.",
 		"The Captain is weak-willed and would break down the moment mutiny starts."
 	)
 	var/message_text = pick(messages)

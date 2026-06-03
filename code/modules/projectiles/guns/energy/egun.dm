@@ -40,7 +40,7 @@
 
 /obj/item/gun/energy/gun/martin
 	name = "\improper FS LHG S \"Martin\""  //Eclipse Edit - gun names standardized
-	desc = "The Martin is essentialy a downscaled Spider Rose, made for Aegis employees and civilians to use as a personal self defence weapon."
+	desc = "The Martin is essentialy a downscaled Spider Rose, made for Ironhammer employees and civilians to use as a personal self defence weapon."
 	icon = 'icons/obj/guns/energy/pdw.dmi'
 	icon_state = "PDW"
 	item_state = "gun"

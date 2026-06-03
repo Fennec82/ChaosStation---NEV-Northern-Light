@@ -241,8 +241,8 @@
 
 	overlay_status_display = "status_display_red"
 
-	up_description = "There is an immediate confirmed threat to the vessel. Everyone is required to follow Aegis Security's instructions. Random searches are allowed and advised."
-	down_description = "There is an immediate confirmed threat to the vessel. Everyone is required to follow Aegis Security's instructions. Random searches are allowed and advised."
+	up_description = "There is an immediate confirmed threat to the vessel. Everyone is required to follow Ironhammer Security's instructions. Random searches are allowed and advised."
+	down_description = "There is an immediate confirmed threat to the vessel. Everyone is required to follow Ironhammer Security's instructions. Random searches are allowed and advised."
 /decl/security_level/default/code_violet
 	name = "code violet"
 

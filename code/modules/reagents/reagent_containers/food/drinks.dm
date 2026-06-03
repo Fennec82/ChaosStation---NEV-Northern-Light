@@ -367,8 +367,8 @@
 	icon_state = "mug_serb"
 
 /obj/item/reagent_containers/food/drinks/mug/ironhammer
-	name = "Aegis mug"
-	desc = "A mug with an Aegis Security Solutions logo on it."
+	name = "Ironhammer mug"
+	desc = "A mug with an Ironhammer Security Solutions logo on it."
 	icon_state = "mug_hammer"
 
 /obj/item/reagent_containers/food/drinks/mug/league

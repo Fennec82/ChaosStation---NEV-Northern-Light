@@ -75,7 +75,7 @@
 		\[logo\] - Inserts NanoTrasen logo image.
 		\[ftu\] - Inserts Guild logo image.
 		\[lazarus\] - Inserts Lazarus logo image.
-		\[aegis\] - Inserts Aegis logo image."}
+		\[ironhammer\] - Inserts Ironhammer logo image."}
 
 		to_chat(usr, help)
 		return TRUE

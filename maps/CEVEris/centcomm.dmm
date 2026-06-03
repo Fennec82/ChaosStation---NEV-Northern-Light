@@ -6367,7 +6367,7 @@
 /area/centcom/merc_base)
 "CE" = (
 /obj/machinery/door/airlock/command{
-	name = "Aegis Security Solutions Colonel";
+	name = "Ironhammer Security Solutions Colonel";
 	req_access = list(101)
 	},
 /turf/simulated/floor/carpet/bcarpet,

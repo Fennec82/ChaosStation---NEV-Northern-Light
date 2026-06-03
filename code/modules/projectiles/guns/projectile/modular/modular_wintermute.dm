@@ -1,6 +1,6 @@
 /obj/item/gun/projectile/automatic/modular/wintermute // Frame
 	name = "\improper \"Wintermute\"" //Eclipse Edit - added \improper
-	desc = "A high end military grade assault rifle, designed as a modern ballistic infantry weapon. Primarily used by and produced for Aegis troops. Uses .20 Rifle magazines. \
+	desc = "A high end military grade assault rifle, designed as a modern ballistic infantry weapon. Primarily used by and produced for Ironhammer troops. Uses .20 Rifle magazines. \
 			The design was made to be able to fit long magazine alongside the standard ones." //Eclipse Edit - lore compliance
 	icon = 'icons/obj/guns/projectile/modular/wintermute.dmi'
 	w_class = ITEM_SIZE_BULKY

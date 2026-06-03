@@ -17,13 +17,13 @@ GLOBAL_LIST_INIT(antag_item_targets,list(
 		"a Technomancer Exultant's jumpsuit" = /obj/item/clothing/under/rank/exultant,
 		"a Moebius Biolab Officer's jumpsuit" = /obj/item/clothing/under/rank/moebius_biolab_officer,
 
-		"an Aegis commander's jumpsuit" = /obj/item/clothing/under/rank/ih_commander,
+		"an Ironhammer commander's jumpsuit" = /obj/item/clothing/under/rank/ih_commander,
 
 		"a First Officer's jumpsuit" = /obj/item/clothing/under/rank/first_officer,
 		"the hypospray" = /obj/item/reagent_containers/hypospray,
 		"the captain's pinpointer" = /obj/item/pinpointer,
 		"an ablative armor vest" = /obj/item/clothing/suit/armor/laserproof/full,
-		"an Aegis hardsuit control module" = /obj/item/rig/combat/ironhammer
+		"an Ironhammer hardsuit control module" = /obj/item/rig/combat/ironhammer
 	))
 GLOBAL_LIST_INIT(excel_item_targets,list(
 		"a Miller revolver" = /obj/item/gun/projectile/revolver,

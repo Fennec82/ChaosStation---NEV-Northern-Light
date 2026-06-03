@@ -60,7 +60,7 @@
 	funding_source = DEPARTMENT_COMMAND
 
 /datum/department/ironhammer
-	name = "Aegis Security Solutions"
+	name = "Ironhammer Security Solutions"
 	id = DEPARTMENT_SECURITY
 
 /datum/department/civilian
