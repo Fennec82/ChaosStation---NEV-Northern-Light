@@ -306,8 +306,6 @@
 	landmark_tag = "nav_merc_sec3east5"
 
 //Cargo shuttle
-
-/* ECLIPSE EDIT - removed to prevent runtimes
 /datum/shuttle/autodock/ferry/supply/drone
 	name = "Supply Shuttle"
 	location = 1
@@ -325,4 +323,3 @@
 	name = "Dock"
 	landmark_tag = "nav_cargo_vessel"
 	dock_target = "cargo_bay"
-*/
