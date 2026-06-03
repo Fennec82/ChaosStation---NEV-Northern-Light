@@ -55,7 +55,7 @@
 /datum/computer_file/report/recipient/borging
 	form_name = "CC-LFL-09"
 	title = "Cyborgification Contract"
-	logo = "\[lazarus\]"
+	logo = "\[moebus_logo\]"
 	available_on_ntnet = 1
 
 /datum/computer_file/report/recipient/borging/generate_fields()
@@ -214,7 +214,7 @@
 	add_field(/datum/report_field/pencode_text, "Additional Undocking Comments")
 
 /datum/computer_file/report/recipient/fauna
-	logo = "\[lazarus\]"
+	logo = "\[moebus_logo\]"
 	form_name = "AFR-LFL-19f"
 	title = "Alien Fauna Report"
 	available_on_ntnet = 1
@@ -244,7 +244,7 @@
 //NT reports, mostly for liason but can be used by any NT personnel.
 
 /datum/computer_file/report/recipient/laz
-	logo = "\[lazarus\]"
+	logo = "\[moebus_logo\]"
 
 /datum/computer_file/report/recipient/laz/proc/add_header()
 	add_field(/datum/report_field/simple_text, "Vessel", "CEV Eris")
@@ -273,7 +273,7 @@
 	add_field(/datum/report_field/simple_text, "Threat Level of AO")
 
 /datum/computer_file/report/recipient/nt
-	logo = "\[logo\]"
+	logo = "\[Mekhane\]"
 
 /datum/computer_file/report/recipient/nt/proc/add_header()
 	add_field(/datum/report_field/simple_text, "Vessel", "CEV Eris")
@@ -376,8 +376,8 @@
 
 /datum/computer_file/report/recipient/laz/volunteer
 	form_name = "TSV-LFL-1443"
-	title = "Lazarus Test Subject Volunteer Form"
-	logo= "\[lazarus\]"
+	title = "Moebius Test Subject Volunteer Form"
+	logo= "\[moebus_logo\]"
 	available_on_ntnet = 1
 
 /datum/computer_file/report/recipient/laz/volunteer/generate_fields()
@@ -388,10 +388,10 @@
 	add_field(/datum/report_field/simple_text, "Intended Procedure(s)")
 	add_field(/datum/report_field/simple_text, "Compensation for Volunteer: (if any)")
 	add_field(/datum/report_field/people/list_from_manifest, "Handling Researcher(s)")
-	add_field(/datum/report_field/instruction, "By signing, the \"Volunteer\" agrees to absolve the Lazarus Foundation, and its employees, of any liability or responsibility for injuries, damages, property loss or side-effects that may result from the intended procedure. If signed by an authorized representative of the Lazarus Foundation, this form is deemed reviewed, but is only approved if so marked.")
+	add_field(/datum/report_field/instruction, "By signing, the \"Volunteer\" agrees to absolve the Moebius Foundation, and its employees, of any liability or responsibility for injuries, damages, property loss or side-effects that may result from the intended procedure. If signed by an authorized representative of the Moebius Foundation, this form is deemed reviewed, but is only approved if so marked.")
 	add_field(/datum/report_field/signature, "Volunteer's Signature:")
 	add_field(/datum/report_field/signature, "Volunteer's Department Head Signature:")
-	temp_fields += add_field(/datum/report_field/signature, "Lazarus Representative's Signature")
+	temp_fields += add_field(/datum/report_field/signature, "Moebius Representative's Signature")
 	temp_fields += add_field(/datum/report_field/options/yes_no, "Approved")
 	for(var/datum/report_field/temp_field in temp_fields)
 		temp_field.set_access(access_edit = access_moebius)
@@ -404,8 +404,8 @@
 /datum/computer_file/report/recipient/nt/deny/generate_fields()
 	..()
 	add_header()
-	add_field(/datum/report_field/instruction, "Dear Sir/Madam, we regret to inform you that your volunteer application for service as a test subject with the Lazarus Foundation Laboratories has been rejected. We thank you for your interest in our company and the progression of research. Attached, you will find a copy of your original volunteer form for your records. Regards,")
-	add_field(/datum/report_field/signature, "Lazarus Representative's Signature")
+	add_field(/datum/report_field/instruction, "Dear Sir/Madam, we regret to inform you that your volunteer application for service as a test subject with the Moebius Foundation Laboratories has been rejected. We thank you for your interest in our company and the progression of research. Attached, you will find a copy of your original volunteer form for your records. Regards,")
+	add_field(/datum/report_field/signature, "Moebius Representative's Signature")
 	add_field(/datum/report_field/people/from_manifest, "Name of Volunteer")
 	add_field(/datum/report_field/instruction, "Reason for Rejection")
 	add_field(/datum/report_field/options/yes_no, "Physically Unfit")
