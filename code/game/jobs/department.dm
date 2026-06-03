@@ -75,13 +75,13 @@
 *******************/
 //Departments subsidised by an external organisation. These pay their own employees
 /datum/department/moebius_medical
-	name = "Lazarus Foundation: Medical Division"
+	name = "Moebius: Medical Division"
 	id = DEPARTMENT_MEDICAL
 	account_initial_balance = 5000
 	funding_source = "DEPARTMENT_SCIENCE"
 
 /datum/department/moebius_research
-	name = "Lazarus Foundation: Research Division"
+	name = "Moebius: Research Division"
 	id = DEPARTMENT_SCIENCE
 	account_initial_balance = 10000 //For buying materials and components and things of scientific value
 

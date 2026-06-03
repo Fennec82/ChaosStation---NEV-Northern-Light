@@ -193,7 +193,7 @@
 /var/const/access_rd = 30
 /datum/access/rd
 	id = access_rd
-	desc = "Chief Science Officer"
+	desc = "Moebius Expedition Overseer"
 	region = ACCESS_REGION_RESEARCH
 
 /var/const/access_cargo = 31
@@ -249,7 +249,7 @@
 /var/const/access_cmo = 40
 /datum/access/cmo
 	id = access_cmo
-	desc = "Chief Medical Officer"
+	desc = "Moebius Biolab Officer"
 	region = ACCESS_REGION_MEDBAY
 
 /var/const/access_rd_consoles = 39 //Eclipse Edit - console access

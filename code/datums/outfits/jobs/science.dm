@@ -12,7 +12,7 @@
 	BACKPACK_OVERRIDE_RESEARCH
 
 /decl/hierarchy/outfit/job/science/rd
-	name = OUTFIT_JOB_NAME("Chief Science Officer")
+	name = OUTFIT_JOB_NAME("Moebius Expedition Overseer")
 	l_ear = /obj/item/device/radio/headset/heads/rd
 	shoes = /obj/item/clothing/shoes/reinforced
 	uniform = /obj/item/clothing/under/rank/expedition_overseer

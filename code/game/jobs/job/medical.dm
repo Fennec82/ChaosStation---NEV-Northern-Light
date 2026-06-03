@@ -1,5 +1,5 @@
 /datum/job/cmo
-	title = "Chief Medical Officer"
+	title = "Moebius Biolab Officer"
 	flag = CMO
 	head_position = 1
 	department = DEPARTMENT_MEDICAL
@@ -7,7 +7,7 @@
 	faction = "CEV Eris"
 	total_positions = 1
 	spawn_positions = 1
-	supervisors = "Lazarus Foundation"
+	supervisors = "Moebius"
 	selection_color = "#94a87f"
 	req_admin_notify = 1
 	wage = WAGE_COMMAND
@@ -41,7 +41,7 @@
 	description = "You are the head of the Medical Bay on the CEV Eris and provide medical services to the crew.<br>\
 You are here to keep everyone alive and ideally, at work. You should make choices that preserve life as much as possible.<br>\
 
-The handling of the medbay is your domain, although remember that both medical and science are branches of Lazarus Foundation, so your colleagues have free access to your resources, and vice versa"
+The handling of the medbay is your domain, although remember that both medical and science are branches of Moebius, so your colleagues have free access to your resources, and vice versa"
 
 	duties = "Organise the doctors under your command to help save lives. Assign patients, and check on their progress periodically<br>\
 Dispatch your paramedics to distress calls, and corpse recoveries as needed<br>\
@@ -52,10 +52,10 @@ In times of crisis, lock down the medbay to protect those within, from outside t
 
 	loyalties = "As a doctor, your first loyalty is to your conscience. You swore an oath to save lives and do no harm. It falls on you to be the ethical and moral core of the crew. You should speak up for prisoners, captured lifeforms, and test subjects. Nobody else will.<br>\
 
-Your second loyalty is to your career with Lazarus, and to your coworkers in both Medical and Research. Help out your scientific colleagues, and aid in their pursuit of knowledge."
+Your second loyalty is to your career with Moebius, and to your coworkers in both Medical and Research. Help out your scientific colleagues, and aid in their pursuit of knowledge."
 
 /obj/landmark/join/start/cmo
-	name = "Chief Medical Officer"
+	name = "Moebius Biolab Officer"
 	icon_state = "player-green-officer"
 	join_tag = /datum/job/cmo
 
@@ -68,7 +68,7 @@ Your second loyalty is to your career with Lazarus, and to your coworkers in bot
 	faction = "CEV Eris"
 	total_positions = 5
 	spawn_positions = 5
-	supervisors = "the Chief Medical Officer"
+	supervisors = "the Moebius Biolab Officer"
 	selection_color = "#a8b69a"
 	wage = WAGE_PROFESSIONAL
 	alt_titles = list("Surgeon", "Nurse", "Medical Intern")
@@ -109,7 +109,7 @@ You are expected to be knowledgeable and competent in at least basic treatment, 
 
 	loyalties = "As a doctor, your first loyalty is to your conscience. You swore an oath to save lives and do no harm. It falls on you to be the ethical and moral core of the crew. You should speak up for prisoners, captured lifeforms, and test subjects. Nobody else will.<br>\
 
-Your second loyalty is to your career with Lazarus, and to your coworkers in both Medical and Research. Help out your scientific colleagues, and aid in their pursuit of knowledge."
+Your second loyalty is to your career with Moebius, and to your coworkers in both Medical and Research. Help out your scientific colleagues, and aid in their pursuit of knowledge."
 
 /obj/landmark/join/start/doctor
 	name = "Medical Doctor"
@@ -126,7 +126,7 @@ Your second loyalty is to your career with Lazarus, and to your coworkers in bot
 	faction = "CEV Eris"
 	total_positions = 2
 	spawn_positions = 2
-	supervisors = "the Chief Medical Officer"
+	supervisors = "the Moebius Biolab Officer"
 	selection_color = "#a8b69a"
 	wage = WAGE_PROFESSIONAL
 	outfit_type = /decl/hierarchy/outfit/job/medical/chemist
@@ -150,17 +150,17 @@ Your second loyalty is to your career with Lazarus, and to your coworkers in bot
 	<br>\
 	Your primary responsibility is working as a pharmacist. Prepare medicines for use by the medical staff, so that they can capably treat a broad variety of conditions. It's good to keep a stock of bicaridine, dexalin, peridaxon, and alkysine.<br>\
 	<br>\
-	Your secondary responsibility is as a chemical manufacturer for Lazarus generally. You may be requested to make non-medical chemicals for your colleagues in science, or even for other medical staff. Anyone within moebius should be freely and quickly provided with anything they request. Don't question why, it's above your paygrade.<br>\
+	Your secondary responsibility is as a chemical manufacturer for Moebius generally. You may be requested to make non-medical chemicals for your colleagues in science, or even for other medical staff. Anyone within moebius should be freely and quickly provided with anything they request. Don't question why, it's above your paygrade.<br>\
 	<br>\
 	Your third duty is to run a chemical sales outlet. You may get requests from other crewmembers to make acid, chemical grenades, smoke, cleaning products, napalm, or perhaps even just to make medicines. You are fully licensed to sell any and all chemicals to those outside moebius. Sell being the operative word here. If someone isn't an employee of Moebius corp, charge them for their chemicals.<br>\
 	<br>\
 	Its worth noting that you don't always have everything you need on hand. Some recipes will require external ingredients. Bicaridine, most notably, requires the roach toxin blattedin, so you should gather up roach corpses to hack apart for their chemicals. Pay assistants to do this if necessary"
 
 	duties = "		Mix medicines for doctors<br>\
-		Fill chemical requests for Lazarus staff<br>\
+		Fill chemical requests for Moebius staff<br>\
 		Sell chemicals and chem grenades to outsiders"
 
-	loyalties = "Your loyalty is to your career with Lazarus Foundation, and to your coworkers in both branches of Lazarus. Help out your scientific colleagues, and aid in their pursuit of knowledge."
+	loyalties = "Your loyalty is to your career with Moebius, and to your coworkers in both branches of Moebius. Help out your scientific colleagues, and aid in their pursuit of knowledge."
 
 
 /obj/landmark/join/start/chemist
@@ -178,7 +178,7 @@ Your second loyalty is to your career with Lazarus, and to your coworkers in bot
 	total_positions = 1
 	spawn_positions = 1
 	wage = WAGE_PROFESSIONAL
-	supervisors = "the Chief Medical Officer"
+	supervisors = "the Moebius Biolab Officer"
 	selection_color = "#a8b69a"
 	outfit_type = /decl/hierarchy/outfit/job/medical/psychiatrist
 
@@ -213,7 +213,7 @@ Your second loyalty is to your career with Lazarus, and to your coworkers in bot
 	faction = "CEV Eris"
 	total_positions = 3
 	spawn_positions = 3
-	supervisors = "the Chief Medical Officer"
+	supervisors = "the Moebius Biolab Officer"
 	selection_color = "#a8b69a"
 	wage = WAGE_LABOUR_HAZARD
 	outfit_type = /decl/hierarchy/outfit/job/medical/paramedic
@@ -235,7 +235,7 @@ Your second loyalty is to your career with Lazarus, and to your coworkers in bot
 							/datum/computer_file/program/chem_catalog,
 							 /datum/computer_file/program/camera_monitor)
 
-	description = "You are a Lazarus Paramedic, The hero of the hour! While doctors largely spend their time cloistered away in medbay, your job is to be out there on the frontlines. You work in the field, sometimes treating people on the spot, sometimes bringing them back to medical for specialist treatment. <br>\
+	description = "You are a Moebius Paramedic, The hero of the hour! While doctors largely spend their time cloistered away in medbay, your job is to be out there on the frontlines. You work in the field, sometimes treating people on the spot, sometimes bringing them back to medical for specialist treatment. <br>\
 	You have significant medical training, but typically you are not a doctor, and will most likely lack a medical degree. The actual doctors have seniority, and you should follow their orders, especially concerning treatment and diagnosis of a patient<br>\
 	<br>\
 	You need to be ready to run at a moment's notice, and as such you should take careful care of your gear. Pack as many medicines, treatments, rollerbeds and other equipment as you can. Be sure to bring along some kind of heavy tool for breaching sealed areas.<br>\
@@ -247,7 +247,7 @@ Your second loyalty is to your career with Lazarus, and to your coworkers in bot
 	This is the most dangerous part of your job, and recovery should only be attempted if you can reasonably do so without endangering yourself. If there are hostile creatures preventing recovery, call Security to deal with them.<br>\
 	<br>\
 	Character Expectations:<br>\
-	Paramedic is a physically demanding job, your character must be fit and strong. No fat bodies allowed<br>\
+	Paramedic is a physically demanding job, your character must be fit and strong. No fat characters allowed<br>\
 	EVA training is expected, you should be confident in a medical Voidsuit, and optionally in driving an odysseus mech<br>\
 	Remember that you are a noncombatant. Any weapons you carry should be used for breaching and rescue, not for killing. Use violence only as a last resort to defend yourself or your patient"
 
@@ -259,7 +259,7 @@ Your second loyalty is to your career with Lazarus, and to your coworkers in bot
 
 	loyalties = "As a medical specialist, your first loyalty is to save lives, you swore an oath to do no harm. When in any dangerous situation, do your best to ensure as many as possible come out of it alive. A martyr complex is not uncommon in paramedics<br>\
 	<br>\
-	Your second loyalty is to your immediate superior, the Chief Medical Officer. Follow their instructions and policies."
+	Your second loyalty is to your immediate superior, the Moebius Biolab Officer. Follow their instructions and policies."
 
 /obj/landmark/join/start/paramedic
 	name = "Trauma Team" //Eclipse Edit - Repolacing Paramedic with Trauma Team
@@ -274,7 +274,7 @@ Your second loyalty is to your career with Lazarus, and to your coworkers in bot
 	faction = "CEV Eris"
 	total_positions = 2
 	spawn_positions = 2
-	supervisors = "the Chief Medical Officer"
+	supervisors = "the Moebius Biolab Officer"
 	selection_color = "#a8b69a"
 	wage = WAGE_PROFESSIONAL
 	also_known_languages = list(LANGUAGE_CYRILLIC = 10)
@@ -308,17 +308,17 @@ Your second loyalty is to your career with Lazarus, and to your coworkers in bot
 						-Genetics: Using the Chrysalis Pod and its associated tools to develop new and powerful mutations. <br>\
 						-Visceral Research: Creating new organs or upgrading existing ones using the organ fabricator.<br>\
 						<br>\
-					You have full access to the Lazarus medical facilities, and can utilize them if medical is short staffed. \
+					You have full access to the Moebius Medical facilities, and can utilize them if medical is short staffed. \
 					If there are dedicated doctors or chemists on staff, they take priority and their respective work areas belongs to them.<br>\
 					<br>\
 					Character Expectations:<br>\
 					You may be a doctor, but your research comes first.<br>\
 					While you have priority in Visceral Research and Genetics, you are expected to provide doctors with organ replacements if necessary."
 
-	loyalties = "As a medical researcher, your first loyalty is to progress. Your placement on the crew of the Eris is the result of Lazarus' desire for knowledge and your own morbid curiosity.<br>\
-Your second loyalty is to your career with Lazarus, and to your coworkers in both branches of the corporation. Help out your scientific colleagues, and aid in their pursuit of knowledge."
+	loyalties = "As a medical researcher, your first loyalty is to progress. Your placement on the crew of the Eris is the result of Moebius' desire for knowledge and your own morbid curiosity.<br>\
+Your second loyalty is to your career with Moebius, and to your coworkers in both branches of the corporation. Help out your scientific colleagues, and aid in their pursuit of knowledge."
 
 /obj/landmark/join/start/bioengineer
-	name = "Lazarus Bio-Engineer"
+	name = "Moebius Bio-Engineer"
 	icon_state = "player-green"
 	join_tag = /datum/job/bioengineer

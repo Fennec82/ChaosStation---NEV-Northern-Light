@@ -54732,9 +54732,9 @@
 "cuD" = (
 /obj/machinery/requests_console{
 	announcementConsole = 1;
-	department = "Chief Science Officer's Desk";
+	department = "Moebius Expedition Overseer's Desk";
 	departmentType = 4;
-	name = "Chief Science Officer RC";
+	name = "Moebius Expedition Overseer RC";
 	pixel_x = -30
 	},
 /turf/simulated/floor/carpet/purcarpet,
@@ -71845,7 +71845,7 @@
 /obj/machinery/door/firedoor,
 /obj/structure/disposalpipe/segment,
 /obj/machinery/door/airlock/command{
-	name = "Lazarus Medical Officer's Quarters";
+	name = "Moebius Medical Officer's Quarters";
 	req_access = list(40)
 	},
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
@@ -79261,9 +79261,9 @@
 "dyS" = (
 /obj/machinery/requests_console{
 	announcementConsole = 1;
-	department = "Chief Medical Officer's Desk";
+	department = "Moebius Biolab Officer's Desk";
 	departmentType = 4;
-	name = "Chief Medical Officer RC";
+	name = "Moebius Biolab Officer RC";
 	pixel_y = 32
 	},
 /turf/simulated/floor/tiled/white/brown_perforated,
@@ -80508,7 +80508,7 @@
 /area/eris/medical/medbay/organs)
 "dBQ" = (
 /obj/machinery/door/airlock/glass_command{
-	name = "Lazarus Medical Officer";
+	name = "Moebius Medical Officer";
 	req_access = list(40)
 	},
 /obj/machinery/door/blast/regular{
@@ -107804,7 +107804,7 @@
 /area/eris/maintenance/section3deck5starboard)
 "kTP" = (
 /obj/machinery/door/airlock/glass_command{
-	name = "Lazarus Medical Officer";
+	name = "Moebius Medical Officer";
 	req_access = list(40)
 	},
 /obj/machinery/door/firedoor,

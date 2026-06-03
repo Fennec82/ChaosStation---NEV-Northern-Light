@@ -378,7 +378,7 @@
 
 /obj/item/reagent_containers/food/drinks/mug/moe
 	name = "Lazarus mug"
-	desc = "A white mug with Lazarus Foundation logo on it."
+	desc = "A white mug with Moebius logo on it."
 	icon_state = "mug_moe"
 
 /obj/item/reagent_containers/food/drinks/mug/aster

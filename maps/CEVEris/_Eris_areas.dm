@@ -1115,7 +1115,7 @@
 	icon_state = "robotics"
 
 /area/eris/rnd/rdoffice
-	name = "\improper Chief Science Officer's Office"
+	name = "\improper Moebius Expedition Overseer's Office"
 	icon_state = "head_quarters"
 
 /area/eris/rnd/supermatter

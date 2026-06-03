@@ -966,7 +966,7 @@
 /area/centcom/evac)
 "dc" = (
 /obj/machinery/door/airlock/command{
-	name = "Lazarus Foundation Board Member";
+	name = "Moebius Board Member";
 	req_access = list(101)
 	},
 /turf/simulated/floor/carpet/sblucarpet,

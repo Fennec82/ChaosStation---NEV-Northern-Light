@@ -73,7 +73,7 @@
 
 /obj/item/gun/projectile/automatic/c20r/moebius
 	name = "\improper LF SMG .35 Auto \"C-20m\""  //Eclipse Edit - gun names standardized
-	desc = "The C-20m is a Lazarus Foundation copy of the infamous C-20r, a lightweight and robust bullpup SMG of ancient design. \
+	desc = "The C-20m is a Moebius copy of the infamous C-20r, a lightweight and robust bullpup SMG of ancient design. \
 			Famous as the most popular SMG used by criminal organizations of various sorts. Uses .35 Auto rounds." //Eclipse Edit - spelling/grammar
 	icon = 'icons/obj/guns/projectile/c20m.dmi'
 	icon_state = "c20r"

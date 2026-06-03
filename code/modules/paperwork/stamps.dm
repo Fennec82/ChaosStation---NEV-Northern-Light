@@ -28,11 +28,11 @@
 	icon_state = "stamp-ce"
 
 /obj/item/stamp/rd
-	name = "chief science officer's rubber stamp"
+	name = "moebius expedition overseer's rubber stamp"
 	icon_state = "stamp-rd"
 
 /obj/item/stamp/cmo
-	name = "chief medical officer's rubber stamp"
+	name = "moebius biolab officer's rubber stamp"
 	icon_state = "stamp-cmo"
 
 /obj/item/stamp/denied

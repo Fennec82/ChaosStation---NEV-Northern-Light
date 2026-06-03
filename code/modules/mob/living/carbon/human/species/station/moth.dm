@@ -46,7 +46,7 @@
 
 	minimum_breath_pressure = 13	//Smaller, means they need less air. Also bubgs.
 */
-	blurb = "An experiment of growing vast amounts of organic silk gone awry! These insectoid creatures were created by Lazarus Foundation \
+	blurb = "An experiment of growing vast amounts of organic silk gone awry! These insectoid creatures were created by Moebius \
 	for commercial profit, but turned out to be sapient. Quickly adopted by the shrewd HR department of NanoTrasen, these arthropods \
 	are educated and assigned mostly as menial workers on NanoTrasen ships and stations."
 	

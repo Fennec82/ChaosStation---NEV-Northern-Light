@@ -13,9 +13,9 @@ GLOBAL_LIST_INIT(antag_item_targets,list(
 
 		"a sample of slime extract" = /obj/item/slime_extract,
 		"a piece of corgi meat" = /obj/item/reagent_containers/food/snacks/meat/corgi,
-		"a Chief Science Officer's jumpsuit" = /obj/item/clothing/under/rank/expedition_overseer,
+		"a Moebius Expedition Overseer's jumpsuit" = /obj/item/clothing/under/rank/expedition_overseer,
 		"a Technomancer Exultant's jumpsuit" = /obj/item/clothing/under/rank/exultant,
-		"a Chief Medical Officer's jumpsuit" = /obj/item/clothing/under/rank/moebius_biolab_officer,
+		"a Moebius Biolab Officer's jumpsuit" = /obj/item/clothing/under/rank/moebius_biolab_officer,
 
 		"an Aegis commander's jumpsuit" = /obj/item/clothing/under/rank/ih_commander,
 

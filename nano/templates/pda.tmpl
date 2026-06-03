@@ -337,7 +337,7 @@ Used In File(s): \code\game\objects\items\devices\PDA\PDA.dm
                 {{if data.manifest.med.length}}
                     <tr><th colspan="3" class="med">Medical</th></tr>
                     {{for data.manifest["med"]}}
-                        {{if value.rank == "Chief Medical Officer"}}
+                        {{if value.rank == "Moebius Biolab Officer"}}
                             <tr><td><span class="good">{{:value.name}}</span></td><td><span class="good">{{:value.rank}}</span></td><td><span class="good">{{:value.active}}</span></td></tr>
                         {{else}}
                             <tr><td><span class="average">{{:value.name}}</span></td><td><span class="average">{{:value.rank}}</span></td><td><span class="average">{{:value.active}}</span></td></tr>
