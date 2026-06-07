@@ -2992,4 +2992,7 @@
 #include "zzz_modular_eclipse\sawnoff\sawnoff.dm"
 #include "zzz_modular_eclipse\semiotic\semiotic.dm"
 #include "zzz_modular_eclipse\storytellers\tyrant.dm"
+#include "zzz_modular_zchaosstation\code\modules\sprite_accessories\sprite_acessories_ears_cs.dm"
+#include "zzz_modular_zchaosstation\code\modules\sprite_accessories\sprite_acessories_tails_cs.dm"
+#include "zzz_modular_zchaosstation\code\modules\sprite_accessories\sprite_acessories_taur_cs.dm"
 // END_INCLUDE
