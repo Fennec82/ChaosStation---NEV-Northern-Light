@@ -116,7 +116,7 @@
 
 //Moebius
 /obj/item/clothing/head/beret/moebius
-	name = "Lazarus beret"
+	name = "Moebius beret"
 	desc = "A purple beret emblazioned with the Moebius logo."
 	icon_state = "beret_moebius"
 	spawn_blacklisted = TRUE
