@@ -1,10 +1,10 @@
-#define ASSISTANT_TITLE "Deckhand"
+#define ASSISTANT_TITLE "Vagabond"
 
 //Jobs depatment lists for use in constant expressions
 #define JOBS_SECURITY "Ironhammer Commander","Gunnery Sergeant","Ironhammer Inspector","Ironhammer Operative","Ironhammer Medical Specialist"
 #define JOBS_COMMAND "Captain","First Officer","Bridge Officer","Ironhammer Commander","Aster's Guild Merchant","Technomancer Exultant","Moebius Biolab Officer","Moebius Expedition Overseer"
 #define JOBS_ENGINEERING "Technomancer Exultant","Technomancer","Technomancer Enforcer" //Eclipse Edit - Added Technomancer Enforcer
-#define JOBS_LAZARUS "Moebius Biolab Officer","Medical Doctor","Psychiatrist","Chemist","Trauma Team", "Moebius Expedition Overseer","Scientist","Roboticist" //Eclipse Edit - Replaced Paramedic with Trauma Team
+#define JOBS_LAZARUS "Moebius Biolab Officer","Medical Doctor","Psychiatrist","Chemist","Trauma Team", "Bio-Engineer", "Moebius Expedition Overseer","Scientist","Roboticist" //Eclipse Edit - Replaced Paramedic with Trauma Team
 #define JOBS_CARGO "Aster's Guild Merchant","Guild Cargo Technician","Guild Miner"
 #define JOBS_CIVILIAN "Club Manager","Club Worker",ASSISTANT_TITLE
 #define JOBS_MEDICAL "Moebius Biolab Officer","Medical Doctor","Psychiatrist","Chemist","Trauma Team" //Eclipse Edit - replaced Paramedic with Trauma Team
