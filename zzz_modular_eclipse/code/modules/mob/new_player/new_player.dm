@@ -3,8 +3,8 @@
 	new_player_panel_eclipse_proc()
 
 /mob/new_player/proc/new_player_panel_eclipse_proc()
-	var/output = "<font size=2>Congratulations! You have been granted the luxury to voyage into the unknown on the <B><u>CEV Eris</B></u>, one of <B>NanoTrasen's</B> newly refurbished state-of-the-art exploration and scientific survey vessels. Whether you're a NanoTrasen crew member, \
-	 a disciple of Neotheology, an Ironhammer Merc, a Free Trade swabbie or a Lazarus Doctor, welcome!"
+	var/output = "<font size=2>Congratulations! You have been granted the luxury to voyage into the unknown on the <B><u>CEV Eris</B></u>, a newly refurbished state-of-the-art exploration and scientific survey vessels. Whether you're a crew member, \
+	 a disciple of Neotheology, an Ironhammer Merc, a Free Trade swabbie or a Moebius Doctor, welcome!"
 	output += "<br>"
 	output += "<br>"
 	output += "Not every system is fully tested or optimized... and there are some unexplored deckspaces that we didn't have time to clear out. There's also a very minor roach problem, but that's nothing that will interfere with your mission."
@@ -19,7 +19,7 @@
 	output += "<br>"
 	output += "<br>"
 	output += "And remember, this ship is your lifeline; if you abandon it, there's no telling what could happen to you, or the crew that're left behind in cryostasis. \
-	And if you abandon it and get back to secure space, there's no telling what NanoTrasen might do to you for losing one of their prized vessels."
+	And if you abandon it and get back to secure space, there's no telling what you might face from the Hansa Trade Union."
 	output += "<br>"
 	output += "<br>"
 	output += "This is your home for the foreseeable future. Don't let them take it, even over your dead bodies.</font>"
