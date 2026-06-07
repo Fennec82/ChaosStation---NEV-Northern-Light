@@ -20,8 +20,8 @@
 	)
 	max_heat_protection_temperature = FIRE_HELMET_MAX_HEAT_PROTECTION_TEMPERATURE
 
-/obj/item/clothing/suit/space/void/engineering
-	name = "Old Technomancer voidsuit"
+/obj/item/clothing/suit/space/void/technomancer
+	name = "Technomancer armor"
 	desc = "A special suit that protects against hazardous, low pressure environments. Has radiation shielding and extra plating."
 	icon_state = "technosuit_old"
 	item_state = "technosuit_old"
@@ -50,8 +50,8 @@
 	spawn_blacklisted = TRUE
 
 //Old engineering void
-/obj/item/clothing/head/space/void/engineeringold
-	name = "outdated Technomancer voidsuit helmet"
+/obj/item/clothing/head/space/void/technomancer
+	name = "Technomancer helmet"
 	desc = "This visor has a few more options in its shape than its more newer version."
 	icon_state = "technohelmet_void"
 	item_state = "technohelmet_void"
