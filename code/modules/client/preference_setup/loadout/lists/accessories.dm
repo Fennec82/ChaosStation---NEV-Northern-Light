@@ -65,16 +65,16 @@
 	allowed_roles = list(JOBS_LAZARUS)
 
 /datum/gear/accessory/moebius
-	display_name = "lazarus armband selection"
+	display_name = "Moebius armband selection"
 	path = /obj/item/clothing/accessory/armband/science
 	allowed_roles = list(JOBS_LAZARUS)
 
 /datum/gear/accessory/moebius/New()
     ..()
     var/moebius_armband = list(
-        "lazarus armband, research purple"	 	=	 /obj/item/clothing/accessory/armband/science,
-		"lazarus armband, corporate colors" 	=	 /obj/item/clothing/accessory/armband/moebius,
-        "lazarus armband, biomedical blue" 		=	 /obj/item/clothing/accessory/armband/medgreen
+        "Moebius armband, research purple"	 	=	 /obj/item/clothing/accessory/armband/science,
+		"Moebius armband, corporate colors" 	=	 /obj/item/clothing/accessory/armband/moebius,
+        "Moebius armband, biomedical blue" 		=	 /obj/item/clothing/accessory/armband/medgreen
     )
     gear_tweaks += new /datum/gear_tweak/path(moebius_armband)
 

@@ -21,9 +21,9 @@
 	path = /obj/item/clothing/head/beret/purple
 
 /datum/gear/head/beret/moebius
-	display_name = "beret, Lazarus"
+	display_name = "beret, Moebius"
 	path = /obj/item/clothing/head/beret/moebius
-	allowed_roles = list(JOBS_SCIENCE, JOBS_MEDICAL)
+	allowed_roles = list(JOBS_LAZARUS)
 
 /datum/gear/head/beret/oberth
 	display_name = "beret, Oberth" //Uberth
