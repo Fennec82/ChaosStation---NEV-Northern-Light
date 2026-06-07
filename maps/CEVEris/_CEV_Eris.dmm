@@ -50047,7 +50047,6 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 10
 	},
-/obj/effect/floor_decal/fact_plaque/rnd4,
 /turf/simulated/floor/tiled/white,
 /area/eris/rnd/lab)
 "cke" = (
@@ -51310,7 +51309,6 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
 	},
-/obj/effect/floor_decal/fact_plaque/rnd3,
 /turf/simulated/floor/tiled/white,
 /area/eris/rnd/lab)
 "cnb" = (
@@ -52227,7 +52225,6 @@
 /area/eris/maintenance/section3deck4central)
 "cpc" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
-/obj/effect/floor_decal/fact_plaque/rnd2,
 /turf/simulated/floor/tiled/white,
 /area/eris/rnd/lab)
 "cpd" = (
@@ -52257,7 +52254,7 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
 	},
-/obj/effect/floor_decal/eclipse/laz3,
+/obj/effect/floor_decal/fact_plaque/rnd1,
 /turf/simulated/floor/tiled/white,
 /area/eris/rnd/mixing)
 "cph" = (
@@ -52270,7 +52267,7 @@
 /obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers{
 	dir = 1
 	},
-/obj/effect/floor_decal/eclipse/laz4,
+/obj/effect/floor_decal/fact_plaque/rnd2,
 /turf/simulated/floor/tiled/white,
 /area/eris/rnd/mixing)
 "cpi" = (
@@ -52683,12 +52680,12 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
-/obj/effect/floor_decal/eclipse/laz1,
+/obj/effect/floor_decal/fact_plaque/rnd3,
 /turf/simulated/floor/tiled/white,
 /area/eris/rnd/mixing)
 "cqf" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
-/obj/effect/floor_decal/eclipse/laz2,
+/obj/effect/floor_decal/fact_plaque/rnd4,
 /turf/simulated/floor/tiled/white,
 /area/eris/rnd/mixing)
 "cqg" = (
@@ -83501,7 +83498,7 @@
 /obj/machinery/atmospherics/unary/vent_scrubber/on{
 	dir = 4
 	},
-/obj/landmark/join/start/technomancer,
+/obj/landmark/join/start/enforcer,
 /turf/simulated/floor/tiled/steel/techfloor_grid,
 /area/eris/engineering/breakroom)
 "dIV" = (
@@ -96669,6 +96666,7 @@
 /obj/structure/bed/chair/office/light{
 	dir = 1
 	},
+/obj/landmark/join/start/bioengineer,
 /turf/simulated/floor/tiled/white,
 /area/eris/medical/genetics)
 "enk" = (
@@ -97009,12 +97007,14 @@
 /obj/structure/shuttle_part/science{
 	icon_state = "0,4"
 	},
+/obj/landmark/join/start/enforcer,
 /turf/space,
 /area/shuttle/research/station)
 "eoa" = (
 /obj/structure/shuttle_part/science{
 	icon_state = "1,4"
 	},
+/obj/landmark/join/start/enforcer,
 /turf/space,
 /area/shuttle/research/station)
 "eob" = (
@@ -104869,7 +104869,7 @@
 /turf/simulated/floor/tiled/steel/gray_platform,
 /area/eris/engineering/breakroom)
 "eET" = (
-/obj/structure/closet/secure_closet/personal/engineering_personal,
+/obj/structure/closet/secure_closet/personal/engi_enforcer_personal,
 /obj/spawner/tool/advanced/low_chance,
 /turf/simulated/floor/tiled/steel/gray_platform,
 /area/eris/engineering/breakroom)
@@ -109255,9 +109255,11 @@
 /turf/simulated/floor/tiled/steel/techfloor_grid,
 /area/eris/maintenance/section2deck1port)
 "tun" = (
-/obj/effect/floor_decal/fact_plaque/rnd1,
-/turf/simulated/floor/tiled/white,
-/area/eris/rnd/lab)
+/obj/machinery/door/firedoor,
+/obj/effect/window_lwall_spawn/smartspawn,
+/obj/landmark/join/start/enforcer,
+/turf/simulated/floor/plating,
+/area/eris/medical/genetics)
 "tzW" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	dir = 5
@@ -212851,7 +212853,7 @@ crN
 cjS
 ckG
 clv
-tun
+crN
 cna
 cnZ
 cpf
@@ -298712,7 +298714,7 @@ eaT
 dYl
 dYl
 dYl
-dYl
+tun
 eaT
 eaT
 eaT
