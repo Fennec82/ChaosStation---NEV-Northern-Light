@@ -106630,6 +106630,19 @@
 	},
 /turf/simulated/floor/plating/under,
 /area/eris/maintenance/section3deck4starboard)
+"ike" = (
+/obj/machinery/door/blast/shutters/glass{
+	id = "Armoury";
+	name = "Armoury showcase"
+	},
+/obj/item/ammo_magazine/ihclmg,
+/obj/item/ammo_magazine/ihclmg,
+/obj/item/ammo_magazine/ihclmg,
+/obj/item/ammo_magazine/ihclmg,
+/obj/item/ammo_magazine/ihclmg,
+/obj/item/ammo_magazine/ihclmg,
+/turf/simulated/floor/tiled/dark/cargo,
+/area/eris/security/armory)
 "ilm" = (
 /obj/effect/floor_decal/industrial/outline/blue,
 /obj/structure/railing/grey{
@@ -106915,6 +106928,15 @@
 	},
 /turf/simulated/floor/tiled/steel/panels,
 /area/eris/engineering/post)
+"jxf" = (
+/obj/machinery/door/blast/shutters/glass{
+	id = "Armoury";
+	name = "Armoury showcase"
+	},
+/obj/item/gun/projectile/automatic/lmg/tk,
+/obj/item/gun/projectile/automatic/lmg/tk,
+/turf/simulated/floor/tiled/dark/cargo,
+/area/eris/security/armory)
 "jBr" = (
 /obj/effect/shuttle_landmark/merc/armory,
 /turf/space,
@@ -131804,8 +131826,8 @@ aaR
 aba
 abC
 afy
-abS
-abS
+jxf
+ike
 acG
 abS
 abS
