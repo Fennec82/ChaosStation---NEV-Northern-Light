@@ -106641,6 +106641,7 @@
 /obj/item/ammo_magazine/ihclmg,
 /obj/item/ammo_magazine/ihclmg,
 /obj/item/ammo_magazine/ihclmg,
+/obj/structure/table/rack,
 /turf/simulated/floor/tiled/dark/cargo,
 /area/eris/security/armory)
 "ilm" = (
@@ -106935,6 +106936,7 @@
 	},
 /obj/item/gun/projectile/automatic/lmg/tk,
 /obj/item/gun/projectile/automatic/lmg/tk,
+/obj/structure/table/rack,
 /turf/simulated/floor/tiled/dark/cargo,
 /area/eris/security/armory)
 "jBr" = (
