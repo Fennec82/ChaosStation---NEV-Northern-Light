@@ -352,7 +352,7 @@
 	icon_state = "mug_old_nt"
 
 /obj/item/reagent_containers/food/drinks/mug/new_nt
-	name = "Mekhane mug"
+	name = "Neotheology mug"
 	desc = "A brown mug, it prominently features a tau-cross."
 	icon_state = "mug_new_nt"
 
@@ -367,8 +367,8 @@
 	icon_state = "mug_serb"
 
 /obj/item/reagent_containers/food/drinks/mug/ironhammer
-	name = "Aegis mug"
-	desc = "A mug with an Aegis Security Solutions logo on it."
+	name = "Ironhammer mug"
+	desc = "A mug with an Ironhammer Security Solutions logo on it."
 	icon_state = "mug_hammer"
 
 /obj/item/reagent_containers/food/drinks/mug/league
@@ -378,7 +378,7 @@
 
 /obj/item/reagent_containers/food/drinks/mug/moe
 	name = "Lazarus mug"
-	desc = "A white mug with Lazarus Foundation logo on it."
+	desc = "A white mug with Moebius logo on it."
 	icon_state = "mug_moe"
 
 /obj/item/reagent_containers/food/drinks/mug/aster

@@ -205,7 +205,7 @@ var/list/tts_seeds = list()
 				if("T")
 					output.Add((character == listen_for_character) ? list("a","n","o","T","r","a","s","e","n") : character)
 
-				// FT to FreeTradeUnion
+				// FT to FreeTradeGuild
 				if("F")
 					listen_for_character = "H"
 					output += character

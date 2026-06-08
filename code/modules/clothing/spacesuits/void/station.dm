@@ -20,8 +20,8 @@
 	)
 	max_heat_protection_temperature = FIRE_HELMET_MAX_HEAT_PROTECTION_TEMPERATURE
 
-/obj/item/clothing/suit/space/void/engineering
-	name = "Old Technomancer voidsuit"
+/obj/item/clothing/suit/space/void/technomancer
+	name = "Technomancer armor"
 	desc = "A special suit that protects against hazardous, low pressure environments. Has radiation shielding and extra plating."
 	icon_state = "technosuit_old"
 	item_state = "technosuit_old"
@@ -50,8 +50,8 @@
 	spawn_blacklisted = TRUE
 
 //Old engineering void
-/obj/item/clothing/head/space/void/engineeringold
-	name = "outdated Technomancer voidsuit helmet"
+/obj/item/clothing/head/space/void/technomancer
+	name = "Technomancer helmet"
 	desc = "This visor has a few more options in its shape than its more newer version."
 	icon_state = "technohelmet_void"
 	item_state = "technohelmet_void"
@@ -207,7 +207,7 @@
 
 	//Security
 /obj/item/clothing/head/space/void/security
-	name = "aegis voidsuit helmet"
+	name = "ironhammer voidsuit helmet"
 	desc = "A special helmet designed for work in a hazardous, low pressure environment. Sacrifices sight for protection."
 	icon_state = "ihsvoidhelm"
 	item_state = "ihsvoidhelm"
@@ -228,7 +228,7 @@
 	light_overlay = "helmet_light_ihs"
 
 /obj/item/clothing/suit/space/void/security
-	name = "aegis voidsuit"
+	name = "ironhammer voidsuit"
 	icon_state = "ihvoidsuit"
 	desc = "A bulky suit that protects against hazardous, low pressure environments. Sacrifices mobility for protection."
 	item_state = "ihvoidsuit"
@@ -457,8 +457,8 @@
 //NT
 
 /obj/item/clothing/head/space/void/NTvoid
-	name = "mekhanite voidsuit helmet"
-	desc = "A voidsuit helmet designed by Children of the Mekhane with a most holy mix of biomatter and inorganic matter."
+	name = "neotheology voidsuit helmet"
+	desc = "A voidsuit helmet designed by Disciples of Neotheology with a most holy mix of biomatter and inorganic matter."
 	icon_state = "ntvoidhelmet"
 	item_state = "ntvoidhelmet"
 	action_button_name = "Toggle Helmet Light"
@@ -476,8 +476,8 @@
 	light_overlay = "helmet_light"
 
 /obj/item/clothing/suit/space/void/NTvoid
-	name = "mekhanite voidsuit"
-	desc = "A voidsuit designed by Mekhane with a most holy mix of biomatter and inorganic matter."
+	name = "neotheology voidsuit"
+	desc = "A voidsuit designed by Neotheology with a most holy mix of biomatter and inorganic matter."
 	icon_state = "ntvoid"
 	item_state = "ntvoid"
 	matter = list(MATERIAL_PLASTEEL = 8, MATERIAL_STEEL = 10, MATERIAL_BIOMATTER = 35)

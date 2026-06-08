@@ -97,13 +97,13 @@
 
 /obj/item/clothing/head/beret/engineering
 	name = "engineering yellow beret"
-	desc = "A beret with the Xīngyún Engineering Corps insignia emblazoned on it. For engineers that are more inclined towards style than safety."
+	desc = "A beret with the Xīngyún Engineering Corps insignia emblazoned on it. For technomancers that are more inclined towards style than safety."
 	icon_state = "beret_engineering"
 	spawn_blacklisted = TRUE
 
 /obj/item/clothing/head/beret/engineering/old
 	name = "engineering orange beret"
-	desc = "A beret with the Xīngyún Engineering Corps insignia emblazoned on it. For engineers that are more inclined towards style than safety."
+	desc = "A beret with the Xīngyún Engineering Corps insignia emblazoned on it. For technomancers that are more inclined towards style than safety."
 	icon_state = "beret_engineering_old"
 	spawn_blacklisted = TRUE
 
@@ -116,8 +116,8 @@
 
 //Moebius
 /obj/item/clothing/head/beret/moebius
-	name = "Lazarus beret"
-	desc = "A purple beret emblazioned with the Lazarus Foundation logo."
+	name = "Moebius beret"
+	desc = "A purple beret emblazioned with the Moebius logo."
 	icon_state = "beret_moebius"
 	spawn_blacklisted = TRUE
 

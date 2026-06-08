@@ -362,7 +362,7 @@
 	area_light_color = COLOR_LIGHTING_CREW_SOFT
 
 /area/eris/command/commander
-	name = "Aegis Commander's Office"
+	name = "Ironhammer Commander's Office"
 	icon_state = "hammerred"
 	sound_env = SMALL_SOFTFLOOR
 	area_light_color = COLOR_LIGHTING_CREW_SOFT
@@ -1115,7 +1115,7 @@
 	icon_state = "robotics"
 
 /area/eris/rnd/rdoffice
-	name = "\improper Chief Science Officer's Office"
+	name = "\improper Moebius Expedition Overseer's Office"
 	icon_state = "head_quarters"
 
 /area/eris/rnd/supermatter

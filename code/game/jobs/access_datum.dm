@@ -193,7 +193,7 @@
 /var/const/access_rd = 30
 /datum/access/rd
 	id = access_rd
-	desc = "Chief Science Officer"
+	desc = "Moebius Expedition Overseer"
 	region = ACCESS_REGION_RESEARCH
 
 /var/const/access_cargo = 31
@@ -249,7 +249,7 @@
 /var/const/access_cmo = 40
 /datum/access/cmo
 	id = access_cmo
-	desc = "Chief Medical Officer"
+	desc = "Moebius Biolab Officer"
 	region = ACCESS_REGION_MEDBAY
 
 /var/const/access_rd_consoles = 39 //Eclipse Edit - console access
@@ -263,7 +263,7 @@
 /var/const/access_merchant = 41
 /datum/access/merchant
 	id = access_merchant
-	desc = "Union Merchant"
+	desc = "Guild Merchant"
 	region = ACCESS_REGION_SUPPLY
 
 /var/const/access_network = 42
@@ -353,7 +353,7 @@
 /var/const/access_ce = 56
 /datum/access/ce
 	id = access_ce
-	desc = "Chief Engineer"
+	desc = "Technomancer Exultant"
 	region = ACCESS_REGION_ENGINEERING
 
 /var/const/access_hop = 57
@@ -365,7 +365,7 @@
 /var/const/access_hos = 58
 /datum/access/hos
 	id = access_hos
-	desc = "Aegis Commander"
+	desc = "Ironhammer Commander"
 	region = ACCESS_REGION_SECURITY
 
 /var/const/access_RC_announce = 59 //Request console announcements
@@ -440,13 +440,13 @@
 /var/const/access_nt_disciple = 70
 /datum/access/nt_disciple
 	id = access_nt_disciple
-	desc = "Mekhane Disciple"
+	desc = "Neotheology Disciple"
 	region = ACCESS_REGION_CHURCH
 
 /var/const/access_nt_acolyte = 71
 /datum/access/nt_acolyte
 	id = access_nt_acolyte
-	desc = "Mekhane Acolyte"
+	desc = "Neotheology Acolyte"
 	region = ACCESS_REGION_CHURCH
 
 /var/const/access_nt_custodian = 72
@@ -464,13 +464,13 @@
 /var/const/access_nt_preacher = 74
 /datum/access/nt_preacher
 	id = access_nt_preacher
-	desc = "Mekhane Preacher"
+	desc = "Neotheology Preacher"
 	region = ACCESS_REGION_CHURCH
 
 /var/const/access_nt_inquisitor = 75
 /datum/access/nt_inquisitor
 	id = access_nt_inquisitor
-	desc = "Mekhane  Inquisitor"
+	desc = "Neotheology  Inquisitor"
 	region = ACCESS_REGION_CHURCH
 
 /****************

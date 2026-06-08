@@ -241,8 +241,8 @@
 
 	overlay_status_display = "status_display_red"
 
-	up_description = "There is an immediate confirmed threat to the vessel. Everyone is required to follow Aegis Security's instructions. Random searches are allowed and advised."
-	down_description = "There is an immediate confirmed threat to the vessel. Everyone is required to follow Aegis Security's instructions. Random searches are allowed and advised."
+	up_description = "There is an immediate confirmed threat to the vessel. Everyone is required to follow Ironhammer Security's instructions. Random searches are allowed and advised."
+	down_description = "There is an immediate confirmed threat to the vessel. Everyone is required to follow Ironhammer Security's instructions. Random searches are allowed and advised."
 /decl/security_level/default/code_violet
 	name = "code violet"
 
@@ -257,8 +257,8 @@
 
 	overlay_status_display = "status_display_violet"
 
-	up_description = "Confirmed medical emergency on vessel. All personnel required to follow Lazarus Medical's instructions."
-	down_description = "Confirmed medical emergency on vessel. All personnel required to follow Lazarus Medical's instructions."
+	up_description = "Confirmed medical emergency on vessel. All personnel required to follow Moebius Medical's instructions."
+	down_description = "Confirmed medical emergency on vessel. All personnel required to follow Moebius Medical's instructions."
 /decl/security_level/default/code_yellow
 	name = "code yellow"
 

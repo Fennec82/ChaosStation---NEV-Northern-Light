@@ -2,7 +2,7 @@
 	name = "Von-Krabin Stimulator"
 	desc = "Psionic stimulator that make your brain work better."
 	description_info = "This is a powerful stimulator that links the brain of multiple people together - the more people are connected, the better its buffs are."
-	description_antag = "Can be destroyed with the Mekhane's sword. This causes brain damage to everyone that is linked and reduces their base stats by 30, whilst buffing the capabilities of the Eye of the Protector."
+	description_antag = "Can be destroyed with the Neotheology sword. This causes brain damage to everyone that is linked and reduces their base stats by 30, whilst buffing the capabilities of the Eye of the Protector."
 	icon = 'icons/obj/faction_item.dmi'
 	icon_state = "von-krabin"
 	item_state = "von-krabin"

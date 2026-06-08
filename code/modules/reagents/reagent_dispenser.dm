@@ -300,7 +300,7 @@
 
 /obj/structure/reagent_dispensers/cahorsbarrel
 	name = "Saint's Wing Cahors barrel"
-	desc = "A barrel of sweet church wine used in rituals. Mekhanites keep the recipe a secret, making it a rather coveted drink."
+	desc = "A barrel of sweet church wine used in rituals. Neotheologys keep the recipe a secret, making it a rather coveted drink."
 	icon_state = "barrel"
 	volume = 400
 	starting_reagent = "ntcahors"

@@ -21,9 +21,9 @@
 	path = /obj/item/clothing/head/beret/purple
 
 /datum/gear/head/beret/moebius
-	display_name = "beret, Lazarus"
+	display_name = "beret, Moebius"
 	path = /obj/item/clothing/head/beret/moebius
-	allowed_roles = list(JOBS_SCIENCE, JOBS_MEDICAL)
+	allowed_roles = list(JOBS_LAZARUS)
 
 /datum/gear/head/beret/oberth
 	display_name = "beret, Oberth" //Uberth
@@ -41,12 +41,12 @@
 /datum/gear/head/beret/bsec_warden
 	display_name = "beret, Sergeant"
 	path = /obj/item/clothing/head/beret/sec/navy/warden
-	allowed_roles = list("Aegis Commander","Aegis Gunnery Sergeant")
+	allowed_roles = list("Ironhammer Commander","Ironhammer Gunnery Sergeant")
 
 /datum/gear/head/beret/bsec_hos
 	display_name = "beret, Lieutenant"
 	path = /obj/item/clothing/head/beret/sec/navy/hos
-	allowed_roles = list("Aegis Commander")
+	allowed_roles = list("Ironhammer Commander")
 
 /datum/gear/head/beret/eng
 	display_name = "beret, yellow enginering"
@@ -65,7 +65,7 @@
 /datum/gear/head/cap/corp
 	display_name = "cap, corporate security"
 	path = /obj/item/clothing/head/soft/sec/corp
-	allowed_roles = list("Aegis Operative","Aegis Commander","Aegis Gunnery Sergeant", "Inspector")
+	allowed_roles = list("Ironhammer Operative","Ironhammer Commander","Ironhammer Gunnery Sergeant", "Inspector")
 
 /datum/gear/head/cap/sec
 	display_name = "cap, old security"
@@ -161,19 +161,19 @@
     gear_tweaks += new /datum/gear_tweak/path(ushanka)
 
 /datum/gear/head/cap/secfield
-	display_name = "cap, Aegis field"
+	display_name = "cap, Ironhammer field"
 	path = /obj/item/clothing/head/soft/sec2soft
-	allowed_roles = list("Aegis Operative","Aegis Commander","Aegis Gunnery Sergeant", "Inspector")
+	allowed_roles = list("Ironhammer Operative","Ironhammer Commander","Ironhammer Gunnery Sergeant", "Inspector")
 
 /datum/gear/head/cap/sarge
-	display_name = "cap, Aegis sergeant"
+	display_name = "cap, Ironhammer sergeant"
 	path = /obj/item/clothing/head/soft/sarge2soft
-	allowed_roles = list("Aegis Commander","Aegis Gunnery Sergeant")
+	allowed_roles = list("Ironhammer Commander","Ironhammer Gunnery Sergeant")
 
 /datum/gear/head/dermal
 	display_name = "dermal armour patch"
 	path = /obj/item/clothing/head/armor/helmet/dermal
-	allowed_roles = list("Aegis Commander","Aegis Gunnery Sergeant")
+	allowed_roles = list("Ironhammer Commander","Ironhammer Gunnery Sergeant")
 	cost = 2
 
 /datum/gear/head/cyberpunkgoggle

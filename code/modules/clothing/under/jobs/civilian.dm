@@ -38,13 +38,13 @@
 	item_state = "crewman"
 
 /obj/item/clothing/under/rank/preacher
-	desc = "Ceremonial garb of Mekhane preachers."
+	desc = "Ceremonial garb of Neotheology preachers."
 	name = "preacher vestments"
 	icon_state = "preacher"
 	item_state = "w_suit"
 
 /obj/item/clothing/under/rank/acolyte
-	desc = "Ceremonial garb of Mekhane disciples."
+	desc = "Ceremonial garb of Neotheology disciples."
 	name = "acolyte vestments"
 	icon_state = "acolyte"
 	item_state = "acolyte"
@@ -125,6 +125,6 @@
 
 /obj/item/clothing/under/rank/miner
 	desc = "A snappy jumpsuit with a sturdy set of overalls. It is very dirty."
-	name = "Union miner's jumpsuit"
+	name = "Guild miner's jumpsuit"
 	icon_state = "miner"
 	item_state = "lb_suit"

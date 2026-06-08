@@ -164,7 +164,7 @@
 
 	\[b\]Technical Assistant\[/b\] 1>0-0-1
 	This is yet another low level position. The technical assistant helps the engineer and the statian technician with the upkeep and maintenance of the station. This job is very important because it usually gets to be a heavy workload on station technician and these helpers will alleviate that.
-	 1. Assist Station technician and Engineers.
+	 1. Assist Station technician and Technomancers.
 	 2. Perform general maintenance of station.
 	 3. Prepare materials.
 
@@ -223,7 +223,7 @@
 	 2. Assist others.
 	 3. Repair structural problems.
 
-	\[b\]Aegis Commander\[/b\] 4>5-2-2
+	\[b\]Ironhammer Commander\[/b\] 4>5-2-2
 	People assigned as Commander should issue orders to the security staff. They should also carefully moderate the usage of all security equipment. All security matters should be reported to this person.
 	 1. Oversee security.
 	 2. Assign patrol duties.
@@ -308,14 +308,14 @@
 /obj/item/paper/self_pacification
 	name = "Self-Pacification and You!"
 	info = {"\[h1\]\[center\]\[b\]Self-Pacification and You!\[/b\]\[/center\]\[/h1\]
-	As pursuant to \[b\]\"NanoTrasen Property Rights For Detainees\"\[/b\], \[b\]Free Trade Union's \"Assembly Upon The Definition of Aggression\"\[/b\], and the good initiative of \[b\]Aegis Command\[/b\]; these steps have been laid to better actuate your personal property rights while within indefinite detainment:
+	As pursuant to \[b\]\"NanoTrasen Property Rights For Detainees\"\[/b\], \[b\]Aster's Guild's \"Assembly Upon The Definition of Aggression\"\[/b\], and the good initiative of \[b\]Ironhammer Command\[/b\]; these steps have been laid to better actuate your personal property rights while within indefinite detainment:
 
 	\[b\]1.\[/b\] That those detained have access to nourishment necessary to maintain the active status of their person.
 	\[b\]2.\[/b\] That those detained have right to be free from aggression, unprovoked harassment, and must be provided the means to be so.
-	\[b\]3.\[/b\] That those detained have the right to voluntarily leave detainment, under the Solgov principles we hold, and uphold under the Free Trade Union.
+	\[b\]3.\[/b\] That those detained have the right to voluntarily leave detainment, under the Solgov principles we hold, and uphold under the Aster's Guild.
 
 	\[small\]\[b\]NOTICE:\[/b\] Engaging in Anti-Depressive Self-Pacification Treatment is non-pursuant to proprty rights if your person is the property of another. You \[b\]WILL be fined\[/b\] if you engage in self-pacification \[b\]post-mortem or otherwise\[/b\], your property manager may also consenquently enact punitive financial measures. \
-	\"Cruciformed\" assets (assuming positive consent of conversion) are considered property of The Children of Mekhane, and are \[b\]not\[/b\] eligible for this social program. Your hosting Dispute Resolution Organization may further detain your cruciform in the event of self-pacification as an additional punitive measure.\[/small\]
+	\"Cruciformed\" assets (assuming positive consent of conversion) are considered property of The Church of Neotheology, and are \[b\]not\[/b\] eligible for this social program. Your hosting Dispute Resolution Organization may further detain your cruciform in the event of self-pacification as an additional punitive measure.\[/small\]
 
 	\[h3\]\[b\]Self-Pacification Procedures:\[/b\]\[/h3\]
 	\[b\]1.\[/b\] Adorn provided breath mask securely, try to leave no gaps for air to escape, and remember to cover your nose.
@@ -324,11 +324,11 @@
 	\[b\]4.\[/b\] Once you are made comfortable in suitable position, activate your tank's pressure valve for painless experience.
 	\[b\]5.\[/b\] You have successfully actuated your personal property rights!
 
-	\[small\]\[i\]Note: In the event that the tanks have been otherwise consumed, your host Dispute Resolution Organization: \[u\]\[b\]\"Aegis Security Solutions\"\[/b\]\[/u\] must provide alternative within \"30\" minutes during business hours upon request.\[/i\]\[/small\]
+	\[small\]\[i\]Note: In the event that the tanks have been otherwise consumed, your host Dispute Resolution Organization: \[u\]\[b\]\"Ironhammer Security Solutions\"\[/b\]\[/u\] must provide alternative within \"30\" minutes during business hours upon request.\[/i\]\[/small\]
 
 
 
-	\[center\]\[aegis\]\[/center\]
+	\[center\]\[ironhammer\]\[/center\]
 	\[center\]\[small\]\[b\]Remember!\[/b\]\[/small\]\[/center\]
 	\[center\]\[small\]\[i\]\"Depression is voluntary, freedom is not!\"\[/i\]\[/small\]\[/center\]
 	\[br\]"}
@@ -351,7 +351,7 @@
 	After you do that, try to build a story of what happened, replay the events from this guy's perspective, find out why he was murdered. \n
 
 	The killer can't always be undeniably convicted, most of them wear gloves, but gloves bear a dark secret, the guns they use with them on leave a print on them, the smoke of the shell ejection itself. \n
-	You can swab it off, different calibers produce different intensities of it, but you will always know which one it is, after all you took the Aegis Detective course, right? \n
+	You can swab it off, different calibers produce different intensities of it, but you will always know which one it is, after all you took the Ironhammer Detective course, right? \n
 	I consider it the best trick in the book, a murderer never leaves his fingerprints, but he always wears his gloves. \n
 
 	Anyway, enjoy your time onboard, your duty is vital to keeping the shit-bin rolling, keep investigating and make the LT proud. \n

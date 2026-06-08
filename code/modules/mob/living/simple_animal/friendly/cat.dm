@@ -235,7 +235,7 @@
 	desc = "Her fur has the look and feel of velvet, and her tail quivers occasionally."
 	gender = FEMALE
 	icon_state = "cat"
-	befriend_job = "Chief Medical Officer"
+	befriend_job = "Moebius Biolab Officer"
 
 /mob/living/simple_animal/cat/kitten
 	name = "kitten"

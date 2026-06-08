@@ -523,9 +523,9 @@
 		return
 
 /obj/item/stack/medical/advanced/bruise_pack/nt
-	name = "Mekhanite Bruisepack"
-	singular_name = "Mekhanite Bruisepack"
-	desc = "An advanced bruisepack for severe injuries. Created by the will of Mekhane."
+	name = "Neotheology Bruisepack"
+	singular_name = "Neotheology Bruisepack"
+	desc = "An advanced bruisepack for severe injuries. Created by the will of Neotheology."
 	icon_state = "nt_traumakit"
 	heal_brute = 10
 	automatic_charge_overlays = FALSE
@@ -538,9 +538,9 @@
 	..()
 
 /obj/item/stack/medical/advanced/ointment/nt
-	name = "Mekhanite Burnpack"
-	singular_name = "Mekhanite Burnpack"
-	desc = "An advanced treatment kit for severe burns. Created by the will of Mekhane."
+	name = "Neotheology Burnpack"
+	singular_name = "Neotheology Burnpack"
+	desc = "An advanced treatment kit for severe burns. Created by the will of Neotheology."
 	icon_state = "nt_burnkit"
 	heal_brute = 10
 	automatic_charge_overlays = FALSE

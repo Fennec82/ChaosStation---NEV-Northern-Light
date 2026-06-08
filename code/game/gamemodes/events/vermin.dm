@@ -60,7 +60,7 @@ Physically harmless to the crew, but still dangerous to the ship itself
 		player_check = FALSE
 	else if(crew >= 3 && crew < 6)		//Debatable...
 		if(!engis && !sec && !command)
-			player_check = FALSE		//Security and command should have access; Engineers can get anywhere they need to go because **hacking**
+			player_check = FALSE		//Security and command should have access; Technomancers can get anywhere they need to go because **hacking**
 
 	if(!player_check && !forced)		//We don't have enough players, and an admin is not forcing this. Abort.
 		return FALSE

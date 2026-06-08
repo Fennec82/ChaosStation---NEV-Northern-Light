@@ -2,7 +2,7 @@
 //Knives
 /obj/item/tool/knife
 	name = "kitchen knife"
-	desc = "A general purpose Chef's Knife made by the Free Trade Union. Guaranteed to stay sharp for years to come."
+	desc = "A general purpose Chef's Knife made by the Aster's Guild. Guaranteed to stay sharp for years to come."
 	icon = 'icons/obj/kitchen.dmi'
 	icon_state = "knife"
 	description_info = "Could be attached to a gun"
@@ -83,7 +83,7 @@
 	rarity_value = 5
 
 /obj/item/tool/knife/neotritual
-	name = "Mekhane ritual knife"
+	name = "Neotheology ritual knife"
 	desc = "The sweet embrace of mercy, for relieving the soul from a tortured vessel."
 	icon = 'icons/obj/weapons.dmi'
 	icon_state = "neot-knife"

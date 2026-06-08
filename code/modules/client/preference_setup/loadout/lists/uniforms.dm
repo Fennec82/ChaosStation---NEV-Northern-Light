@@ -84,7 +84,7 @@
 /datum/gear/uniform/security_skirt
 	display_name = "jumpskirt, operative"
 	path = /obj/item/clothing/under/rank/security/skirt
-	allowed_roles = list("Aegis Operative")
+	allowed_roles = list("Ironhammer Operative")
 
 //Eclipse Edit Begins - Commenting out for modular overwrite
 /*/datum/gear/uniform/cadet
@@ -96,17 +96,17 @@
 /datum/gear/uniform/medspec_skirt
 	display_name = "jumpskirt, medical specialist"
 	path = /obj/item/clothing/under/rank/medspec/skirt
-	allowed_roles = list("Aegis Medical Specialist")
+	allowed_roles = list("Ironhammer Medical Specialist")
 
 /datum/gear/uniform/warden_skirt
 	display_name = "jumpskirt, warden"
 	path = /obj/item/clothing/under/rank/warden/skirt
-	allowed_roles = list("Aegis Gunnery Sergeant")
+	allowed_roles = list("Ironhammer Gunnery Sergeant")
 
 /datum/gear/uniform/hos_skirt
 	display_name = "jumpskirt, commander"
 	path = /obj/item/clothing/under/rank/ih_commander/skirt
-	allowed_roles = list("Aegis Commander")
+	allowed_roles = list("Ironhammer Commander")
 
 /datum/gear/uniform/boff_skirt
 	display_name = "jumpskirt, bridge officer"
@@ -342,7 +342,7 @@
 /datum/gear/uniform/cadet
 	display_name = "jumpskirt, cadet"
 	path = /obj/item/clothing/under/rank/cadet_skirt
-	allowed_roles = list("Aegis Operative") //replace this with Aegis Cadet once Aegis Cadet role complete
+	allowed_roles = list("Ironhammer Operative") //replace this with Ironhammer Cadet once Ironhammer Cadet role complete
 
 /datum/gear/uniform/jumpsuit_rolled
 	display_name = "rolled-down jumpsuit"

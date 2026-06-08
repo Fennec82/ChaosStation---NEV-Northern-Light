@@ -141,7 +141,7 @@
 	spawn_blacklisted = TRUE
 
 /obj/item/clothing/under/rank/dalphine
-	name = "Dalphine Panzer\'s Aegis Jager suit"
+	name = "Dalphine Panzer\'s Ironhammer Jager suit"
 	desc = "A high speed low drag combat suit utilized as a special purpose replacement for standard uniforms issued to stealth specialists and special operations."
 	icon = 'zzz_modular_eclipse/icons/custom_items/under.dmi'
 	icon_state = "scorn7"

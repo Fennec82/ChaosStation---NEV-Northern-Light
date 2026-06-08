@@ -6,7 +6,7 @@
 
 /obj/item/coreimplant_upgrade/cruciform/priest
 	name = "Preacher Ascension Kit"
-	desc = "The first stage of promoting a disciple into a Mekhane Preacher. Requires a ritual from an Inquisitor to complete."
+	desc = "The first stage of promoting a disciple into a Neotheology Preacher. Requires a ritual from an Inquisitor to complete."
 	implant_type = /obj/item/implant/core_implant/cruciform
 
 /obj/item/coreimplant_upgrade/cruciform/priest/set_up()
@@ -144,7 +144,7 @@
 
 /obj/item/cruciform_upgrade/martyr_gift
 	name = "Martyr gift"
-	desc = "This upgrade upon the death of the follower, causes a large ‘explosion’ that doesn’t damage terrain nor does it damage followers of Mekhane. It will cause massive burns to any non-cruciformed crewmembers or critters within its radius. However, in process of doing so, this upgrade destroys itself, albeit cruciform remains intact."
+	desc = "This upgrade upon the death of the follower, causes a large ‘explosion’ that doesn’t damage terrain nor does it damage followers of Neotheology. It will cause massive burns to any non-cruciformed crewmembers or critters within its radius. However, in process of doing so, this upgrade destroys itself, albeit cruciform remains intact."
 	icon_state = "martyr_gift"
 	matter = list(MATERIAL_BIOMATTER = 50, MATERIAL_GOLD = 5, MATERIAL_PLASTEEL = 5, MATERIAL_PLASMA = 5)
 	var/burn_damage = 50

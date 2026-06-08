@@ -61,7 +61,7 @@
 	build_path = /obj/item/storage/freezer/medical
 
 /datum/design/autolathe/container/ammocan_ih
-	name = "Aegis Ammo Can"
+	name = "Ironhammer Ammo Can"
 	build_path = /obj/item/storage/hcases/ammo/ih
 
 /datum/design/autolathe/container/ammocan_serb

@@ -36,7 +36,7 @@
 	new /obj/item/clothing/glasses/regular/hipster(src)
 
 /obj/structure/closet/secure_closet/reinforced/RD
-	name = "Chief Science Officer's locker"
+	name = "Moebius Expedition Overseer's locker"
 	req_access = list(access_rd)
 	icon_state = "rd"
 

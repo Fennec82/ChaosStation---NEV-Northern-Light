@@ -9,11 +9,11 @@
 
 /tipsAndTricks/jobs/ironhammer_theft
     jobs_list = list(/datum/job/ihc, /datum/job/gunserg, /datum/job/inspector, /datum/job/medspec, /datum/job/ihoper)
-    tipText = "As an Aegis operative, you have broad access to chase criminals. This does not mean you can take anything you have access to. Taking things from other departments is theft!"
+    tipText = "As an Ironhammer operative, you have broad access to chase criminals. This does not mean you can take anything you have access to. Taking things from other departments is theft!"
 
 /tipsAndTricks/jobs/guild_resale_profit
     jobs_list = list(/datum/job/merchant, /datum/job/cargo_tech)
-    tipText = "As a Union Merchant, you should be buying up valuable things from scavengers and reselling them for a profit. Buy anything of value that's brought to you."
+    tipText = "As a Guild Merchant, you should be buying up valuable things from scavengers and reselling them for a profit. Buy anything of value that's brought to you."
 
 /tipsAndTricks/jobs/guild_price_scanner
     jobs_list = list(/datum/job/merchant, /datum/job/cargo_tech)
@@ -46,12 +46,12 @@
 /*		//Eclipse removal - moved inhouse
 /tipsAndTricks/jobs/engies_tribe
     jobs_list = list(/datum/job/chief_engineer, /datum/job/technomancer)
-    tipText = "In the ancient times, a group of engineers was called a tribe. That is why some call you Chief."
+    tipText = "In the ancient times, a group of technomancers was called a tribe. That is why some call you Chief."
 */
 
 /tipsAndTricks/jobs/engies_suppermatter_one
     jobs_list = list(/datum/job/chief_engineer, /datum/job/technomancer)
-    tipText = "The Supermatter core is a fickle mistress, and each Chief Engineer has their own unique setup. No setup is strictly wrong; a poor Engineer would be dead by now, surely..."
+    tipText = "The Supermatter core is a fickle mistress, and each Technomancer Exultant has their own unique setup. No setup is strictly wrong; a poor Engineer would be dead by now, surely..."
 
 /tipsAndTricks/jobs/engies_suppermatter_two
     jobs_list = list(/datum/job/chief_engineer, /datum/job/technomancer)
@@ -59,19 +59,19 @@
 
 /tipsAndTricks/jobs/engies_suppermatter_three
     jobs_list = list(/datum/job/chief_engineer, /datum/job/technomancer)
-    tipText = "Woe betide the Chief Engineer who jettisons a Supermatter; for their numbers dwindle, and the artifice of their creation is lost. It is better to hurl oneself after it than live so ashamed."
+    tipText = "Woe betide the Technomancer Exultant who jettisons a Supermatter; for their numbers dwindle, and the artifice of their creation is lost. It is better to hurl oneself after it than live so ashamed."
 
 /tipsAndTricks/jobs/engies_lifekeeper
     jobs_list = list(/datum/job/chief_engineer, /datum/job/technomancer)
-    tipText = "You are responsible for keeping these hundred souls alive inside an electrified air canister hurtling through an unholy blackness at speeds that make an Aegis bullet-pusher stare slack-jawed. You will fail. The question is how many bodies are needed to fill the breach, smother the flames, and bind the wires."
+    tipText = "You are responsible for keeping these hundred souls alive inside an electrified air canister hurtling through an unholy blackness at speeds that make an Ironhammer bullet-pusher stare slack-jawed. You will fail. The question is how many bodies are needed to fill the breach, smother the flames, and bind the wires."
 
 /tipsAndTricks/jobs/engies_die_live
     jobs_list = list(/datum/job/chief_engineer, /datum/job/technomancer)
-    tipText = "An Engineer shall die so that the ship shall live. It is the one rite all engineers share."
+    tipText = "An Engineer shall die so that the ship shall live. It is the one rite all technomancers share."
 
 /tipsAndTricks/jobs/engies_tenants
     jobs_list = list(/datum/job/chief_engineer, /datum/job/technomancer)
-    tipText = "The relationship between ship captains and engineers is like that between tenants and landlords. One struts around between carpeting and ceiling like they own the place, while the other crawls in the foundation and attic actually giving a damn."
+    tipText = "The relationship between ship captains and technomancers is like that between tenants and landlords. One struts around between carpeting and ceiling like they own the place, while the other crawls in the foundation and attic actually giving a damn."
 
 /tipsAndTricks/jobs/engies_glass_fire
     jobs_list = list(/datum/job/chief_engineer, /datum/job/technomancer)

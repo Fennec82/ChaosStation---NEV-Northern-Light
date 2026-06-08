@@ -1,6 +1,6 @@
 /datum/trade_station/nt_cruisers
 	name_pool = list(
-		"MV 'Faith'" = "Mekhane Vessel 'Faith': \"The most holy purveyors of ecclesiarchic goods!\"", //Eclipse Edit - lore compliance
+		"MV 'Faith'" = "Neotheology Vessel 'Faith': \"The most holy purveyors of ecclesiarchic goods!\"", //Eclipse Edit - lore compliance
 	)
 	icon_states = list("nt_frigate", "ship")
 	uid = "nt_basic"
@@ -73,7 +73,7 @@
 			/obj/item/gun/projectile/shotgun/pump/regulator
 		),
 		//Eclipse Edit - lore compliance
-		"Mekhane Cells" = list(
+		"Neotheology Cells" = list(
 			/obj/item/cell/small/neotheology,
 			/obj/item/cell/medium/neotheology,
 			/obj/item/cell/large/neotheology

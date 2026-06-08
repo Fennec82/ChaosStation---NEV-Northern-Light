@@ -255,13 +255,13 @@
 //Trust me I'm an engineer
 //I think we'll put this shit right here
 var/list/rank_prefix = list(\
-	"Aegis Operative" = "Operative",\
-	"Aegis Inspector" = "Inspector",\
-	"Aegis Gunnery Sergeant" = "Sergeant",\
-	"Aegis Medical Specialist" = "Specialist",\
-	"Aegis Commander" = "Lieutenant",\
-	"Mekhane Preacher" = "Reverend",\
-	"Chief Science Officer" = "CSO",\
+	"Ironhammer Operative" = "Operative",\
+	"Ironhammer Inspector" = "Inspector",\
+	"Ironhammer Gunnery Sergeant" = "Sergeant",\
+	"Ironhammer Medical Specialist" = "Specialist",\
+	"Ironhammer Commander" = "Lieutenant",\
+	"Neotheology Preacher" = "Reverend",\
+	"Moebius Expedition Overseer" = "CSO",\
 	"Lazarus Biolab Officer" = "Doctor",\
 	"Captain" = "Captain",\
 	)

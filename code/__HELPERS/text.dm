@@ -457,11 +457,11 @@ proc/TextPreview(var/string, var/len=40)
 	t = replacetext(t, "\[row\]", "</td><tr>")
 	t = replacetext(t, "\[cell\]", "<td>")
 	t = replacetext(t, "\[lazarus\]", "<img src = Ph_lazarus.png>")
-	t = replacetext(t, "\[aegis\]", "<img src = Ph_aegis.png>")
+	t = replacetext(t, "\[ironhammer\]", "<img src = Ph_ironhammer.png>")
 	t = replacetext(t, "\[ftu\]", "<img src = Ph_trade.png>")
 	t = replacetext(t, "\[engineering\]", "<img src = Ph_engineering.png>")
 	t = replacetext(t, "\[logo\]", "<img src = ntlogo.png>")
-	t = replacetext(t, "\[mekhane\]", "<img src = Ph_mekhane.png>")
+	t = replacetext(t, "\[neotheology\]", "<img src = Ph_mekhane.png>")
 	t = replacetext(t, "\[editorbr\]", "")
 	return t
 

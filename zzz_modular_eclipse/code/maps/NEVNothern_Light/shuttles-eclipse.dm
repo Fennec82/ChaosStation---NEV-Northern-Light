@@ -12,7 +12,7 @@
 	dock_target = "centcom_shuttle"
 	current_location = "nav_centcom_start"
 	landmark_transition = "nav_centcom_transition"
-	announcer = "NEV Northern Light Sensor Array"
+	announcer = "CEV Eris Sensor Array"
 	home_waypoint = "nav_centcom_start"
 	arrival_message = "Attention, unidentified vessel detected on long range sensors. \nVessel is approaching on an intercept course. \nHailing frequencies open."
 	departure_message = "Attention, unknown vessel has departed"
@@ -30,7 +30,7 @@
 	landmark_tag = "nav_centcom_transition"
 
 /obj/effect/shuttle_landmark/centcom/dock
-	name = "Northern Light Docking Port Deck 4"
+	name = "Eris Docking Port Deck 4"
 	icon_state = "shuttle-blue"
 	landmark_tag = "nav_centcom_dock"
 	dock_target = "second_sec_1_access_console"

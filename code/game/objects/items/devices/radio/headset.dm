@@ -90,7 +90,7 @@
 
 /obj/item/device/radio/headset/headset_eng
 	name = "engineering radio headset"
-	desc = "When the engineers wish to chat like girls."
+	desc = "When the technomancers wish to chat like girls."
 	icon_state = "eng_headset"
 	item_state = "headset"
 	ks2type = /obj/item/device/encryptionkey/headset_eng
@@ -157,28 +157,28 @@
 	return ..(freq, level, 1)
 
 /obj/item/device/radio/headset/heads/rd
-	name = "chief science officer's headset"
+	name = "moebius expedition overseer's headset"
 	desc = "Headset of the researching God."
 	icon_state = "com_headset"
 	item_state = "headset"
 	ks2type = /obj/item/device/encryptionkey/heads/moebius
 
 /obj/item/device/radio/headset/heads/hos
-	name = "\improper Aegis commander headset"
+	name = "\improper Ironhammer commander headset"
 	desc = "The headset of the man who protects your worthless lifes."
 	icon_state = "com_headset"
 	item_state = "headset"
 	ks2type = /obj/item/device/encryptionkey/heads/hos
 
 /obj/item/device/radio/headset/heads/ce
-	name = "chief engineer's headset"
+	name = "technomancer exultant's headset"
 	desc = "The headset of the guy who is in charge of morons"
 	icon_state = "com_headset"
 	item_state = "headset"
 	ks2type = /obj/item/device/encryptionkey/heads/ce
 
 /obj/item/device/radio/headset/heads/cmo
-	name = "chief medical officer's headset"
+	name = "moebius biolab officer's headset"
 	desc = "The headset of the highly trained medical chief."
 	icon_state = "com_headset"
 	item_state = "headset"
@@ -192,14 +192,14 @@
 	ks2type = /obj/item/device/encryptionkey/heads/hop
 
 /obj/item/device/radio/headset/heads/merchant
-	name = "Union merchant's headset"
+	name = "Guild merchant's headset"
 	desc = "The headset of the guy who know price for everything."
 	icon_state = "com_headset"
 	item_state = "headset"
 	ks2type = /obj/item/device/encryptionkey/heads/merchant
 
 /obj/item/device/radio/headset/heads/preacher
-	name = "Mekhane preacher's headset"
+	name = "Neotheology preacher's headset"
 	desc = "The headset of the man who leads you to god."
 	icon_state = "nt_com_headset"
 	item_state = "headset"
@@ -229,7 +229,7 @@
 	ks2type = /obj/item/device/encryptionkey/heads/hos
 
 /obj/item/device/radio/headset/church
-	name = "Mekhane headset"
+	name = "Neotheology headset"
 	desc = "If you listen closely you can hear God."
 	icon_state = "nt_headset"
 	item_state = "headset"

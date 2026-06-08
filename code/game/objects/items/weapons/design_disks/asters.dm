@@ -1,6 +1,6 @@
 // Asters
 /obj/item/computer_hardware/hard_drive/portable/design/tools
-	disk_name = "Union Basic Tool Pack"
+	disk_name = "Guild Basic Tool Pack"
 	icon_state = "guild"
 	rarity_value = 5.5
 	spawn_tags = SPAWN_TAG_DESIGN_COMMON
@@ -34,7 +34,7 @@
 	)
 
 /obj/item/computer_hardware/hard_drive/portable/design/misc
-	disk_name = "Union Miscellaneous Pack"
+	disk_name = "Guild Miscellaneous Pack"
 	icon_state = "guild"
 	rarity_value = 3.5
 	spawn_tags = SPAWN_TAG_DESIGN_COMMON
@@ -72,7 +72,7 @@
 	)
 
 /obj/item/computer_hardware/hard_drive/portable/design/devices
-	disk_name = "Union Devices and Instruments"
+	disk_name = "Guild Devices and Instruments"
 	icon_state = "guild"
 	rarity_value = 3
 	spawn_tags = SPAWN_TAG_DESIGN_COMMON
@@ -99,7 +99,7 @@
 	)
 
 /obj/item/computer_hardware/hard_drive/portable/design/robustcells
-	disk_name = "Union Robustcells"
+	disk_name = "Guild Robustcells"
 	icon_state = "guild"
 	rarity_value = 3
 	spawn_tags = SPAWN_TAG_DESIGN_COMMON

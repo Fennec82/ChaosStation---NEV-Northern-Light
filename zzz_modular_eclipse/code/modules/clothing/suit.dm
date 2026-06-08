@@ -22,10 +22,10 @@
 	icon_override = 'zzz_modular_eclipse/icons/clothing/onmob/male/suit.dmi'
 	icon_override_female = 'zzz_modular_eclipse/icons/clothing/onmob/female/suit.dmi'
 
-//Aegis Cadet
+//Ironhammer Cadet
 /obj/item/clothing/suit/storage/cadet_vest
 	name = "stab vest"
-	desc = "A light combat vest provided as standard protective gear to Aegis Cadets."
+	desc = "A light combat vest provided as standard protective gear to Ironhammer Cadets."
 	icon_state = "cadet_vest"
 	item_state = "cadet_vest"
 	blood_overlay_type = "armor"

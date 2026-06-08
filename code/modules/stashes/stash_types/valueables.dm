@@ -44,7 +44,7 @@
  Focus on recovering cruciforms from the faithful. <br>\
 I have taken the Church relics and secreted them here <br>\
 %D.<br>\
- It should be enough that I am a Child of Mekhane, but if not, have faith.<br>\
+ It should be enough that I am a Child of Neotheology, but if not, have faith.<br>\
  With or without recovering my Cruciform, I am certain of the immortal reward that awaits us all when this mortal coil passes.<br>\
  Steel yourself for the trials ahead, and godspeed."
 

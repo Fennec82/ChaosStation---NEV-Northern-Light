@@ -735,7 +735,7 @@
 				"First time? I can be gentle, unless you like it rough.",
 				"What use is that flesh if you don't enjoy it?",
 				"Mine is the caress of steel.",
-				"I offer you the ecstasy of union, and yet you tremble."
+				"I offer you the ecstasy of guild, and yet you tremble."
 				)
 	//speaking with pilot
 	var/list/common_answers = list(

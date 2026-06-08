@@ -2,7 +2,7 @@ GLOBAL_DATUM(last_shelter, /obj/item/device/last_shelter)
 
 /obj/item/device/last_shelter
 	name = "Last Shelter"
-	desc = "A curious Mekhanite device capable of retrieving core implants of those stranded in space."
+	desc = "A curious Neotheology device capable of retrieving core implants of those stranded in space."
 	icon = 'icons/obj/faction_item.dmi'
 	icon_state = "last_shelter"
 	item_state = "last_shelter"
@@ -123,7 +123,7 @@ GLOBAL_DATUM(last_shelter, /obj/item/device/last_shelter)
 	for(var/mob/observer/ghost/O in GLOB.player_list)
 		if(O.client)
 			O << 'sound/effects/magic/blind.ogg' //Play this sound to a player whenever when he's chosen to decide.
-			if(alert(O, "Do you want to be cloned as Mekhane disciple? Hurry up, you have 60 seconds to make choice!","Player Request","OH YES","I am not worthy") == "OH YES")
+			if(alert(O, "Do you want to be cloned as Neotheology disciple? Hurry up, you have 60 seconds to make choice!","Player Request","OH YES","I am not worthy") == "OH YES")
 				if(!agree_time_out)
 					if(MN)
 						to_chat(O, SPAN_WARNING("Somebody already took this place."))

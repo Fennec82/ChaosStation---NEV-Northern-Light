@@ -7,7 +7,7 @@
 	flag = CLUBMANAGER
 	department = DEPARTMENT_CIVILIAN
 	department_flag = SERVICE
-	faction = "NEV Northern Light"
+	faction = "CEV Eris"
 	total_positions = 1
 	spawn_positions = 1
 	supervisors = "the First Officer"
@@ -24,7 +24,7 @@
 		STAT_VIG = 15,
 	)
 	outfit_type = /decl/hierarchy/outfit/job/service/bartender //Re-using this.
-	description = "As the Club Manager, you run the club aboard NEV Northern Light. Provide the crewmembers with drinks, food, and entertainment.<br>\
+	description = "As the Club Manager, you run the club aboard CEV Eris. Provide the crewmembers with drinks, food, and entertainment.<br>\
 	<br>\
 	Technically you take orders from no one, but the Captain and the First Officer are the ones who hired you and you should strive to please them. Your Club Workers and Artists help you run the place and make money. Pay them well!"
 
@@ -44,7 +44,7 @@
 	flag = CLUBWORKER
 	department = DEPARTMENT_CIVILIAN
 	department_flag = SERVICE
-	faction = "NEV Northern Light"
+	faction = "CEV Eris"
 	total_positions = 2
 	spawn_positions = 2
 	supervisors = "the Club Manager"
@@ -79,12 +79,13 @@
 	icon_state = "player-grey"
 	join_tag = /datum/job/clubworker
 
+/*
 /datum/job/artist
 	title = "Artist"
 	flag = ARTIST
 	department = DEPARTMENT_CIVILIAN
 	department_flag = SERVICE
-	faction = "NEV Northern Light"
+	faction = "CEV Eris"
 	total_positions = 2
 	spawn_positions = 1
 	supervisors = "the Club Manager"
@@ -100,12 +101,12 @@
 
 	perks = list(PERK_ARTIST)
 
-	description = "You are a creative soul aboard this vessel. You have been given a home by the Club to create masterful works of art to be displayed or sold at mind-boggling prices... and something about the Northern Light and its doomed journey sparks the fire of creation within you.<br>\
+	description = "You are a creative soul aboard this vessel. You have been given a home by the Club to create masterful works of art to be displayed or sold at mind-boggling prices... and something about the Eris and its doomed journey sparks the fire of creation within you.<br>\
 	You do not gain desires like other members of the crew. Instead, you stop gaining insight once you max out at 100 points.<br>\
 	You can gain desires by spending this insight at your Artist's Bench to build a work of art, this art you create vary wildly in type, quality, and value. Sell your artwork to the unwashed masses, display it in the club or give you work to the merchant to sell for a profit."
 
 	duties = "Create works of art using your insight.<br>\
-	Display your work, or sell it to the crew or the Free Trade Union for a profit.<br>\
+	Display your work, or sell it to the crew or the Aster's Guild for a profit.<br>\
 	Be in the midst of action or combat to level your insight faster."
 
 	loyalties = "You are loyal to your soul, first and foremost. You are fascinated by this cursed ship, and want to mold this interest into your works of art.<br>\
@@ -115,3 +116,4 @@
 	name = "Club Artist"
 	icon_state = "player-grey"
 	join_tag = /datum/job/artist
+*/

@@ -46,7 +46,7 @@
 	name = "Badassery"
 
 /datum/uplink_category/neotheology
-	name = "Children of Mekhane"
+	name = "Church of Neotheology"
 
 /datum/uplink_category/telecrystals
 	name = "Telecrystals"

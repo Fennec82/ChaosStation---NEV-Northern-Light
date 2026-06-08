@@ -1,5 +1,5 @@
 /obj/structure/closet/secure_closet/reinforced/engineering_chief
-	name = "chief engineer's locker"
+	name = "technomancer exultant's locker"
 	req_access = list(access_ce)
 	icon_state = "ce"
 
@@ -91,3 +91,5 @@
 	new /obj/item/clothing/head/armor/helmet/technomancer_old(src)
 	new /obj/item/clothing/suit/storage/vest/technomancer_old(src)
 	new /obj/item/storage/pouch/engineering_tools (src)
+	new /obj/item/clothing/head/space/void/technomancer
+	new /obj/item/clothing/suit/space/void/technomancer

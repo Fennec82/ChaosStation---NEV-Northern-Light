@@ -10,16 +10,16 @@ used to scare children into misbehaving. The difference is that you actually exi
 You are a Carrion, first created by Lazarus scientists trying to gain an edge in the Corporate Wars. The\
 first of your kind broke free, and spread to the stars, now known space and beyond are full of terrifying\
 stories of colonies that disappeared overnight, of ships whose crews died screaming. Fortunately for the\
-Northern Light, you aren’t here to slaughter them all, not unless they push you to it. Your true masters\
+Eris, you arenï¿½t here to slaughter them all, not unless they push you to it. Your true masters\
 have a plan, and you are the unstoppable instrument of their will.\n\n\
 Your body is ever changing, you should start by evolving a chemical vessel to use your powers. A carrion\
 maw can be a good way to earn evolution points.\n\n\
 You can complete contracts to grow stronger until the entire ship is your plaything. Be patient, a slow,\
 methodical approach is recommended.\n\
-Your enemies are many, and your disguise will not hold up to an in-depth scan. Beware of the Children\
-of Mekhane in particular, who are protected from your infection spiders, and may be able to identify\
+Your enemies are many, and your disguise will not hold up to an in-depth scan. Beware of the Church\
+of Neotheology in particular, who are protected from your infection spiders, and may be able to identify\
 and out you before you are ready.\n\n\
-You won’t find many friends here, but spiders are one of them. If you feel alone, you can always give\
+You wonï¿½t find many friends here, but spiders are one of them. If you feel alone, you can always give\
 birth to your own children, or search the ship for your brothers and sisters."
 
 	antaghud_indicator = "hudchangeling"

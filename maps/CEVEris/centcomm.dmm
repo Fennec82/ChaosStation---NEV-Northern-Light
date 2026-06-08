@@ -959,14 +959,14 @@
 /area/centcom/evac)
 "db" = (
 /obj/machinery/door/airlock/command{
-	name = "Representative of the Mekhanite Council";
+	name = "Representative of the Neotheology Council";
 	req_access = list(101)
 	},
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/centcom/evac)
 "dc" = (
 /obj/machinery/door/airlock/command{
-	name = "Lazarus Foundation Board Member";
+	name = "Moebius Board Member";
 	req_access = list(101)
 	},
 /turf/simulated/floor/carpet/sblucarpet,
@@ -6367,7 +6367,7 @@
 /area/centcom/merc_base)
 "CE" = (
 /obj/machinery/door/airlock/command{
-	name = "Aegis Security Solutions Colonel";
+	name = "Ironhammer Security Solutions Colonel";
 	req_access = list(101)
 	},
 /turf/simulated/floor/carpet/bcarpet,
@@ -7383,7 +7383,7 @@
 /area/centcom/raider_base)
 "JQ" = (
 /obj/machinery/door/airlock/command{
-	name = "Free Trade Union Executive Member";
+	name = "Aster's Guild Executive Member";
 	req_access = list(101)
 	},
 /turf/simulated/floor/carpet/bcarpet,

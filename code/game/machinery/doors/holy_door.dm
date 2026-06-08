@@ -1,5 +1,5 @@
 /obj/machinery/door/holy
-	name = "Mekhane door"
+	name = "Neotheology door"
 	icon = 'icons/obj/doors/Door_holy.dmi'
 	icon_state = "door_closed"
 	autoclose = 1
@@ -12,18 +12,18 @@
 	var/obj/item/wedged_item
 
 /obj/machinery/door/holy/preacher
-	name = "Mekhane clergy door"
+	name = "Neotheology clergy door"
 	icon = 'icons/obj/doors/Door_holy_preacher.dmi'
 	minimal_holiness = CLEARANCE_CLERGY
 
 /obj/machinery/door/holy/public
-	name = "Mekhane public door"
+	name = "Neotheology public door"
 	icon = 'icons/obj/doors/Door_holy_public.dmi'
 	minimal_holiness = CLEARANCE_NONE
 
 /obj/item/clothing/accessory/cross // It belongs here
 	name = "Tau Cross necklace"
-	desc = "Heavy necklace resembling a Tau Cross - symbol of Children of the Mekhane. Used as a key to Mekhane doors."
+	desc = "Heavy necklace resembling a Tau Cross - symbol of Disciples of Neotheology. Used as a key to Neotheology doors."
 	icon = 'icons/inventory/accessory/icon.dmi'
 	icon_state = "cross"
 	item_state = ""	// No inhands

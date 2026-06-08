@@ -38,7 +38,7 @@
 
 //The event has the potential to deal damage to the ship and its structures
 //Examples: Meteors, APC damage, camera failure
-//Destructive events usually create work for engineers
+//Destructive events usually create work for technomancers
 #define TAG_DESTRUCTIVE "destructive"
 
 

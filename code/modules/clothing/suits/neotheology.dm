@@ -19,7 +19,7 @@
 
 /obj/item/clothing/suit/armor/acolyte
 	name = "Acolyte armor"
-	desc = "Worn heavy, steadfast in the name of Mekhane."
+	desc = "Worn heavy, steadfast in the name of Neotheology."
 	icon_state = "acolyte"
 	item_state = "acolyte"
 	matter = list(MATERIAL_PLASTIC = 30, MATERIAL_STEEL = 25, MATERIAL_BIOMATTER = 40)

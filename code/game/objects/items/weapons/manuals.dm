@@ -266,11 +266,11 @@
 
 //security
 /obj/item/book/manual/wiki/security_ironparagraphs
-	name = "Aegis Laws"
+	name = "Ironhammer Laws"
 	desc = "A set of corporate guidelines for keeping order on privately-owned space assets."
 	icon_state = "book_ironparagraphs"
-	author = "Aegis Security"
-	title = "Aegis Laws"
+	author = "Ironhammer Security"
+	title = "Ironhammer Laws"
 	page_link = "Laws_Eclipse" //Eclipse Edit - fixing broken wiki links
 
 /obj/item/book/manual/wiki/security_detective

@@ -8,10 +8,10 @@
 	icon = 'zzz_modular_eclipse/icons/clothing/hat.dmi'
 	icon_override = 'zzz_modular_eclipse/icons/clothing/onmob/neutral/hat.dmi'
 
-//Aegis Cadet
+//Ironhammer Cadet
 /obj/item/clothing/head/beret/sec/navy/cadet_cap
 	name = "cadet's cap"
-	desc = "A cap worn by Aegis cadets."
+	desc = "A cap worn by Ironhammer cadets."
 	icon_state = "cadet_cap"
 	body_parts_covered = 0
 	spawn_blacklisted = TRUE

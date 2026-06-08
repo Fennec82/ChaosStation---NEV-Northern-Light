@@ -129,7 +129,7 @@
 /datum/category_item/setup_option/background/origin/first_expeditionary_fleet
 	name = "Activist"
 	desc = "You have a strong set of beliefs, and stick to them. You're not afraid to clash with authority when push comes to shove. \
-			Maybe you're even on the NEV Northern Light because you're running from the law. Either way, you're still carrying out your campaign for justice."
+			Maybe you're even on the CEV Eris because you're running from the law. Either way, you're still carrying out your campaign for justice."
 
 	stat_modifiers = list(
 		STAT_ROB = 10,
@@ -220,7 +220,7 @@
 	name = "Belt Miner"
 	desc = "Asteroid belts, planetary rings, and ancient debris fields are some of the most lucrative, and dangerous places to mine, and that's where you call home. Belt Miners are a self-sufficient lot, sent into these fields for years at a time to strip them of valuable materials. \
 	The stations you lived on can produce all needed equipment on-site thanks to their massive production facilities, though often the stations struggle to support the population, so air and water rationing aren't uncommon, and even gravity generator shutdowns are a common occurrence. \
-	Maybe you worked for the Free Trade Union, or one of the other megacorps. Or maybe you were part of an illegal Wildcat mining operation, jumping the claims of others and making off with the goods before they could catch you."
+	Maybe you worked for the Aster's Guild, or one of the other megacorps. Or maybe you were part of an illegal Wildcat mining operation, jumping the claims of others and making off with the goods before they could catch you."
 
 	stat_modifiers = list(
 		STAT_ROB = 6,

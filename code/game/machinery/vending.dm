@@ -1524,8 +1524,8 @@
 	auto_price = FALSE
 
 /obj/machinery/vending/theomat
-	name = "Mekhane Theo-Mat"
-	desc = "A Mekhane dispensary for disciples and new converts."
+	name = "Neotheology Theo-Mat"
+	desc = "A Neotheology dispensary for disciples and new converts."
 	product_slogans = "Immortality is the reward of the faithful.; Help humanity ascend, join your brethren today!; Come and seek a new life!"
 	product_ads = "Praise!;Pray!;Obey!"
 	icon_state = "teomat"
@@ -1743,8 +1743,8 @@
 	vendor_department = DEPARTMENT_OFFSHIP
 
 /obj/machinery/vending/style
-	name = "Free Trade Union Style-o-matic"
-	desc = "Free Trade Union vendor selling, possibly repossessed, most likely overpriced, stylish clothing."
+	name = "Aster's Guild Style-o-matic"
+	desc = "Aster's Guild vendor selling, possibly repossessed, most likely overpriced, stylish clothing."
 	product_slogans = "Highly stylish clothing for sale!;Latest fashion trends right here!"
 	product_ads = "Stylish!;Cheap!;Legal within this sector!"
 	icon_state = "style"

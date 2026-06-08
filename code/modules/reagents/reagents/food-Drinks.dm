@@ -1536,7 +1536,7 @@
 /datum/reagent/alcohol/ntcahors
 	name = "Saint's Wing Cahors"
 	id = "ntcahors"
-	description = "Fortified dessert wine made from a variety of natural ingredients. Or so Children of the Mekhane claim."
+	description = "Fortified dessert wine made from a variety of natural ingredients. Or so Disciples of Neotheology claim."
 	taste_description = "sweet charcoal"
 	color = "#7E4043" // rgb: 126, 64, 67
 	strength = 25

@@ -76,8 +76,8 @@
 	rarity_value = 32
 
 /obj/item/cell/large/neotheology
-	name = "Mekhane \"Spark 13000L\""
-	desc = "Mekhane branded non-rechargeable L-standardized power cell."
+	name = "Neotheology \"Spark 13000L\""
+	desc = "Neotheology branded non-rechargeable L-standardized power cell."
 	icon_state = "b_nt"
 	matter = list(MATERIAL_STEEL = 3, MATERIAL_BIOMATTER = 15)
 	maxcharge = 13000
@@ -86,8 +86,8 @@
 	spawn_tags = SPAWN_TAG_POWERCELL_NEOTHEOLOGY_LARGE
 
 /obj/item/cell/large/neotheology/plasma
-	name = "Mekhane \"Radiance 20000L\""
-	desc = "Mekhane branded non-rechargeable L-standardized power cell. This advanced version can store even more energy."
+	name = "Neotheology \"Radiance 20000L\""
+	desc = "Neotheology branded non-rechargeable L-standardized power cell. This advanced version can store even more energy."
 	icon_state = "b_nt_pl"
 	matter = list(MATERIAL_STEEL = 3, MATERIAL_BIOMATTER = 15)
 	maxcharge = 20000
@@ -199,8 +199,8 @@
 	rarity_value = 27
 
 /obj/item/cell/medium/neotheology
-	name = "Mekhane \"Spark 1000M\""
-	desc = "Mekhane branded non-rechargeable M-standardized power cell."
+	name = "Neotheology \"Spark 1000M\""
+	desc = "Neotheology branded non-rechargeable M-standardized power cell."
 	icon_state = "m_nt"
 	matter = list(MATERIAL_STEEL = 2, MATERIAL_BIOMATTER = 10)
 	maxcharge = 1000
@@ -209,8 +209,8 @@
 	spawn_tags = SPAWN_TAG_POWERCELL_NEOTHEOLOGY_MEDIUM
 
 /obj/item/cell/medium/neotheology/plasma
-	name = "Mekhane \"Radiance 1500M\""
-	desc = "Mekhane branded non-rechargeable M-standardized power cell. This advanced version can store even more energy."
+	name = "Neotheology \"Radiance 1500M\""
+	desc = "Neotheology branded non-rechargeable M-standardized power cell. This advanced version can store even more energy."
 	icon_state = "m_nt_pl"
 	matter = list(MATERIAL_STEEL = 2, MATERIAL_BIOMATTER = 10)
 	maxcharge = 1500
@@ -311,8 +311,8 @@
 	rarity_value = 32
 
 /obj/item/cell/small/neotheology
-	name = "Mekhane \"Spark 300S\""
-	desc = "Mekhane branded non-rechargeable S-standardized power cell."
+	name = "Neotheology \"Spark 300S\""
+	desc = "Neotheology branded non-rechargeable S-standardized power cell."
 	icon_state = "s_nt"
 	matter = list(MATERIAL_STEEL = 1, MATERIAL_BIOMATTER = 5)
 	maxcharge = 300
@@ -321,8 +321,8 @@
 	spawn_tags = SPAWN_TAG_POWERCELL_NEOTHEOLOGY_SMALL
 
 /obj/item/cell/small/neotheology/plasma
-	name = "Mekhane \"Radiance 500S\""
-	desc = "Mekhane branded non-rechargeable S-standardized power cell. This advanced version can store even more energy."
+	name = "Neotheology \"Radiance 500S\""
+	desc = "Neotheology branded non-rechargeable S-standardized power cell. This advanced version can store even more energy."
 	icon_state = "s_nt_pl"
 	matter = list(MATERIAL_STEEL = 1, MATERIAL_BIOMATTER = 5)
 	maxcharge = 500

@@ -109,14 +109,14 @@
 // I H S //
 
 /obj/item/clothing/head/soft/sec2soft
-	name = "Aegis field cap"
-	initial_name = "Aegis field cap"
+	name = "Ironhammer field cap"
+	initial_name = "Ironhammer field cap"
 	desc = "A field cap for operatives."
 	icon_state = "sec2soft"
 
 /obj/item/clothing/head/soft/sarge2soft
-	name = "Aegis sergeant cap"
-	initial_name = "Aegis sergeant cap"
+	name = "Ironhammer sergeant cap"
+	initial_name = "Ironhammer sergeant cap"
 	desc = "A field cap for officers."
 	icon_state = "sargesoft"
 

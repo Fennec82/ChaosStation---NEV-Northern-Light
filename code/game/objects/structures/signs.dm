@@ -506,7 +506,7 @@
 	icon_state = "interrogation"
 
 /obj/structure/sign/department/commander
-	name = "AEGIS COMMANDER"
+	name = "IRONHAMMER COMMANDER"
 	icon_state = "commander"
 
 /obj/structure/sign/department/armory
@@ -524,9 +524,9 @@
 	desc = "Faction sign of some sort."
 
 /obj/structure/sign/faction/ironhammer
-	name = "Aegis Security"
-	desc = "This sign depicts the symbol of Aegis Security, the largest security provider within SolGov Space."
-	icon_state = "ironhammer"
+	name = "Ironhammer Security"
+	desc = "This sign depicts the symbol of Ironhammer Security, the largest security provider within SolGov Space."
+	icon_state = "ironhammer_old"
 
 /obj/structure/sign/faction/one_star
 	name = "One Star Banner"
@@ -545,56 +545,56 @@
 
 /obj/structure/sign/faction/frozenstar
 	name = "Frozen Star"
-	desc = "A popular weapon manufacturer in the Hansa Trade Union."
+	desc = "A popular weapon manufacturer in the Hansa Trade Guild."
 	icon_state = "frozenstar"
 
 /obj/structure/sign/faction/moebius
-	name = "Lazarus Laboratories"
-	desc = "A shady megacorporation that has a stake in the Northern Light's expedition. "
-	icon_state = "moebius"
+	name = "Moebius Laboratories"
+	desc = "Shady pharmaceutical and prosthetic manufacturer. Few outsiders know what happens behind the doors of their labs, and whoever knows does not live a long life. "
+	icon_state = "moebius_old"
 
 /obj/structure/sign/faction/moebius_alt
-	name = "Lazarus Laboratories Sign"
-//	desc = "Shady pharmaceutical and prosthetic manufacturer. Few outsiders know what happens behind the doors of their labs, and whoever knows does not live a long life. The sign is emblazoned with the slogan, new minds new horizons"
-	desc = "A shady megacorporation that has a stake in the Northern Light's expedition."
+	name = "Moebius Laboratories Sign"
+	desc = "Shady pharmaceutical and prosthetic manufacturer. Few outsiders know what happens behind the doors of their labs, and whoever knows does not live a long life. The sign is emblazoned with the slogan, new minds new horizons"
+//	desc = "A shady megacorporation that has a stake in the Eris's expedition."
 	icon_state = "moebius_alt"
 
 /obj/structure/sign/faction/neotheology
-	name = "Mekhane"
-	desc = "the Tau Cross - symbol of the Children of Mekhane."
+	name = "Neotheology"
+	desc = "the Tau Cross - symbol of the Church of Neotheology."
 	icon_state = "neotheology"
 
 /obj/structure/sign/faction/neotheology_old
-	name = "Mekhane"
-	desc = "the Tau Cross - symbol of the Children of Mekhane."
+	name = "Neotheology"
+	desc = "the Tau Cross - symbol of the Church of Neotheology."
 	icon_state = "neotheology-old"
 
 /obj/structure/sign/faction/neotheology_cross
-	name = "Mekhane Tau cross"
-	desc = "Religious symbol of the Children of Mekhane - the Tau cross. It looks like a decoration.."
+	name = "Neotheology Tau cross"
+	desc = "Religious symbol of the Church of Neotheology - the Tau cross. It looks like a decoration.."
 	icon_state = "wall_cross_steel"
 
 /obj/structure/sign/faction/neotheology_cross/gold
 	icon_state = "wall_cross_gold"
 
 /obj/structure/sign/faction/astersguild
-	name = "Free Trade Union"
-	desc = "The Free Trade Union - monopolists of far space transportation."
-	icon_state = "astersguild"
+	name = "Aster's Guild"
+	desc = "The Aster's Guild - monopolists of far space transportation."
+	icon_state = "astersguild_old"
 
 /obj/structure/sign/faction/technomancers
-	name = "Engineering Department"
-	desc = "Oh, dear, Atmosia isn't declaring independence <i>again</i>, are they...?"
-	icon_state = "technomancers"
+	name = "Technomancer's League"
+	desc = "Technomancer League - anarchistic community ruled by powerful clans."
+	icon_state = "technomancers_old"
 
 /obj/structure/sign/faction/excelsior
 	name = "Excelsior"
-	desc = "Excelsior is a union of communist mining communities with no respect to any private property."
+	desc = "Excelsior is a guild of communist mining communities with no respect to any private property."
 	icon_state = "excelsior"
 
 /obj/structure/sign/faction/excelsior_old
 	name = "Excelsior"
-	desc = "EXCELSIOR is a union of communist mining communities with no respect to any private property."
+	desc = "EXCELSIOR is a guild of communist mining communities with no respect to any private property."
 	icon_state = "excelsior-old"
 
 /obj/structure/sign/faction/serbian

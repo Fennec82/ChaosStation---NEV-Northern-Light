@@ -1,8 +1,8 @@
 //Church Bioprinter disks unique to Eclipse
 
-// Mekhane biomatter-forged energy guns. They only get one shot from any cell, but it's a doozy
+// Neotheology biomatter-forged energy guns. They only get one shot from any cell, but it's a doozy
 /obj/item/computer_hardware/hard_drive/portable/design/nt/guns
-	disk_name = "Mekhane Armoury - Ranged Weapons Pack"
+	disk_name = "Neotheology Armoury - Ranged Weapons Pack"
 	designs = list(
 		/datum/design/bioprinter/nt_cells/medium,
         /datum/design/bioprinter/nt_guns/paladin,

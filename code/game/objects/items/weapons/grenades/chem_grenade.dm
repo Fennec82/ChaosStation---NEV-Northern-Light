@@ -308,7 +308,7 @@
 
 /obj/item/grenade/chem_grenade/antiweed/nt_antiweed
 
-	name = "Mekhane \"Kudzu Killer\""
+	name = "Neotheology \"Kudzu Killer\""
 	desc = "MA brand weedkiller grenades. Designed to deal with Kudzu infestations back in New Rome. Mixes toxic biomatter with plasticides for great results"
 
 	icon_state = "foam"
@@ -341,7 +341,7 @@
 
 /obj/item/grenade/chem_grenade/cleaner/nt_cleaner
 
-	name = "Mekhane \"Cleanse Capsule\""
+	name = "Neotheology \"Cleanse Capsule\""
 	desc = "MA brand cleaner grenades. Designed to deal with Biogenerator accidents and the aftermaths of gang wars inside the New Rome slums."
 
 	icon_state = "foam"

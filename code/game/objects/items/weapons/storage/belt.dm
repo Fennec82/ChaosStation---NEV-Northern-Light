@@ -93,7 +93,7 @@
 	new /obj/item/stack/cable_coil/random(src)
 	
 /obj/item/storage/belt/utility/neotheology
-	name = "mekhane utility belt"
+	name = "neotheology utility belt"
 	desc = "Waist-held holy items."
 	icon_state = "utility_neotheology"
 	rarity_value = 20
@@ -195,12 +195,12 @@
 	)
 
 /obj/item/storage/belt/tactical/ironhammer
-	name = "aegis tactical belt"
+	name = "ironhammer tactical belt"
 	icon_state = "tactical_ironhammer"
 	spawn_blacklisted = TRUE
 
 /obj/item/storage/belt/tactical/neotheology
-	name = "mekhane tactical belt"
+	name = "neotheology tactical belt"
 	desc = "Can hold various military and security equipment."
 	icon_state = "tactical_neotheology"
 	rarity_value = 40

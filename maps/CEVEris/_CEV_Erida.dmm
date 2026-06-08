@@ -657,7 +657,7 @@
 "abL" = (
 /obj/machinery/door/firedoor,
 /obj/machinery/door/airlock/command{
-	name = "Aegis Commander";
+	name = "Ironhammer Commander";
 	req_access = list(58)
 	},
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
@@ -795,7 +795,7 @@
 "abZ" = (
 /obj/machinery/door/firedoor,
 /obj/machinery/door/airlock/glass_command{
-	name = "Aegis Commander";
+	name = "Ironhammer Commander";
 	req_access = list(58)
 	},
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
@@ -3548,9 +3548,9 @@
 /obj/structure/disposalpipe/segment,
 /obj/machinery/requests_console{
 	announcementConsole = 1;
-	department = "Aegis Commander's Desk";
+	department = "Ironhammer Commander's Desk";
 	departmentType = 4;
-	name = "Aegis Commander RC";
+	name = "Ironhammer Commander RC";
 	pixel_x = -30
 	},
 /obj/machinery/light{
@@ -54732,9 +54732,9 @@
 "cuD" = (
 /obj/machinery/requests_console{
 	announcementConsole = 1;
-	department = "Chief Science Officer's Desk";
+	department = "Moebius Expedition Overseer's Desk";
 	departmentType = 4;
-	name = "Chief Science Officer RC";
+	name = "Moebius Expedition Overseer RC";
 	pixel_x = -30
 	},
 /turf/simulated/floor/carpet/purcarpet,
@@ -71845,7 +71845,7 @@
 /obj/machinery/door/firedoor,
 /obj/structure/disposalpipe/segment,
 /obj/machinery/door/airlock/command{
-	name = "Lazarus Medical Officer's Quarters";
+	name = "Moebius Medical Officer's Quarters";
 	req_access = list(40)
 	},
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
@@ -72216,7 +72216,7 @@
 "djb" = (
 /obj/machinery/door/firedoor,
 /obj/machinery/door/airlock/command{
-	name = "Chief Engineer's Quarters";
+	name = "Technomancer Exultant's Quarters";
 	req_access = list(56)
 	},
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
@@ -79185,7 +79185,7 @@
 /area/eris/rnd/docking)
 "dyI" = (
 /obj/machinery/door/airlock/command{
-	name = "Union Merchant";
+	name = "Guild Merchant";
 	req_access = list(41)
 	},
 /obj/machinery/door/firedoor,
@@ -79261,9 +79261,9 @@
 "dyS" = (
 /obj/machinery/requests_console{
 	announcementConsole = 1;
-	department = "Chief Medical Officer's Desk";
+	department = "Moebius Biolab Officer's Desk";
 	departmentType = 4;
-	name = "Chief Medical Officer RC";
+	name = "Moebius Biolab Officer RC";
 	pixel_y = 32
 	},
 /turf/simulated/floor/tiled/white/brown_perforated,
@@ -79355,7 +79355,7 @@
 /area/eris/maintenance/section2deck2port)
 "dzb" = (
 /obj/machinery/door/airlock/command{
-	name = "Union Merchant's Quarters";
+	name = "Guild Merchant's Quarters";
 	req_access = list(41)
 	},
 /obj/machinery/door/firedoor,
@@ -80508,7 +80508,7 @@
 /area/eris/medical/medbay/organs)
 "dBQ" = (
 /obj/machinery/door/airlock/glass_command{
-	name = "Lazarus Medical Officer";
+	name = "Moebius Medical Officer";
 	req_access = list(40)
 	},
 /obj/machinery/door/blast/regular{
@@ -80739,7 +80739,7 @@
 /area/eris/medical/reception)
 "dCn" = (
 /obj/machinery/door/airlock/command{
-	name = "Union Merchant";
+	name = "Guild Merchant";
 	req_access = list(41)
 	},
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
@@ -81455,7 +81455,7 @@
 /area/eris/hallway/main/section2)
 "dDT" = (
 /obj/machinery/door/airlock/command{
-	name = "Union Merchant";
+	name = "Guild Merchant";
 	req_access = list(41)
 	},
 /obj/structure/disposalpipe/segment{
@@ -99489,7 +99489,7 @@
 "ete" = (
 /obj/machinery/door/airlock/command{
 	id_tag = "cedoor";
-	name = "Chief Engineer";
+	name = "Technomancer Exultant";
 	req_access = list(56)
 	},
 /obj/machinery/door/firedoor,
@@ -107804,7 +107804,7 @@
 /area/eris/maintenance/section3deck5starboard)
 "kTP" = (
 /obj/machinery/door/airlock/glass_command{
-	name = "Lazarus Medical Officer";
+	name = "Moebius Medical Officer";
 	req_access = list(40)
 	},
 /obj/machinery/door/firedoor,
@@ -109070,9 +109070,9 @@
 "owS" = (
 /obj/machinery/requests_console{
 	announcementConsole = 1;
-	department = "Chief Engineer's Desk";
+	department = "Technomancer Exultant's Desk";
 	departmentType = 4;
-	name = "Chief Engineer RC";
+	name = "Technomancer Exultant RC";
 	pixel_x = 30
 	},
 /turf/simulated/floor/tiled/steel/techfloor_grid,
@@ -109872,7 +109872,7 @@
 /obj/structure/table/rack,
 /obj/spawner/lowkeyrandom,
 /obj/machinery/requests_console{
-	department = "Free Trade Union";
+	department = "Aster's Guild";
 	departmentType = 3;
 	name = "Cargo RC";
 	pixel_y = 24

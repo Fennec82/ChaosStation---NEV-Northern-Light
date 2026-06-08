@@ -18,7 +18,7 @@
 	)
 
 /obj/item/clothing/suit/storage/toggle/labcoat/cmo
-	name = "chief medical officer's labcoat"
+	name = "moebius biolab officer's labcoat"
 	desc = "Bluer than the standard model."
 	icon_state = "labcoat_cmo_open"
 	item_state = "labcoat_cmo"
@@ -65,7 +65,7 @@
 
 /obj/item/clothing/suit/storage/toggle/labcoat/medspec
 	name = "medical specialist's labcoat"
-	desc = "A suit that protects against minor chemical spills. This one has marks of Aegis Security."
+	desc = "A suit that protects against minor chemical spills. This one has marks of Ironhammer Security."
 	icon_state = "labcoat_medspec_open"
 	item_state = "labcoat_medspec"
 	icon_open = "labcoat_medspec_open"

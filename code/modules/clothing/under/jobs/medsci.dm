@@ -3,7 +3,7 @@
  */
 /obj/item/clothing/under/rank/expedition_overseer
 	desc = "A jumpsuit worn by those with the know-how to achieve the position of \"Expedition Overseer\"."
-	name = "Chief Science Officer's jumpsuit"
+	name = "Moebius Expedition Overseer's jumpsuit"
 	icon_state = "director"
 	item_state = "lb_suit"
 	armor = list(
@@ -49,8 +49,8 @@
  * Medical
  */
 /obj/item/clothing/under/rank/moebius_biolab_officer
-	desc = "It's a jumpsuit worn by those with the experience to be \"Chief Medical Officer\". It provides minor biological protection."
-	name = "chief medical officer's jumpsuit"
+	desc = "It's a jumpsuit worn by those with the experience to be \"Moebius Biolab Officer\". It provides minor biological protection."
+	name = "moebius biolab officer's jumpsuit"
 	icon_state = "cmo"
 	item_state = "cmo"
 	permeability_coefficient = 0.50
@@ -133,7 +133,7 @@
 	item_state = "b_suit"
 
 /obj/item/clothing/under/rank/paramedic
-	desc = "Jumpsuit of Lazarus Medical paramedics. It's made with reinforced fiber to offer more protection for recovery operators."
+	desc = "Jumpsuit of Moebius Medical paramedics. It's made with reinforced fiber to offer more protection for recovery operators."
 	name = "paramedic's jumpsuit"
 	icon_state = "paramedic"
 	item_state = "paramedic"

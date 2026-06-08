@@ -2,7 +2,7 @@
 	Cameras in a radius will break. This provides plausible deniability to contractors and saboteurs, as
 	as well as possibly raising a false alarm and the AI mobilising ironhammer to investigate nothing.
 
-	Mainly it hurts the AI, and provides work for engineers
+	Mainly it hurts the AI, and provides work for technomancers
 */
 /datum/storyevent/camera_damage
 	id = "camera_damage"

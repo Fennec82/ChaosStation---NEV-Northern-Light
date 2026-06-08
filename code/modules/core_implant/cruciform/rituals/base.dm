@@ -125,7 +125,7 @@
 /datum/ritual/cruciform/base/sense_cruciform
 	name = "Cruciform sense"
 	phrase = "Et si medio umbrae"
-	desc = "Very short litany to identify Mekhane followers. Targets individuals directly in front of caster or being grabbed by caster."
+	desc = "Very short litany to identify Neotheology followers. Targets individuals directly in front of caster or being grabbed by caster."
 	cooldown_time = 1 MINUTES
 	power = 20
 
@@ -258,7 +258,7 @@
 /datum/ritual/cruciform/base/reincarnation
 	name = "Reincarnation"
 	phrase = "Vetus moritur et onus hoc levaverit"
-	desc = "A reunion of a spirit with its new body, ritual of activation of a crucifrom, lying on the body. The process requires Mekhane's special altar on which a body stripped of clothes is to be placed."
+	desc = "A reguild of a spirit with its new body, ritual of activation of a crucifrom, lying on the body. The process requires Neotheology's special altar on which a body stripped of clothes is to be placed."
 
 /datum/ritual/cruciform/base/reincarnation/perform(mob/living/carbon/human/user, obj/item/implant/core_implant/C)
 	var/obj/item/implant/core_implant/cruciform/CI = get_implant_from_victim(user, /obj/item/implant/core_implant/cruciform, FALSE)

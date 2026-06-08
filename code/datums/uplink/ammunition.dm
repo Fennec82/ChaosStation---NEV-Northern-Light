@@ -75,14 +75,14 @@
 
 /datum/uplink_item/item/ammo/sl_srifle/highvelocity
 	name = ".20 Rifle HV ammo strip"
-	desc = "Standard .25 magazine with lethal ammunition. Used mostly in Aegis carbines. Can fit 5 bullets."
+	desc = "Standard .25 magazine with lethal ammunition. Used mostly in Ironhammer carbines. Can fit 5 bullets."
 	item_cost = 1
 	antag_roles = list(ROLE_CONTRACTOR,ROLE_MARSHAL,ROLE_INQUISITOR,ROLE_MERCENARY,ROLE_CARRION)
 	path = /obj/item/storage/box/syndie_kit/slsrifle/hv
 
 /datum/uplink_item/item/ammo/ihclrifle/highvelocity
 	name = ".25 caseless HV magazine"
-	desc = "Standard .25 magazine with high velocity ammunition. Used mostly in Aegis carbines. Can fit 30 bullets."
+	desc = "Standard .25 magazine with high velocity ammunition. Used mostly in Ironhammer carbines. Can fit 30 bullets."
 	item_cost = 3
 	antag_roles = list(ROLE_CONTRACTOR,ROLE_MARSHAL,ROLE_INQUISITOR,ROLE_MERCENARY,ROLE_CARRION)
 	path = /obj/item/ammo_magazine/ihclrifle/hv

@@ -35,7 +35,7 @@
 	origin_tech = list(TECH_COVERT = 3)
 
 /obj/item/device/encryptionkey/headset_sec
-	name = "aegis radio encryption key"
+	name = "ironhammer radio encryption key"
 	icon_state = "sec_cypherkey"
 	channels = list("Security" = 1)
 
@@ -55,7 +55,7 @@
 	channels = list("Medical" = 1)
 
 /obj/item/device/encryptionkey/headset_church
-	name = "Mekhane radio encryption key"
+	name = "Neotheology radio encryption key"
 	icon_state = "nt_cypherkey"
 	channels = list("NT Voice" = 1)
 
@@ -86,7 +86,7 @@
 	channels = list("Command" = 1, "Security" = 1, "Engineering" = 1, "NT Voice" = 1, "Science" = 1, "Medical" = 1, "Supply" = 1, "Service" = 1, "AI Private" = 1)
 
 /obj/item/device/encryptionkey/heads/rd
-	name = "chief science officer encryption key"
+	name = "moebius expedition overseer encryption key"
 	icon_state = "rd_cypherkey"
 	channels = list("Science" = 1, "Command" = 1)
 
@@ -96,17 +96,17 @@
 	channels = list("Science" = 1, "Medical" = 1, "Command" = 1)
 
 /obj/item/device/encryptionkey/heads/hos
-	name = "aegis commander's encryption key"
+	name = "ironhammer commander's encryption key"
 	icon_state = "hos_cypherkey"
 	channels = list("Security" = 1, "Command" = 1)
 
 /obj/item/device/encryptionkey/heads/ce
-	name = "chief engineer's encryption key"
+	name = "technomancer exultant's encryption key"
 	icon_state = "ce_cypherkey"
 	channels = list("Engineering" = 1, "Command" = 1)
 
 /obj/item/device/encryptionkey/heads/cmo
-	name = "chief medical officer's encryption key"
+	name = "moebius biolab officer's encryption key"
 	icon_state = "cmo_cypherkey"
 	channels = list("Medical" = 1, "Command" = 1)
 
@@ -116,17 +116,17 @@
 	channels = list("Command" = 1, "Security" = 1, "Engineering" = 1, "NT Voice" = 1, "Science" = 1, "Medical" = 1, "Supply" = 1, "Service" = 1)
 
 /obj/item/device/encryptionkey/heads/merchant
-	name = "trade union merchant radio encryption key"
+	name = "trade guild merchant radio encryption key"
 	icon_state = "qm_cypherkey"
 	channels = list("Supply" = 1, "Command" = 1)
 
 /obj/item/device/encryptionkey/heads/preacher
-	name = "Mekhane Preacher radio encryption key"
+	name = "Neotheology Preacher radio encryption key"
 	icon_state = "preach_cypherkey"
 	channels = list("NT Voice" = 1, "Command" = 1)
 
 /obj/item/device/encryptionkey/headset_cargo
-	name = "trade union member radio encryption key"
+	name = "trade guild member radio encryption key"
 	icon_state = "cargo_cypherkey"
 	channels = list("Supply" = 1)
 

@@ -40,7 +40,7 @@
 
 //Guild Technician
 /obj/item/clothing/suit/storage/cargo_jacket
-	name = "union technician jacket"
+	name = "guild technician jacket"
 	desc = "Stylish jacket lined with pockets. It seems to have a little protection from physical harm."
 	icon_state = "cargo_jacket"
 	item_state = "cargo_jacket"
@@ -57,7 +57,7 @@
 	)
 
 /obj/item/clothing/suit/storage/cargo_jacket/old
-	name = "black union technician jacket"
+	name = "black guild technician jacket"
 	desc = "Stylish jacket lined with pockets. It seems to have a little protection from physical harm. This one is done in dark black color."
 	icon_state = "cargo_jacket_old"
 	item_state = "cargo_jacket_old"
@@ -75,7 +75,7 @@
 
 //Merchant
 /obj/item/clothing/suit/storage/qm_coat
-	name = "union merchant coat"
+	name = "guild merchant coat"
 	desc = "An ideal choice for a smuggler. This coat seems have good impact resistance, and is made from resistant and expensive materials."
 	icon_state = "qm_coat"
 	item_state = "qm_coat"
@@ -198,8 +198,8 @@
 	)
 
 /obj/item/clothing/suit/storage/neotheosports
-	name = "Mekhane sports jacket"
-	desc = "Mekhane styled sports jacket to keep the faithful always on their feet."
+	name = "Neotheology sports jacket"
+	desc = "Neotheology styled sports jacket to keep the faithful always on their feet."
 	icon_state = "nt_sportsjacket"
 	item_state = "nt_sportsjacket"
 	body_parts_covered = UPPER_TORSO|ARMS
@@ -251,7 +251,7 @@
 //Inspector
 /obj/item/clothing/suit/storage/detective
 	name = "inspector's grey armored trenchcoat"
-	desc = "Grey armored trenchcoat, designed and created by Aegis Security Solutions. The coat is externally impact resistant - perfect for your next act of autodefenestration!"
+	desc = "Grey armored trenchcoat, designed and created by Ironhammer Security Solutions. The coat is externally impact resistant - perfect for your next act of autodefenestration!"
 	icon_state = "detective_gray"
 	item_state = "detective_gray"
 	blood_overlay_type = "coat"
@@ -271,14 +271,14 @@
 
 /obj/item/clothing/suit/storage/detective/brown
 	name = "Inspector's brown armored trenchcoat"
-	desc = "Brown and armored trenchcoat, designed and created by Aegis Security Solutions. The coat is externally impact resistant - perfect for your next act of autodefenestration!"
+	desc = "Brown and armored trenchcoat, designed and created by Ironhammer Security Solutions. The coat is externally impact resistant - perfect for your next act of autodefenestration!"
 	icon_state = "detective_brown" //Eclipse edit - fixed bad sprite path
 	item_state = "detective_brown" //Eclipse edit - fixed bad sprite path
 	blood_overlay_type = "coat"
 
 /obj/item/clothing/suit/storage/detective/black
 	name = "inspector's black armored trenchcoat"
-	desc = "Black armored trenchcoat, designed and created by Aegis Security Solutions. The coat is externally impact resistant - perfect for your next act of autodefenestration!"
+	desc = "Black armored trenchcoat, designed and created by Ironhammer Security Solutions. The coat is externally impact resistant - perfect for your next act of autodefenestration!"
 	icon_state = "detective_black"
 	item_state = "detective_black"
 
@@ -304,7 +304,7 @@
 
 //Technomancer Exultant
 /obj/item/clothing/suit/storage/te_coat
-	name = "chief engineer coat"
+	name = "technomancer exultant coat"
 	desc = "A sturdy and proud crimson coat. Lightly armored, with some protection against radiation."
 	icon_state = "te_coat"
 	item_state = "te_coat"

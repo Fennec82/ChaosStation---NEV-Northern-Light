@@ -28,7 +28,7 @@
 
 /obj/item/clothing/shoes/jackboots/ironhammer
 	icon_state = "jackboots_ironhammer"
-	desc = "Standard-issue Aegis combat boots for combat scenarios or combat situations. All combat, all the time."
+	desc = "Standard-issue Ironhammer combat boots for combat scenarios or combat situations. All combat, all the time."
 
 /obj/item/clothing/shoes/jackboots/german
 	name = "Oberth Republic boots"
@@ -37,7 +37,7 @@
 
 /obj/item/clothing/shoes/jackboots/neotheology
 	name = "custodian's jackboots"
-	desc = "Specially altered jackboots for Mekhane custodians to prevent them from slipping."
+	desc = "Specially altered jackboots for Neotheology custodians to prevent them from slipping."
 	icon_state = "jackboots"
 	item_state = "jackboots"
 	force = WEAPON_FORCE_HARMLESS

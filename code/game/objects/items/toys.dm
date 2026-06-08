@@ -500,7 +500,7 @@
 
 /obj/item/toy/figure/acolyte
 	name = "acolyte figurine"
-	desc = "Church of Mekhane \"New Faith Life\" brand figurine of an acolyte, hooded both physically and spiritually from that which would lead them astray."
+	desc = "Church of Neotheology \"New Faith Life\" brand figurine of an acolyte, hooded both physically and spiritually from that which would lead them astray."
 	icon_state = "acolyte"
 
 /obj/item/toy/figure/carrion
@@ -518,7 +518,7 @@
 /obj/item/toy/figure/vagabond
 	name = "vagabond figurine"
 	desc = "A \"Space Life\" brand figurine showcasing the form of a random deplorable, wearing one of the ship's uniforms, and an orange bandana. \
-	Must have been custom-made to commemorate the Northern Light's doomed voyage."
+	Must have been custom-made to commemorate the Eris's doomed voyage."
 	icon_state = "vagabond"
 
 /obj/item/toy/figure/rooster

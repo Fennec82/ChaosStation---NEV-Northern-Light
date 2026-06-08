@@ -113,7 +113,7 @@
 
 
 /*********************************
-Advanced Voidsuit: Chief Engineer
+Advanced Voidsuit: Technomancer Exultant
 **********************************/
 /obj/item/rig/ce
 	name = "advanced voidsuit control module"

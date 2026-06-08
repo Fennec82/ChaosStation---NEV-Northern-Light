@@ -20,19 +20,19 @@
 	icon_state = "stamp-hop"
 
 /obj/item/stamp/hos
-	name = "aegis commander's rubber stamp"
+	name = "ironhammer commander's rubber stamp"
 	icon_state = "stamp-hos"
 
 /obj/item/stamp/ce
-	name = "chief engineer's rubber stamp"
+	name = "technomancer exultant's rubber stamp"
 	icon_state = "stamp-ce"
 
 /obj/item/stamp/rd
-	name = "chief science officer's rubber stamp"
+	name = "moebius expedition overseer's rubber stamp"
 	icon_state = "stamp-rd"
 
 /obj/item/stamp/cmo
-	name = "chief medical officer's rubber stamp"
+	name = "moebius biolab officer's rubber stamp"
 	icon_state = "stamp-cmo"
 
 /obj/item/stamp/denied
@@ -44,7 +44,7 @@
 	icon_state = "stamp-clown"
 
 /obj/item/stamp/qm
-	name = "union merchant's stamp"
+	name = "guild merchant's stamp"
 	icon_state = "stamp-qm"
 
 /obj/item/stamp/gs
