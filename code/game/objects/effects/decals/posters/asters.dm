@@ -6,7 +6,7 @@
 
 /datum/poster/asters/blurb
 	name = "The Merchant's Promise" //Eclipse Edit - Lore compliance
-	desc = "A poster labeling the good will and intentions of The Trade Guild under SolGov principles of free will and enterprise." //Eclipse Edit - Lore compliance
+	desc = "A poster labeling the good will and intentions of The Trade Guild under Solarian principles of free will and enterprise." //Eclipse Edit - Lore compliance
 	icon_state = "asters_blurb"
 
 /datum/poster/asters/social_pyramid
@@ -16,7 +16,7 @@
 
 /datum/poster/asters/cev_eris
 	name = "CEV Eris" //Eclipse Edit - Lore compliance
-	desc = "A poster celebrating the maiden voyage of the NanoTrasen Exploration Vessel \"Eris\"." //Eclipse Edit - Lore compliance
+	desc = "A poster celebrating the maiden voyage of the Exploration Vessel \"CEV Eris\"." //Eclipse Edit - Lore compliance
 	icon_state = "asters_cev_eris"
 
 /datum/poster/asters/rock_and_stone

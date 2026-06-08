@@ -526,7 +526,7 @@
 /obj/structure/sign/faction/ironhammer
 	name = "Ironhammer Security"
 	desc = "This sign depicts the symbol of Ironhammer Security, the largest security provider within SolGov Space."
-	icon_state = "ironhammer"
+	icon_state = "ironhammer_old"
 
 /obj/structure/sign/faction/one_star
 	name = "One Star Banner"
@@ -549,14 +549,14 @@
 	icon_state = "frozenstar"
 
 /obj/structure/sign/faction/moebius
-	name = "Lazarus Laboratories"
-	desc = "A shady megacorporation that has a stake in the Eris's expedition. "
-	icon_state = "moebius"
+	name = "Moebius Laboratories"
+	desc = "Shady pharmaceutical and prosthetic manufacturer. Few outsiders know what happens behind the doors of their labs, and whoever knows does not live a long life. "
+	icon_state = "moebius_old"
 
 /obj/structure/sign/faction/moebius_alt
-	name = "Lazarus Laboratories Sign"
-//	desc = "Shady pharmaceutical and prosthetic manufacturer. Few outsiders know what happens behind the doors of their labs, and whoever knows does not live a long life. The sign is emblazoned with the slogan, new minds new horizons"
-	desc = "A shady megacorporation that has a stake in the Eris's expedition."
+	name = "Moebius Laboratories Sign"
+	desc = "Shady pharmaceutical and prosthetic manufacturer. Few outsiders know what happens behind the doors of their labs, and whoever knows does not live a long life. The sign is emblazoned with the slogan, new minds new horizons"
+//	desc = "A shady megacorporation that has a stake in the Eris's expedition."
 	icon_state = "moebius_alt"
 
 /obj/structure/sign/faction/neotheology
@@ -580,12 +580,12 @@
 /obj/structure/sign/faction/astersguild
 	name = "Aster's Guild"
 	desc = "The Aster's Guild - monopolists of far space transportation."
-	icon_state = "astersguild"
+	icon_state = "astersguild_old"
 
 /obj/structure/sign/faction/technomancers
-	name = "Engineering Department"
-	desc = "Oh, dear, Atmosia isn't declaring independence <i>again</i>, are they...?"
-	icon_state = "technomancers"
+	name = "Technomancer's League"
+	desc = "Technomancer League - anarchistic community ruled by powerful clans."
+	icon_state = "technomancers_old"
 
 /obj/structure/sign/faction/excelsior
 	name = "Excelsior"
